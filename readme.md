@@ -8,7 +8,7 @@ Kurssista järjestetään keväällä 2022 kolme rinnakkaista toteutusta, joille
 
 Kurssin oppitunnit järjestetään perjantaisin klo 12-15.45 MS Teamsissa. Etäopetuslinjausten mahdollisesti muuttuessa järjestämme myös lähiopetusta kampuksella.
 
-Linkki aloitustunnin kokoukseen löytyy kurssin Teams-ryhmästä, johon pääset liittymään itsenäisesti. Kirjaudu ennen kurssin ensimmäistä oppituntia Teamsiin Haaga-Helian käyttäjätunnuksellasi sekä koodilla, jonka löydät kurssin Moodle-sivulta.
+Linkki aloitustunnin kokoukseen löytyy kurssin Teams-ryhmästä, johon pääset liittymään itsenäisesti. Kirjaudu ennen kurssin ensimmäistä oppituntia Teamsiin Haaga-Helian käyttäjätunnuksellasi sekä koodilla, jonka löydät kurssin [Moodle-sivulta](https://hhmoodle.haaga-helia.fi/course/view.php?id=32028).
 
 
 ## Tärkeät linkit
