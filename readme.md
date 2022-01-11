@@ -148,3 +148,12 @@ Loppukoe
 
 # Arviointi
 
+Kurssin arvosana muodostuu viikkotehtävien ja kokeiden arvosanojen perusteella seuraavasti:
+
+* Viikkotehtävien painoarvo loppuarvosanassa on 50 %
+* Välikokeen painoarvo on 25 %
+* Loppukokeen painoarvo on 25 %
+
+Viikkotehtävien arviointi lasketaan siten, että 25 % tehtävistä oikeuttaa arvosanaan 1, kun taas 100 % tehtävistä oikeuttaa arvosanaan 5.
+
+Eri osasuoritusten arvosanat pyöristetään vasta loppuarvosanaa laskettaessa.
