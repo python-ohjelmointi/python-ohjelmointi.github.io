@@ -22,7 +22,7 @@ Linkki aloitustunnin kokoukseen löytyy kurssin Teams-ryhmästä, johon pääset
 # Aikataulu
 
 
-### 21.1.
+### 21.1. Ohjelmoinnin aloitus
 
 * Ohjelmoinnin aloittaminen
 * Tietoa käyttäjältä
@@ -30,7 +30,7 @@ Linkki aloitustunnin kokoukseen löytyy kurssin Teams-ryhmästä, johon pääset
 [Materiaalit](https://ohjelmointi-22.mooc.fi/osa-1)
 
 
-### 28.1.
+### 28.1. Muuttujat ja ehdot
 
 * Lisää muuttujista
 * Laskentaa luvuilla
@@ -39,7 +39,7 @@ Linkki aloitustunnin kokoukseen löytyy kurssin Teams-ryhmästä, johon pääset
 [Materiaalit](https://ohjelmointi-22.mooc.fi/osa-1)
 
 
-### 4.2.
+### 4.2. Terminologia, ehtolauseet
 
 * Ohjelmoinnin termejä
 * Lisää ehtolauseita
@@ -47,7 +47,7 @@ Linkki aloitustunnin kokoukseen löytyy kurssin Teams-ryhmästä, johon pääset
 [Materiaalit](https://ohjelmointi-22.mooc.fi/osa-2)
 
 
-### 11.2.
+### 11.2. Toistorakenteet
 
 * Ehtojen yhdistäminen
 * Yksinkertainen silmukka
@@ -55,7 +55,7 @@ Linkki aloitustunnin kokoukseen löytyy kurssin Teams-ryhmästä, johon pääset
 [Materiaalit](https://ohjelmointi-22.mooc.fi/osa-2)
 
 
-### 18.2.
+### 18.2. Merkkijonot
 
 * Ehdot silmukoissa
 * Merkkijonojen käsittely
@@ -63,12 +63,12 @@ Linkki aloitustunnin kokoukseen löytyy kurssin Teams-ryhmästä, johon pääset
 [Materiaalit](https://ohjelmointi-22.mooc.fi/osa-3)
 
 
-### 25.2. Talviloma
+### ~~25.2. Talviloma~~
 
 Talviloma, ei opetusta
 
 
-### 4.3.
+### 4.3. Toisto ja funktiot
 
 * Lisää silmukoista
 * Omat funktiot
@@ -76,7 +76,7 @@ Talviloma, ei opetusta
 [Materiaalit](https://ohjelmointi-22.mooc.fi/osa-3)
 
 
-### 11.3.
+### 11.3. Funktiot ja listat
 
 * Visual Studio Code -editori, Python-tulkki ja debuggeri
 * Lisää funktioista
@@ -85,7 +85,7 @@ Talviloma, ei opetusta
 [Materiaalit](https://ohjelmointi-22.mooc.fi/osa-4)
 
 
-### 18.3.
+### 18.3. Listojen läpikäynti
 
 * Silmukat ja iterointi
 * Tulostuksen muotoilu
@@ -94,16 +94,17 @@ Talviloma, ei opetusta
 [Materiaalit](https://ohjelmointi-22.mooc.fi/osa-4)
 
 
-### 25.3. Intensiiviviikko
+### 25.3. ~~Intensiiviviikko~~
 
 Intensiiviviikko, ei opetusta
+
 
 ### 1.4. Välikoe
 
 Välikoe. Aprillipäivä.
 
 
-### 8.4.
+### 8.4. Listat ja viittaukset
 
 * Lisää listoista
 * Viittaukset
@@ -117,7 +118,7 @@ Välikoe. Aprillipäivä.
 Pitkäperjantai, ei opetusta
 
 
-### 22.4.
+### 22.4. Sanakirjat ja monikot
 
 * Sanakirja
 * Tuple
@@ -125,7 +126,7 @@ Pitkäperjantai, ei opetusta
 [Materiaalit](https://ohjelmointi-22.mooc.fi/osa-5)
 
 
-### 29.4.
+### 29.4. Tiedostot ja poikkeukset
 
 * Tiedostojen lukeminen
 * Tiedostojen kirjoittaminen
@@ -135,7 +136,7 @@ Pitkäperjantai, ei opetusta
 [Materiaalit](https://ohjelmointi-22.mooc.fi/osa-6)
 
 
-### 6.5.
+### 6.5. Soveltavat aiheet 1
 
 * Moduulit
 * Satunnaisuus
@@ -144,7 +145,7 @@ Pitkäperjantai, ei opetusta
 [Materiaalit](https://ohjelmointi-22.mooc.fi/osa-7)
 
 
-### 13.5.
+### 13.5. Soveltavat aiheet 2
 
 * Datan käsittely
 * Oman moduulin tekeminen
