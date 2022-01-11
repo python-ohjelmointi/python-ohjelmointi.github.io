@@ -24,43 +24,43 @@ Linkki aloitustunnin kokoukseen löytyy kurssin Teams-ryhmästä, johon pääset
 
 ### 21.1.
 
-[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-1)
-
 * Ohjelmoinnin aloittaminen
 * Tietoa käyttäjältä
 
+[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-1)
+
 
 ### 28.1.
-
-[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-1)
 
 * Lisää muuttujista
 * Laskentaa luvuilla
 * Ehtorakenne
 
+[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-1)
+
 
 ### 4.2.
-
-[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-2)
 
 * Ohjelmoinnin termejä
 * Lisää ehtolauseita
 
+[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-2)
+
 
 ### 11.2.
-
-[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-2)
 
 * Ehtojen yhdistäminen
 * Yksinkertainen silmukka
 
+[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-2)
+
 
 ### 18.2.
 
-[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-3)
-
 * Ehdot silmukoissa
 * Merkkijonojen käsittely
+
+[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-3)
 
 
 ### 25.2. Talviloma
@@ -70,39 +70,33 @@ Talviloma, ei opetusta
 
 ### 4.3.
 
-[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-3)
-
 * Lisää silmukoista
 * Omat funktiot
 
+[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-3)
+
 
 ### 11.3.
-
-[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-4)
 
 * Visual Studio Code -editori, Python-tulkki ja debuggeri
 * Lisää funktioista
 * Listat
 
+[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-4)
+
 
 ### 18.3.
-
-[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-4)
 
 * Silmukat ja iterointi
 * Tulostuksen muotoilu
 * Lisää merkkijonoista ja listoista
 
+[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-4)
+
 
 ### 25.3. Intensiiviviikko
 
 Intensiiviviikko, ei opetusta
-
-[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-5)
-
-* Lisää listoista
-* Viittaukset
-
 
 ### 1.4. Välikoe
 
@@ -111,10 +105,11 @@ Välikoe. Aprillipäivä.
 
 ### 8.4.
 
+* Lisää listoista
+* Viittaukset
+
 [Materiaalit](https://ohjelmointi-22.mooc.fi/osa-5)
 
-* Sanakirja
-* Tuple
 
 
 ### 15.4. Pitkäperjantai
@@ -124,36 +119,39 @@ Pitkäperjantai, ei opetusta
 
 ### 22.4.
 
-[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-6)
+* Sanakirja
+* Tuple
 
-* Tiedostojen lukeminen
-* Tiedostojen kirjoittaminen
+[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-5)
 
 
 ### 29.4.
 
-[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-6)
-
+* Tiedostojen lukeminen
+* Tiedostojen kirjoittaminen
 * Virhetilanteisiin varautuminen
 * Paikalliset ja globaalit muuttujat
 
+[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-6)
 
 
 ### 6.5.
-
-[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-7)
 
 * Moduulit
 * Satunnaisuus
 * Aikojen käsittely
 
-### 13.5.
-
 [Materiaalit](https://ohjelmointi-22.mooc.fi/osa-7)
+
+
+### 13.5.
 
 * Datan käsittely
 * Oman moduulin tekeminen
 * Lisää Pythonista
+
+[Materiaalit](https://ohjelmointi-22.mooc.fi/osa-7)
+
 
 ### 20.5. Loppukoe
 
