@@ -1,4 +1,4 @@
-# Python-ohjelmointi, ICT8TN035
+# Python-ohjelmointi
 
 Tämän kurssin opettajina toimivat Teemu Havulinna ja Kasper Valtakari (etunimi.sukunimi@haaga-helia.fi). 
 
