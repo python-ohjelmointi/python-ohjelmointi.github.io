@@ -21,9 +21,11 @@ Linkki aloitustunnin kokoukseen löytyy kurssin Teams-ryhmästä, johon pääset
 
 # Aikataulu
 
-
 ### 21.1. Ohjelmoinnin aloitus
 
+[Mooc.fi rekisteröityminen ja kurssille liittyminen.](kurssille-liittyminen.md)
+
+* Ohjelmistojen asennus
 * Ohjelmoinnin aloittaminen
 * Tietoa käyttäjältä
 * [Materiaalit](https://ohjelmointi-22.mooc.fi/osa-1)
@@ -103,8 +105,7 @@ Välikoe. Aprillipäivä.
 * [Materiaalit](https://ohjelmointi-22.mooc.fi/osa-5)
 
 
-
-### 15.4. Pitkäperjantai
+### 15.4. ~~Pitkäperjantai~~
 
 Pitkäperjantai, ei opetusta
 
