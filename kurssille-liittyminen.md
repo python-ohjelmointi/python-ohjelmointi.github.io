@@ -6,6 +6,6 @@ Kirjauduttuasi sisään verkkosivulle, siirry profiiliisi klikkaamalla oikean yl
 
 Rastita sen jälkeen ruutu "Suoritan muuta kurssia kuin mooc.fi:n kaikille avointa verkkokurssia tai Helsingin yliopiston kurssia" ja valitse pudotusvalikosta "Haaga-Helia: Python-ohjelmointi, kevät 2022":
 
-<img alt="Valitse Haaga-Helian kurssitoteutus" src="./img/kurssin-valinta.jpg" style="max-width: 400px" />
+<img alt="Valitse Haaga-Helian kurssitoteutus" src="./img/kurssin-valinta.jpg" style="max-width: 400px; margin: 1em auto; display: block;" />
 
 Muista myös tallentaa profiilisi muutokset sivun alaosan "Tallenna" painikkeella.
