@@ -28,7 +28,7 @@ Kurssin harjoitusympäristönä ja pääasiallisena materiaalina hyödynnetään
 
 Haaga-Helian kurssin suorittamiseksi ei riitä, että suoritat HY:n mooc-kurssin "oletusasetuksilla", vaan sinun tulee vaihtaa kurssitoteutukseksi mooc.fi:ssä juuri Haaga-Helian toteutus seuraavan ohjeen mukaisesti:
 
-[**Mooc.fi rekisteröityminen ja kurssille liittyminen.**](kurssille-liittyminen)
+[**Mooc.fi-rekisteröityminen ja Haaga-Helian toteutukselle liittyminen.**](kurssille-liittyminen)
 
 ## Tärkeät linkit
 
