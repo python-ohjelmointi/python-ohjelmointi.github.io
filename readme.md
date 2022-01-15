@@ -1,21 +1,25 @@
 # Python-ohjelmointi
 
-Tämän kurssin opettajina toimivat Teemu Havulinna ja Kasper Valtakari (etunimi.sukunimi@haaga-helia.fi). 
+Tämän kurssin opettajina toimivat Teemu Havulinna ja Kasper Valtakari (etunimi.sukunimi@haaga-helia.fi).
 
-Kurssista järjestetään keväällä 2022 kolme rinnakkaista toteutusta, joille on kaikille yhteiset järjestelyt ja oppitunnit. Erittäin suuresta ilmoittautujamäärästä johtuen osa "perinteiselle" toteutukselle ilmoittautuneista opiskelijoista on hallinnollisista syistä siirretty Pepissä virtuaalitoteutukselle. Kaikki ovat kuitenkin yhtä lailla tervetulleita osallistumaan oppitunneille tai opiskelemaan virtuaalisesti riippumatta siitä, mikä sattuu olemaan juuri teidän oman toteutuksenne toteutustapa.
+Kurssista järjestetään keväällä 2022 kolme rinnakkaista toteutusta, joille on kaikille yhteiset järjestelyt ja oppitunnit. Erittäin suuresta ilmoittautujamäärästä johtuen osa "perinteiselle" toteutukselle ilmoittautuneista opiskelijoista on hallinnollisista syistä siirretty Pepissä virtuaalitoteutukselle.
+
+Kaikki opiskelijat ovat yhtä lailla tervetulleita osallistumaan oppitunneille tai opiskelemaan virtuaalisesti riippumatta siitä, mikä sattuu olemaan juuri teidän oman toteutuksenne toteutustapa.
 
 ## MS Teams -ryhmä
 
-Kurssin oppitunnit järjestetään perjantaisin klo 12-15.45 MS Teamsissa. Etäopetuslinjausten mahdollisesti muuttuessa järjestämme myös lähiopetusta kampuksella.
+Kurssin oppitunnit järjestetään **perjantaisin klo 12-15.45 MS Teamsissa**. Etäopetuslinjausten mahdollisesti muuttuessa järjestämme myös lähiopetusta kampuksella.
 
 Linkki aloitustunnin kokoukseen löytyy kurssin Teams-ryhmästä, johon pääset liittymään itsenäisesti. Kirjaudu ennen kurssin ensimmäistä oppituntia Teamsiin Haaga-Helian käyttäjätunnuksellasi sekä koodilla, jonka löydät kurssin [Moodle-sivulta](https://hhmoodle.haaga-helia.fi/course/view.php?id=32028).
 
 
 ## Kurssin osallistumisen vahvistaminen
 
-Kurssin osallistumisen vahvistaminen edellyttää kurssin järjestelmiin liittymistä ja ensimmäisten ohjelmointitehtävien suorittamista ensimmäisten kahden viikon kuluessa. Tehtäviin on saatavissa vinkkejä ja tukea kurssin Teams-kanavalla sekä oppitunneilla.
+Kurssin osallistumisen vahvistaminen edellyttää kurssin järjestelmiin* liittymistä ja ensimmäisten ohjelmointitehtävien suorittamista ensimmäisten kahden viikon kuluessa. Tehtäviin on saatavissa vinkkejä ja tukea kurssin Teams-kanavalla sekä oppitunneilla.
 
 Menettelyn ei ole tarkoitus karsia ketään pois kurssilta, vaan varmistaa, että työskentely kurssin parissa lähtee kaikilla hyvin käyntiin.
+
+<small>* Teams ja ohjelmointi-22.mooc.fi</small>
 
 
 ## Helsingin yliopiston mooc
