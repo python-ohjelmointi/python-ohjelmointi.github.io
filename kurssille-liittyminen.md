@@ -1,4 +1,4 @@
-# Mooc.fi rekisteröityminen
+# Mooc.fi-rekisteröityminen
 
 Kurssin harjoitusten suorittamiseksi sinun tulee rekisteröityä Helsingin yliopiston MOOC-kurssille osoitteessa [https://ohjelmointi-22.mooc.fi/](https://ohjelmointi-22.mooc.fi/). Sen lisäksi sinun tulee valita profiilisi asetuksista Haaga-Helian kurssi, jotta saat ratkaisemistasi tehtävistä pisteet.
 
