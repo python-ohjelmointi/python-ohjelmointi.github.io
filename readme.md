@@ -11,6 +11,13 @@ Kurssin oppitunnit järjestetään perjantaisin klo 12-15.45 MS Teamsissa. Etäo
 Linkki aloitustunnin kokoukseen löytyy kurssin Teams-ryhmästä, johon pääset liittymään itsenäisesti. Kirjaudu ennen kurssin ensimmäistä oppituntia Teamsiin Haaga-Helian käyttäjätunnuksellasi sekä koodilla, jonka löydät kurssin [Moodle-sivulta](https://hhmoodle.haaga-helia.fi/course/view.php?id=32028).
 
 
+## Kurssin osallistumisen vahvistaminen
+
+Kurssin osallistumisen vahvistaminen edellyttää kurssin järjestelmiin liittymistä ja ensimmäisten ohjelmointitehtävien suorittamista ensimmäisten kahden viikon kuluessa. Tehtäviin on saatavissa vinkkejä ja tukea kurssin Teams-kanavalla sekä oppitunneilla.
+
+Menettelyn ei ole tarkoitus karsia ketään pois kurssilta, vaan varmistaa, että työskentely kurssin parissa lähtee kaikilla hyvin käyntiin.
+
+
 ## Helsingin yliopiston mooc
 
 Kurssin harjoitusympäristönä ja pääasiallisena materiaalina hyödynnetään Helsingin yliopiston avoimesti lisensoitua ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-22.mooc.fi/](https://ohjelmointi-22.mooc.fi/). 
