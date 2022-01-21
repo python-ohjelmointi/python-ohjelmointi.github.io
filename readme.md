@@ -15,7 +15,7 @@ Linkki aloitustunnin kokoukseen löytyy kurssin Teams-ryhmästä, johon pääset
 
 ## Kurssin osallistumisen vahvistaminen
 
-Kurssin osallistumisen vahvistaminen edellyttää kurssin järjestelmiin* liittymistä ja ensimmäisten ohjelmointitehtävien suorittamista ensimmäisten kahden viikon kuluessa. Tehtäviin on saatavissa vinkkejä ja tukea kurssin Teams-kanavalla sekä oppitunneilla.
+Kurssin osallistumisen vahvistaminen edellyttää kurssin järjestelmiin* liittymistä ja ohjelmointitehtävien suorittamista aktiivisesti ensimmäisten kahden viikon aikana. Tehtäviin on saatavissa vinkkejä ja tukea kurssin Teams-kanavalla sekä oppitunneilla.
 
 Menettelyn ei ole tarkoitus karsia ketään pois kurssilta, vaan varmistaa, että työskentely kurssin parissa lähtee kaikilla hyvin käyntiin.
 
@@ -24,7 +24,7 @@ Menettelyn ei ole tarkoitus karsia ketään pois kurssilta, vaan varmistaa, ett�
 
 ## Helsingin yliopiston mooc
 
-Kurssin harjoitusympäristönä ja pääasiallisena materiaalina hyödynnetään Helsingin yliopiston avoimesti lisensoitua ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-22.mooc.fi/](https://ohjelmointi-22.mooc.fi/). 
+Kurssin harjoitusympäristönä ja pääasiallisena materiaalina hyödynnetään Helsingin yliopiston avoimesti lisensoitua ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-22.mooc.fi/](https://ohjelmointi-22.mooc.fi/).
 
 Haaga-Helian kurssin suorittamiseksi ei riitä, että suoritat HY:n mooc-kurssin "oletusasetuksilla", vaan sinun tulee vaihtaa kurssitoteutukseksi mooc.fi:ssä juuri Haaga-Helian toteutus seuraavan ohjeen mukaisesti:
 
@@ -35,8 +35,8 @@ Haaga-Helian kurssin suorittamiseksi ei riitä, että suoritat HY:n mooc-kurssin
 * [Opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/ICT8TN035)
 * [Materiaalit ja tehtävät (https://ohjelmointi-22.mooc.fi/)](https://ohjelmointi-22.mooc.fi/)
 * [Python 3 - ohjelmointiopas (v. 1.2.1)](https://lutpub.lut.fi/bitstream/handle/10024/162088/Vanhala2020-Python3Ohjelmointiopas.pdf?sequence=1&isAllowed=y)
-* [HY:n Discord](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc)
-
+* [HY:n Discordiin liittyminen](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc)
+* [The Python Tutorial](https://docs.python.org/3.10/tutorial/)
 
 # Aikataulu
 
