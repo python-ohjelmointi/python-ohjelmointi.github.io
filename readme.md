@@ -218,6 +218,6 @@ for pisteet in range(0, 101):
     arvosana = round(laske_arvosana(pisteet))
     tilasto[arvosana] += [pisteet]
 
-for arvosana, pisteet in tilasto.items():
-    print(f'{min(pisteet):2} - {max(pisteet):3} %: {arvosana}')
+for arvosana, pistelista in tilasto.items():
+    print(f'{min(pistelista):2} - {max(pistelista):3} %: {arvosana}')
 ```
