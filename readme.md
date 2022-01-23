@@ -182,7 +182,7 @@ Arvosana on laskettavissa seuraavalla funktiolla:
 minimi = 25     # 25 %
 maksimi = 100   # 100 %
 
-def laske_arvosana(pisteet: int) -> int:
+def laske_arvosana(pisteet: int) -> float:
     if pisteet >= minimi:
         return 1 + 4 * (pisteet - minimi) / (maksimi - minimi)
     else:
