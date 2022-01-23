@@ -222,3 +222,5 @@ for pisteet in range(0, 101):
 for arvosana, pistelista in tilasto.items():
     print(f'{min(pistelista):2} - {max(pistelista):3} %: {arvosana}')
 ```
+
+<script src="scripts.js"></script>
