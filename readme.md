@@ -40,6 +40,11 @@ Haaga-Helian kurssin suorittamiseksi ei riitä, että suoritat HY:n mooc-kurssin
 
 # Aikataulu
 
+Kurssin tehtävillä ei ole yksittäisiä määräaikoja. Kurssin arvioinnissa huomioidaan ne pisteet, jotka on kertynyt tehtävistä kurssin loppukokeeseen mennessä. Loppukokeen jälkeen tehtäviä voi edelleen ratkoa, mutta ne eivät vaikuta arviointiin.
+
+Suosittelemme seuraamaan tehtävien osalta kurssin aikataulua, eli tekemään aina sen osan tehtäviä, jota käsitellään oppitunnilla. Helsingin yliopiston opintojakson etenemisvauhti on huomattavasti meidän vauhtiamme nopeampi ja voit myös edetä heidän tahdissaan.
+
+
 ### 21.1. Ohjelmoinnin aloitus (mooc.fi osa 1)
 
 * Ohjelmistojen asennus
