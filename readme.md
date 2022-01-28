@@ -228,4 +228,9 @@ for arvosana, pistelista in tilasto.items():
     print(f'{min(pistelista):2} - {max(pistelista):3} %: {arvosana}')
 ```
 
+
+-----
+
+[Ehdota muutosta tälle sivulle.](https://github.com/python-ohjelmointi/python-ohjelmointi.github.io/)
+
 <script src="scripts.js"></script>
