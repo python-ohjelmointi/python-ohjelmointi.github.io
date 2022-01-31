@@ -42,8 +42,11 @@ Haaga-Helian kurssin suorittamiseksi ei riitä, että suoritat HY:n mooc-kurssin
 
 Kurssin tehtävillä ei ole yksittäisiä määräaikoja. Kurssin arvioinnissa huomioidaan ne pisteet, jotka on kertynyt tehtävistä kurssin loppukokeeseen mennessä. Loppukokeen jälkeen tehtäviä voi edelleen ratkoa, mutta ne eivät vaikuta arviointiin.
 
-Suosittelemme seuraamaan tehtävien osalta kurssin aikataulua, eli tekemään aina sen osan tehtäviä, jota käsitellään oppitunnilla. Helsingin yliopiston opintojakson etenemisvauhti on huomattavasti meidän vauhtiamme nopeampi ja voit myös edetä heidän tahdissaan.
+Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli tekemään aina sen osan tehtäviä, jota käsitellään oppitunnilla. Helsingin yliopiston opintojakson etenemisvauhti on huomattavasti meidän vauhtiamme nopeampi ja voit myös edetä heidän tahdissaan.
 
+**Oppituntien tallenteet**
+
+Oppituntien tallenteet löytyvät Teamsista sekä [kurssin OneDrive-kansiosta](https://haagahelia.sharepoint.com/:f:/r/teams/Python-ohjelmointi/Shared%20Documents/General/Recordings?csf=1&web=1&e=J6kP7Y).
 
 ### 21.1. Ohjelmoinnin aloitus (mooc.fi osa 1)
 
@@ -60,6 +63,7 @@ Suosittelemme seuraamaan tehtävien osalta kurssin aikataulua, eli tekemään ai
 * Laskentaa luvuilla
 * Ehtorakenne
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-1)
+* [Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
 
 
 ### 4.2. Terminologia, ehtolauseet (mooc.fi osa 2)
