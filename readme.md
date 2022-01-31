@@ -54,7 +54,7 @@ Oppituntien tallenteet löytyvät Teamsista sekä [kurssin OneDrive-kansiosta](h
 * Ohjelmoinnin aloittaminen
 * Tietoa käyttäjältä
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-1)
-* [Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
 
 
 ### 28.1. Muuttujat ja ehdot (mooc.fi osa 1)
@@ -63,7 +63,7 @@ Oppituntien tallenteet löytyvät Teamsista sekä [kurssin OneDrive-kansiosta](h
 * Laskentaa luvuilla
 * Ehtorakenne
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-1)
-* [Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
 
 
 ### 4.2. Terminologia, ehtolauseet (mooc.fi osa 2)
