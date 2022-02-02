@@ -6,6 +6,7 @@ Kurssista järjestetään keväällä 2022 kolme rinnakkaista toteutusta, joille
 
 Kaikki opiskelijat ovat yhtä lailla tervetulleita osallistumaan oppitunneille tai opiskelemaan virtuaalisesti riippumatta siitä, mikä sattuu olemaan juuri teidän oman toteutuksenne toteutustapa.
 
+
 ## MS Teams -ryhmä
 
 Kurssin oppitunnit järjestetään **perjantaisin klo 12-15.45 MS Teamsissa**. Etäopetuslinjausten mahdollisesti muuttuessa järjestämme myös lähiopetusta kampuksella.
@@ -31,13 +32,26 @@ Haaga-Helian kurssin suorittamiseksi sinun tulee vaihtaa kurssitoteutukseksi moo
 [**Mooc.fi-rekisteröityminen ja Haaga-Helian toteutukselle liittyminen.**](kurssille-liittyminen)
 
 
+
 ## Tärkeät linkit
 
+**Haaga-Helia.fi**
+
 * [Opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/ICT8TN035)
+
+**Mooc.fi**
+
 * [Materiaalit ja tehtävät (https://ohjelmointi-22.mooc.fi/)](https://ohjelmointi-22.mooc.fi/)
-* [Python 3 - ohjelmointiopas (v. 1.2.1)](https://lutpub.lut.fi/bitstream/handle/10024/162088/Vanhala2020-Python3Ohjelmointiopas.pdf?sequence=1&isAllowed=y)
 * [HY:n Discordiin liittyminen](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc)
+* [TestMyCode -laajennuksen asentaminen VS Codeen](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen)
+* [TMC-laajennuksen käyttäminen](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen)
+
+**Python ja VS Code**
+
+* [Python 3 - ohjelmointiopas (v. 1.2.1)](https://lutpub.lut.fi/bitstream/handle/10024/162088/Vanhala2020-Python3Ohjelmointiopas.pdf?sequence=1&isAllowed=y)
 * [The Python Tutorial](https://docs.python.org/3.10/tutorial/)
+* [Visual Studio Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
+
 
 # Aikataulu
 
