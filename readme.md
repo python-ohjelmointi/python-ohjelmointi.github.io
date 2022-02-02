@@ -111,6 +111,7 @@ Talviloma, ei opetusta
 
 * Lisää silmukoista
 * Omat funktiot
+* `if __name__ == "__main__":`
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-3)
 
 
