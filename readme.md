@@ -116,9 +116,9 @@ Talviloma, ei opetusta
 
 ### 11.3. Funktiot ja listat (mooc.fi osa 4)
 
-> Osasta 4 alkaen tehtävät palautetaan VS Code:n TMC-laajennuksen avulla, eikä tehtäviä voi palauttaa enää verkkoselaimen kautta.
->
-> Katso Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen) sekä ["ohjelmoinnin aloittaminen"](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen).
+**Osasta 4 alkaen tehtävät palautetaan VS Code:n TMC-laajennuksen avulla, eikä tehtäviä voi palauttaa enää verkkoselaimen kautta.**
+
+Katso Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen) sekä ["ohjelmoinnin aloittaminen"](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen).
 
 * Visual Studio Code -editori, Python-tulkki ja debuggeri
 * Lisää funktioista
@@ -254,6 +254,6 @@ for arvosana, pistelista in tilasto.items():
 
 -----
 
-[Ehdota muutosta tälle sivulle.](https://github.com/python-ohjelmointi/python-ohjelmointi.github.io/)
+<small><a href="https://github.com/python-ohjelmointi/python-ohjelmointi.github.io/">Ehdota muutosta tälle sivulle.</a></small>
 
 <script src="scripts.js"></script>
