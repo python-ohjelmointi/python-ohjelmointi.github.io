@@ -24,11 +24,12 @@ Menettelyn ei ole tarkoitus karsia ketään pois kurssilta, vaan varmistaa, ett�
 
 ## Helsingin yliopiston mooc
 
-Kurssin harjoitusympäristönä ja pääasiallisena materiaalina hyödynnetään Helsingin yliopiston avoimesti lisensoitua ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-22.mooc.fi/](https://ohjelmointi-22.mooc.fi/).
+Kurssin harjoitusympäristönä ja pääasiallisena materiaalina hyödynnetään Helsingin yliopiston avoimesti lisensoitua ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-22.mooc.fi/](https://ohjelmointi-22.mooc.fi/) (osat 1-7). Suoritamme mooc.fi:ssä ohjelmoinnin perusteet -osiota, emmekä etene ohjelmoinnin jatkokurssille.
 
-Haaga-Helian kurssin suorittamiseksi ei riitä, että suoritat HY:n mooc-kurssin "oletusasetuksilla", vaan sinun tulee vaihtaa kurssitoteutukseksi mooc.fi:ssä juuri Haaga-Helian toteutus seuraavan ohjeen mukaisesti:
+Haaga-Helian kurssin suorittamiseksi sinun tulee vaihtaa kurssitoteutukseksi mooc.fi:ssä juuri Haaga-Helian toteutus seuraavan ohjeen mukaisesti:
 
 [**Mooc.fi-rekisteröityminen ja Haaga-Helian toteutukselle liittyminen.**](kurssille-liittyminen)
+
 
 ## Tärkeät linkit
 
@@ -101,6 +102,10 @@ Talviloma, ei opetusta
 
 ### 11.3. Funktiot ja listat (mooc.fi osa 4)
 
+> Osasta 4 alkaen tehtävät palautetaan VS Code:n TMC-laajennuksen avulla, eikä tehtäviä voi palauttaa enää verkkoselaimen kautta.
+>
+> Katso Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen) sekä ["ohjelmoinnin aloittaminen"](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen).
+
 * Visual Studio Code -editori, Python-tulkki ja debuggeri
 * Lisää funktioista
 * Listat
@@ -136,7 +141,7 @@ Välikoe. Aprillipäivä.
 
 ### 15.4. **Pitkäperjantai**  (mooc.fi osa 5)
 
-**Pitkäperjantai**, eli ei oppituntia. Itsenäistä työskentelyä + ohjausta Teamsissa ja Discordissa.
+**Pitkäperjantai**, eli ei oppituntia. Ohjausta on saatavilla Teamsissa ja Discordissa normaalisti perjantaita lukuun ottamatta.
 
 
 ### 22.4. Sanakirjat ja monikot (mooc.fi osa 6)
