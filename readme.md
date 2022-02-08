@@ -1,4 +1,4 @@
-# Python-ohjelmointi
+# Python-ohjelmointi (ICT8TN035)
 
 Tämän kurssin opettajina toimivat Teemu Havulinna ja Kasper Valtakari (etunimi.sukunimi@haaga-helia.fi).
 
@@ -12,6 +12,13 @@ Kaikki opiskelijat ovat yhtä lailla tervetulleita osallistumaan oppitunneille t
 Kurssin oppitunnit järjestetään **perjantaisin klo 12-15.45 MS Teamsissa**. Etäopetuslinjausten mahdollisesti muuttuessa järjestämme myös lähiopetusta kampuksella.
 
 Linkki aloitustunnin kokoukseen löytyy kurssin Teams-ryhmästä, johon pääset liittymään itsenäisesti. Kirjaudu ennen kurssin ensimmäistä oppituntia Teamsiin Haaga-Helian käyttäjätunnuksellasi sekä koodilla, jonka löydät kurssin [Moodle-sivulta](https://hhmoodle.haaga-helia.fi/course/view.php?id=32028).
+
+
+## Ohjaus- ja tukikanavat
+
+Kurssin tukikanavina käytämme omaa MS Teams -ryhmäämme ja [HY:n Discord-kanavia](https://ohjelmointi-22.mooc.fi/#tukivaylat). Discordissa on saatavissa reaaliaikaista apua jokaisena arkipäivänä [tämän aikataulun mukaisesti](https://ohjelmointi-22.mooc.fi/tuki#ohjausajat-discordissa).
+
+Kurssin suuresta osallistuja- ja tehtävämäärästä johtuen emme tarjoa ohjausta yksittäisiin tehtäviin sähköpostitse. Et kuitenkaan jää tehtävien kanssa yksin, kun käytät edellä mainittuja Teams- ja Discord-kanavia.
 
 
 ## Kurssin osallistumisen vahvistaminen
@@ -117,7 +124,7 @@ Talviloma, ei opetusta
 
 ### 11.3. Funktiot ja listat (mooc.fi osa 4)
 
-**Osasta 4 alkaen tehtävät palautetaan VS Code:n TMC-laajennuksen avulla, eikä tehtäviä voi palauttaa enää verkkoselaimen kautta.**
+📢 **Osasta 4 alkaen tehtävät palautetaan VS Code:n TMC-laajennuksen avulla, eikä tehtäviä voi palauttaa enää verkkoselaimen kautta.**
 
 Katso Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen) sekä ["ohjelmoinnin aloittaminen"](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen).
 
