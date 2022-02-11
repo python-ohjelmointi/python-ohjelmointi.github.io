@@ -1,4 +1,4 @@
-# Python-ohjelmointi
+<h1 class="js-toc-ignore">Python-ohjelmointi</h1>
 
 Tämän kurssin opettajina toimivat Teemu Havulinna ja Kasper Valtakari (etunimi.sukunimi@haaga-helia.fi).
 
@@ -6,6 +6,9 @@ Kurssista järjestetään keväällä 2022 kolme rinnakkaista toteutusta, joille
 
 Kaikki opiskelijat ovat yhtä lailla tervetulleita osallistumaan oppitunneille tai opiskelemaan virtuaalisesti riippumatta siitä, mikä sattuu olemaan juuri teidän oman toteutuksenne toteutustapa.
 
+**Tällä sivulla:**
+
+<div class="js-toc"></div>
 
 ## MS Teams -ryhmä
 
@@ -274,4 +277,6 @@ for arvosana, pistelista in tilasto.items():
 
 <small><a href="https://github.com/python-ohjelmointi/python-ohjelmointi.github.io/">Ehdota muutosta tälle sivulle.</a></small>
 
-<script src="scripts.js"></script>
+<script src="/scripts.js"></script>
+<script src="/tocbot/tocbot.min.js"></script>
+<link rel="stylesheet" href="/tocbot/tocbot.css" />
