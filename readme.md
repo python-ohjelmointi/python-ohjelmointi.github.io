@@ -10,21 +10,21 @@ Kaikki opiskelijat ovat yhtä lailla tervetulleita osallistumaan oppitunneille t
 
 <div class="js-toc"></div>
 
-## MS Teams -ryhmä
+## 📣 MS Teams -ryhmä
 
 Kurssin oppitunnit järjestetään **perjantaisin klo 12-15.45 MS Teamsissa**. Etäopetuslinjausten mahdollisesti muuttuessa järjestämme myös lähiopetusta kampuksella.
 
 Linkki aloitustunnin kokoukseen löytyy kurssin Teams-ryhmästä, johon pääset liittymään itsenäisesti. Kirjaudu ennen kurssin ensimmäistä oppituntia Teamsiin Haaga-Helian käyttäjätunnuksellasi sekä koodilla, jonka löydät kurssin [Moodle-sivulta](https://hhmoodle.haaga-helia.fi/course/view.php?id=32028).
 
 
-## Ohjaus- ja tukikanavat
+## 💬 Ohjaus- ja tukikanavat
 
 Kurssin tukikanavina käytämme omaa MS Teams -ryhmäämme ja [HY:n Discord-kanavia](https://ohjelmointi-22.mooc.fi/#tukivaylat). Discordissa on saatavissa reaaliaikaista apua jokaisena arkipäivänä [tämän aikataulun mukaisesti](https://ohjelmointi-22.mooc.fi/tuki#ohjausajat-discordissa).
 
 Kurssin suuresta osallistuja- ja tehtävämäärästä johtuen emme tarjoa ohjausta yksittäisiin tehtäviin sähköpostitse. Et kuitenkaan jää tehtävien kanssa yksin, kun käytät edellä mainittuja Teams- ja Discord-kanavia.
 
 
-## Kurssin osallistumisen vahvistaminen
+## ✔️ Kurssin osallistumisen vahvistaminen
 
 Kurssin osallistumisen vahvistaminen edellyttää kurssin järjestelmiin\* liittymistä ja ohjelmointitehtävien suorittamista aktiivisesti ensimmäisten kahden viikon aikana. Tehtäviin on saatavissa vinkkejä ja tukea kurssin Teams-kanavalla sekä oppitunneilla.
 
@@ -33,23 +33,29 @@ Menettelyn ei ole tarkoitus karsia ketään pois kurssilta, vaan varmistaa, ett�
 <small>* Teams ja ohjelmointi-22.mooc.fi</small>
 
 
-## Helsingin yliopiston mooc
+## 👨‍🏫 Helsingin yliopiston mooc
 
-Kurssin harjoitusympäristönä ja pääasiallisena materiaalina hyödynnetään Helsingin yliopiston avoimesti lisensoitua ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-22.mooc.fi/](https://ohjelmointi-22.mooc.fi/) (osat 1-7). Suoritamme mooc.fi:ssä ohjelmoinnin perusteet -osiota, emmekä etene ohjelmoinnin jatkokurssille.
+Kurssin harjoitusympäristönä ja pääasiallisena materiaalina hyödynnetään Helsingin yliopiston ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-22.mooc.fi/](https://ohjelmointi-22.mooc.fi/). Suoritamme mooc.fi:ssä ohjelmoinnin perusteet -osiota (osat 1-7), emmekä etene ohjelmoinnin jatkokurssille.
 
 Haaga-Helian kurssin suorittamiseksi sinun tulee vaihtaa kurssitoteutukseksi mooc.fi:ssä juuri Haaga-Helian toteutus seuraavan ohjeen mukaisesti:
 
 [**Mooc.fi-rekisteröityminen ja Haaga-Helian toteutukselle liittyminen.**](kurssille-liittyminen)
 
 
-## Kurssin tehtävät
+## 📝 Kurssin tehtävät
 
-Tämän kurssin tehtävät koostuvat [HY:n mooc-kurssin](https://ohjelmointi-22.mooc.fi/) osien 1-7 **ohjelmointitehtävistä**.
+Tämän kurssin tehtävät koostuvat [Helsingin yliopiston ohjelmoinnin peruskurssin](https://ohjelmointi-22.mooc.fi/) osien 1-7 _**ohjelmointitehtävistä**_.
 
-Kyselyt ja kertauskyselyt liittyvät Mooc-kurssilla tehtäviin tutkimuksiin. Kyselyihin antamanne vastaukset ja niistä saadut pisteet eivät tallennu samaan järjestelmään ohjelmointitehtävien kanssa, joten emme pysty huomioimaan niitä tällä kurssilla.
+Kyselyihin ja kertauskyselyihin antamanne vastaukset ja niistä saamanne pisteet eivät tallennu samaan järjestelmään ohjelmointitehtävien kanssa, eikä niitä huomioida kurssin arvioinnissa.
+
+**Kevään 2022 pistekorjaus**
+
+Kyselyiden pisteiden puuttuminen tuli kevään 2022 toteutuksella ilmi vasta kurssin käynnistyttyä, joten hyväksiluemme kaikille osallistujille automaattisesti täydet pisteet osien 1 ja 2 kyselyistä kurssin loppuarvioinnissa. Käytännössä siis kurssin maksimipistemäärä sekä kaikkien henkilökohtaiset tulokset nousevat 11 pisteellä.
+
+Kurssin myöhempien osien kyselyillä ei ole merkitystä kurssin arviointiin, mutta suosittelemme myös niihin vastaamista niin tutkimusaineiston kuin myös oman osaamisen kartuttamiseksi.
 
 
-## Tärkeät linkit
+## 🔗 Tärkeät linkit
 
 **Haaga-Helia.fi**
 
@@ -69,15 +75,17 @@ Kyselyt ja kertauskyselyt liittyvät Mooc-kurssilla tehtäviin tutkimuksiin. Kys
 * [Visual Studio Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
 
+## 🎬 Oppituntien tallenteet
+
+Oppituntien tallenteet löytyvät Teamsista sekä [kurssin OneDrive-kansiosta](https://haagahelia.sharepoint.com/:f:/r/teams/Python-ohjelmointi/Shared%20Documents/General/Recordings?csf=1&web=1&e=J6kP7Y).
+
+
 ## 📅 Aikataulu
 
 Kurssin tehtävillä ei ole yksittäisiä määräaikoja. Kurssin arvioinnissa huomioidaan ne pisteet, jotka on kertynyt tehtävistä kurssin loppukokeeseen mennessä. Loppukokeen jälkeen tehtäviä voi edelleen ratkoa, mutta ne eivät vaikuta arviointiin.
 
 Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli tekemään aina sen osan tehtäviä, jota käsitellään oppitunnilla. Helsingin yliopiston opintojakson etenemisvauhti on huomattavasti meidän vauhtiamme nopeampi ja voit myös edetä heidän tahdissaan.
 
-### 🎬 Oppituntien tallenteet
-
-Oppituntien tallenteet löytyvät Teamsista sekä [kurssin OneDrive-kansiosta](https://haagahelia.sharepoint.com/:f:/r/teams/Python-ohjelmointi/Shared%20Documents/General/Recordings?csf=1&web=1&e=J6kP7Y).
 
 ### 21.1. Ohjelmoinnin aloitus (mooc.fi osa 1)
 
@@ -214,7 +222,7 @@ Välikoe. Aprillipäivä.
 Loppukoe
 
 
-## Arviointi
+## 📈 Arviointi
 
 Kurssin arvosana muodostuu viikkotehtävien ja kokeiden arvosanojen perusteella seuraavasti:
 
@@ -273,9 +281,32 @@ for arvosana, pistelista in tilasto.items():
 ```
 
 
+## ⚖️ Lisenssit ja tekijänoikeudet
+
+### Ohjelmoinnin perusteet -mooc
+
+> Kurssin on tehnyt Helsingin yliopiston [Agile Education Research -tutkimusryhmä](https://www.helsinki.fi/en/researchgroups/data-driven-education).
+>
+> Kurssimateriaalin ja tehtävien tekijät ovat Erkki Kaila, Antti Laaksonen ja Matti Luukkainen. Muutama kurssin tehtävistä on Arto Hellaksen (né Vihavainen) käsialaa.
+>
+> Kurssin materiaali on lisensoitu [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fi) -lisenssillä.
+>
+> *[https://ohjelmointi-22.mooc.fi/credits](https://ohjelmointi-22.mooc.fi/credits)*
+
+
+### Python ja Pythonin dokumentaatio
+
+> Python software and documentation are licensed under the [PSF License Agreement](https://docs.python.org/3/license.html#psf-license).
+>
+> Starting with Python 3.8.6, examples, recipes, and other code in the documentation are dual licensed under the PSF License Agreement and the [Zero-Clause BSD license](https://docs.python.org/3/license.html#bsd0).
+>
+> Some software incorporated into Python is under different licenses. The licenses are listed with code falling under that license. See [Licenses and Acknowledgements for Incorporated Software](https://docs.python.org/3/license.html#otherlicenses) for an incomplete list of these licenses.
+>
+> *[https://docs.python.org/3/license.html](https://docs.python.org/3/license.html)*
+
 -----
 
-<small><a href="https://github.com/python-ohjelmointi/python-ohjelmointi.github.io/">Ehdota muutosta tälle sivulle.</a></small>
+<small><a href="https://github.com/python-ohjelmointi/python-ohjelmointi.github.io/edit/main/readme.md">Ehdota muutosta tälle sivulle.</a></small>
 
 <script src="/tocbot/tocbot.min.js"></script>
 <script src="/scripts.js"></script>
