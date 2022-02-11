@@ -41,8 +41,9 @@ Haaga-Helian kurssin suorittamiseksi sinun tulee vaihtaa kurssitoteutukseksi moo
 
 ## Kurssin tehtävät
 
-Tämän kurssin tehtävät koostuvat [HY:n mooc-kurssin](https://ohjelmointi-22.mooc.fi/) osien 1-7 ohjelmointitehtävistä. Mooc-kurssin kyselyistä saatavia pisteitä ei huomioida tällä kurssilla, koska kyselyjen tulokset tallentuvat eri järjestelmään.
+Tämän kurssin tehtävät koostuvat [HY:n mooc-kurssin](https://ohjelmointi-22.mooc.fi/) osien 1-7 ohjelmointitehtävistä. Mooc-kurssin kyselyistä ja kertauskyselyistä saatavia pisteitä ei huomioida tällä kurssilla, koska kyselyjen tulokset tallentuvat eri järjestelmään.*
 
+<small>* arviointi tullaan vielä tältä osin korjaamaan</small>
 
 ## Tärkeät linkit
 
