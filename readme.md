@@ -23,7 +23,7 @@ Kurssin suuresta osallistuja- ja tehtävämäärästä johtuen emme tarjoa ohjau
 
 ## Kurssin osallistumisen vahvistaminen
 
-Kurssin osallistumisen vahvistaminen edellyttää kurssin järjestelmiin* liittymistä ja ohjelmointitehtävien suorittamista aktiivisesti ensimmäisten kahden viikon aikana. Tehtäviin on saatavissa vinkkejä ja tukea kurssin Teams-kanavalla sekä oppitunneilla.
+Kurssin osallistumisen vahvistaminen edellyttää kurssin järjestelmiin\* liittymistä ja ohjelmointitehtävien suorittamista aktiivisesti ensimmäisten kahden viikon aikana. Tehtäviin on saatavissa vinkkejä ja tukea kurssin Teams-kanavalla sekä oppitunneilla.
 
 Menettelyn ei ole tarkoitus karsia ketään pois kurssilta, vaan varmistaa, että työskentely kurssin parissa lähtee kaikilla hyvin käyntiin.
 
@@ -41,9 +41,10 @@ Haaga-Helian kurssin suorittamiseksi sinun tulee vaihtaa kurssitoteutukseksi moo
 
 ## Kurssin tehtävät
 
-Tämän kurssin tehtävät koostuvat [HY:n mooc-kurssin](https://ohjelmointi-22.mooc.fi/) osien 1-7 ohjelmointitehtävistä. Mooc-kurssin kyselyistä ja kertauskyselyistä saatavia pisteitä ei huomioida tällä kurssilla, koska kyselyjen tulokset tallentuvat eri järjestelmään.*
+Tämän kurssin tehtävät koostuvat [HY:n mooc-kurssin](https://ohjelmointi-22.mooc.fi/) osien 1-7 **ohjelmointitehtävistä**.
 
-<small>* arviointi tullaan vielä tältä osin korjaamaan</small>
+Kyselyt ja kertauskyselyt liittyvät Mooc-kurssilla tehtäviin tutkimuksiin. Kyselyihin antamanne vastaukset ja niistä saadut pisteet eivät tallennu samaan järjestelmään ohjelmointitehtävien kanssa, joten emme pysty huomioimaan niitä tällä kurssilla.
+
 
 ## Tärkeät linkit
 
@@ -71,7 +72,7 @@ Kurssin tehtävillä ei ole yksittäisiä määräaikoja. Kurssin arvioinnissa h
 
 Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli tekemään aina sen osan tehtäviä, jota käsitellään oppitunnilla. Helsingin yliopiston opintojakson etenemisvauhti on huomattavasti meidän vauhtiamme nopeampi ja voit myös edetä heidän tahdissaan.
 
-**Oppituntien tallenteet**
+## 🎬 Oppituntien tallenteet 🎬
 
 Oppituntien tallenteet löytyvät Teamsista sekä [kurssin OneDrive-kansiosta](https://haagahelia.sharepoint.com/:f:/r/teams/Python-ohjelmointi/Shared%20Documents/General/Recordings?csf=1&web=1&e=J6kP7Y).
 
@@ -98,6 +99,7 @@ Oppituntien tallenteet löytyvät Teamsista sekä [kurssin OneDrive-kansiosta](h
 * Ohjelmoinnin termejä
 * Lisää ehtolauseita
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-2)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
 
 
 ### 11.2. Toistorakenteet (mooc.fi osa 2)
@@ -105,6 +107,7 @@ Oppituntien tallenteet löytyvät Teamsista sekä [kurssin OneDrive-kansiosta](h
 * Ehtojen yhdistäminen
 * Yksinkertainen silmukka
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-2)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
 
 
 ### 18.2. Merkkijonot (mooc.fi osa 3)
@@ -112,6 +115,7 @@ Oppituntien tallenteet löytyvät Teamsista sekä [kurssin OneDrive-kansiosta](h
 * Ehdot silmukoissa
 * Merkkijonojen käsittely
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-3)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
 
 ### ~~25.2. Talviloma~~
@@ -125,6 +129,7 @@ Talviloma, ei opetusta
 * Omat funktiot
 * `if __name__ == "__main__":`
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-3)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
 
 ### 11.3. Funktiot ja listat (mooc.fi osa 4)
