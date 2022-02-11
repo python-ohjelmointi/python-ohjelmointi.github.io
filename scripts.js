@@ -6,6 +6,6 @@ if (window.tocbot) {
         tocSelector: '.js-toc',
         contentSelector: '.main-content',
         disableTocScrollSync: true,
-        headingSelector: 'h1, h2'
+        headingSelector: 'h2'
     });
 }
