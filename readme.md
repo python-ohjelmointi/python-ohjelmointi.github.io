@@ -69,13 +69,13 @@ Kyselyt ja kertauskyselyt liittyvät Mooc-kurssilla tehtäviin tutkimuksiin. Kys
 * [Visual Studio Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
 
-# 📅 Aikataulu
+## 📅 Aikataulu
 
 Kurssin tehtävillä ei ole yksittäisiä määräaikoja. Kurssin arvioinnissa huomioidaan ne pisteet, jotka on kertynyt tehtävistä kurssin loppukokeeseen mennessä. Loppukokeen jälkeen tehtäviä voi edelleen ratkoa, mutta ne eivät vaikuta arviointiin.
 
 Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli tekemään aina sen osan tehtäviä, jota käsitellään oppitunnilla. Helsingin yliopiston opintojakson etenemisvauhti on huomattavasti meidän vauhtiamme nopeampi ja voit myös edetä heidän tahdissaan.
 
-## 🎬 Oppituntien tallenteet
+### 🎬 Oppituntien tallenteet
 
 Oppituntien tallenteet löytyvät Teamsista sekä [kurssin OneDrive-kansiosta](https://haagahelia.sharepoint.com/:f:/r/teams/Python-ohjelmointi/Shared%20Documents/General/Recordings?csf=1&web=1&e=J6kP7Y).
 
@@ -214,7 +214,7 @@ Välikoe. Aprillipäivä.
 Loppukoe
 
 
-# Arviointi
+## Arviointi
 
 Kurssin arvosana muodostuu viikkotehtävien ja kokeiden arvosanojen perusteella seuraavasti:
 
@@ -222,7 +222,7 @@ Kurssin arvosana muodostuu viikkotehtävien ja kokeiden arvosanojen perusteella 
 * Välikokeen painoarvo on 25 %
 * Loppukokeen painoarvo on 25 %
 
-## Viikkotehtävien arviointi
+### Viikkotehtävien arviointi
 
 Viikkotehtävien arviointi lasketaan siten, että 25 % tehtävistä oikeuttaa arvosanaan 1, kun taas 100 % tehtävistä oikeuttaa arvosanaan 5. Tehtävien arvosana pyöristetään vasta loppuarvosanaa laskettaessa.
 
@@ -277,6 +277,6 @@ for arvosana, pistelista in tilasto.items():
 
 <small><a href="https://github.com/python-ohjelmointi/python-ohjelmointi.github.io/">Ehdota muutosta tälle sivulle.</a></small>
 
-<script src="/scripts.js"></script>
 <script src="/tocbot/tocbot.min.js"></script>
+<script src="/scripts.js"></script>
 <link rel="stylesheet" href="/tocbot/tocbot.css" />
