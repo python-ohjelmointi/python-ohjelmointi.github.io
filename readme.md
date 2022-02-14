@@ -131,19 +131,20 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 
 ### ~~25.2. Talviloma~~
 
-Talviloma, ei opetusta
+Talviloma, ei opetusta ⛄
 
 
 ### 4.3. Toisto ja funktiot (mooc.fi osa 3)
 
 * Lisää silmukoista
 * Omat funktiot
-* `if __name__ == "__main__":`
+* Mitä `if __name__ == "__main__":` tekee? (katso [vastaus](https://stackoverflow.com/a/419185))
+* Mitä vaihtoehtoja `__name__ == "main"`-vertailulle on?
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-3)
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
 
-### 11.3. Funktiot ja listat (mooc.fi osa 4)
+### 11.3. TMC, funktiot ja listat (mooc.fi osa 4)
 
 📢 **Osasta 4 alkaen tehtävät palautetaan VS Code:n TMC-laajennuksen avulla, eikä tehtäviä voi palauttaa enää verkkoselaimen kautta.**
 
@@ -173,7 +174,7 @@ Intensiiviviikko, ei opetusta
 Välikoe. Aprillipäivä.
 
 
-### 8.4. Listat ja viittaukset (mooc.fi osa 5)
+### 8.4. Kokoelmat ja viittaukset (mooc.fi osa 5)
 
 * Lisää listoista
 * Viittaukset
@@ -184,18 +185,20 @@ Välikoe. Aprillipäivä.
 
 ### 15.4. **Pitkäperjantai**  (mooc.fi osa 5)
 
-**Pitkäperjantai**, eli ei oppituntia. Ohjausta on saatavilla Teamsissa ja Discordissa normaalisti perjantaita lukuun ottamatta.
+**Pitkäperjantai**, eli ei oppituntia. Itsenäistä opiskelua normaaliin tahtiin. Ohjausta on saatavilla Teamsissa ja Discordissa normaalisti perjantaita lukuun ottamatta.
 
 
-### 22.4. Sanakirjat ja monikot (mooc.fi osa 6)
+### 22.4. Tiedostojen lukeminen ja kirjoittaminen (mooc.fi osa 6)
 
+* [Tiedostojen käsittely Path-luokan avulla](https://docs.python.org/3/library/pathlib.html)
 * Tiedostojen lukeminen
 * Tiedostojen kirjoittaminen
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-6)
 
 
-### 29.4. Tiedostot ja poikkeukset (mooc.fi osa 6)
+### 29.4. Virhetilanteisiin varautuminen ja testaaminen (mooc.fi osa 6)
 
+* Oman koodin yksikkötestaaminen
 * Virhetilanteisiin varautuminen
 * Paikalliset ja globaalit muuttujat
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-6)
