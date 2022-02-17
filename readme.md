@@ -125,6 +125,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 
 * Ehdot silmukoissa
 * Merkkijonojen käsittely
+* [Merkkijonot Pythonin dokumentaatiossa](https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str)
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-3)
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
