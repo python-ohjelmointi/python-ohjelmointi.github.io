@@ -137,6 +137,8 @@ Talviloma, ei opetusta ⛄
 
 ### 4.3. Toisto ja funktiot (mooc.fi osa 3)
 
+💡 Käytä `if __name__ == '__main__'`-rakennetta vain tehtävissä, joissa erikseen pyydetään toteuttamaan ratkaisu erillisten funktioiden avulla.
+
 * Lisää silmukoista
 * Omat funktiot
 * Mitä `if __name__ == "__main__":` tekee? (katso [vastaus](https://stackoverflow.com/a/419185))
@@ -147,9 +149,9 @@ Talviloma, ei opetusta ⛄
 
 ### 11.3. TMC, funktiot ja listat (mooc.fi osa 4)
 
-📢 **Osasta 4 alkaen tehtävät palautetaan VS Code:n TMC-laajennuksen avulla, eikä tehtäviä voi palauttaa enää verkkoselaimen kautta.**
+💡 Osasta 4 alkaen tehtävät palautetaan VS Code:n TMC-laajennuksen avulla, eikä tehtäviä voi palauttaa enää verkkoselaimen kautta.
 
-Katso Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen) sekä ["ohjelmoinnin aloittaminen"](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen).
+Lue Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen) sekä ["ohjelmoinnin aloittaminen"](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen).
 
 * Visual Studio Code -editori, Python-tulkki ja debuggeri
 * Lisää funktioista

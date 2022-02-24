@@ -2,7 +2,13 @@
 
 # Kootut vinkit
 
-## Epämääräinen virhe tarkastettaessa tehtävää
+## Ohjelmasi ei TMC:n mukaan tulosta mitään tai kysy syötteitä
+
+> Tehtävissä, joissa ei erikseen pyydetä funktioiden toteuttamista, mitään koodia ei tule sijoittaa `if __name__ == "__main__"-lohkoon.`
+>
+> [mooc.fi](https://ohjelmointi-22.mooc.fi/osa-6/1-tiedostojen-lukeminen)
+
+## Kattavampi testiraportti suorittamalla testit komentorivillä
 
 Jos tehtävän tarkastaminen epäonnistuu virheeseen, kuten "funktiota ei löydy", on ongelman todellinen syy mahdollisesti ohjelmasi kaatuminen odottamattomasti. TMC-laajennoksen käyttöliittymä ei näytä tarkkoja virheilmoituksia, mutta saat virheen näkyviin suorittamalla tehtävän testit komentorivillä.
 
@@ -31,8 +37,9 @@ Jos kohtaat seuraavan ongelman TMC-laajennoksen käynnistyksessä, kokeile mää
 Kansiot voidaan määritellä VS Coden käynnistyksessä `--extensions-dir`- ja `--user-data-dir`-parametreilla. Luo itsellesi uusi pikakuvake Code.exe-tiedostoon esimerkiksi seuraavilla parametreilla:
 
 ```
-ASENNUSHAKEMISTO\Code.exe --extensions-dir=C:\VSCODE\extensions --user-data-dir=C:\VSCODE\settings
+ASENNUSHAKEMISTO\Code.exe --extensions-dir=C:\vscode\extensions --user-data-dir=C:\vscode\settings
 ```
 
+Voit korvata yllä olevassa komennossa esiintyvät `C:\vscode\`-hakemistot vapaasti valitsemillasi tyhjillä hakemistoilla.
 
 <script src="scripts.js"></script>
