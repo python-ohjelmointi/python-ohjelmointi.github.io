@@ -139,10 +139,10 @@ Talviloma, ei opetusta ⛄
 
 💡 Käytä `if __name__ == '__main__'`-rakennetta vain tehtävissä, joissa erikseen pyydetään toteuttamaan ratkaisu erillisten funktioiden avulla.
 
-* Lisää silmukoista
+* Lisää silmukoista: [for-toistorakenne](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
 * Omat funktiot
-* Mitä `if __name__ == "__main__":` tekee? (katso [vastaus](https://stackoverflow.com/a/419185))
-* Mitä vaihtoehtoja `__name__ == "main"`-vertailulle on?
+* Mitä `if __name__ == '__main__':` tekee? (katso [selitys](https://stackoverflow.com/a/419185))
+* Mitä vaihtoehtoja `__name__ == '__main__'`-vertailulle on?
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-3)
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
