@@ -141,7 +141,7 @@ Talviloma, ei opetusta ⛄
 
 * Lisää silmukoista: [for-toistorakenne](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
 * Omat funktiot
-* Mitä `if __name__ == '__main__':` tekee? (katso [selitys](https://stackoverflow.com/a/419185))
+* Mitä `if __name__ == '__main__':` tekee? (katso [selitys](https://stackoverflow.com/a/419185) ja [Pythonin dokumentaatio](https://docs.python.org/3/tutorial/modules.html#executing-modules-as-scripts))
 * Mitä vaihtoehtoja `__name__ == '__main__'`-vertailulle on?
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-3)
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
