@@ -70,6 +70,7 @@ Kurssin myöhempien osien kyselyillä ei ole merkitystä kurssin arviointiin, mu
 
 **Python ja VS Code**
 
+* [Teemu Sirkiän "Ohjelmoinnin perusteet Pythonilla" -kalvot](http://www.cs.hut.fi/~ttsirkia/Python.pdf)
 * [Python 3 - ohjelmointiopas (v. 1.2.1)](https://lutpub.lut.fi/bitstream/handle/10024/162088/Vanhala2020-Python3Ohjelmointiopas.pdf?sequence=1&isAllowed=y)
 * [The Python Tutorial](https://docs.python.org/3.10/tutorial/)
 * [Visual Studio Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
@@ -155,6 +156,7 @@ Lue Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"]
 * Lisää funktioista
 * Listat
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-4)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
 
 
 ### 18.3. Listojen läpikäynti (mooc.fi osa 4)
@@ -163,6 +165,10 @@ Lue Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"]
 * Tulostuksen muotoilu
 * Lisää merkkijonoista ja listoista
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-4)
+* [Doctest-työkalu](https://docs.python.org/3/library/doctest.html)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
+
+
 
 
 ### 25.3. ~~Intensiiviviikko~~
