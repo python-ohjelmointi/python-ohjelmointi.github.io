@@ -76,9 +76,11 @@ Kurssin myöhempien osien kyselyillä ei ole merkitystä kurssin arviointiin, mu
 * [Visual Studio Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
 
-## 🎬 Oppituntien tallenteet
+## 🎬 Oppituntien videotallenteet ja koodiesimerkit
 
 Oppituntien tallenteet löytyvät Teamsista sekä [kurssin OneDrive-kansiosta](https://haagahelia.sharepoint.com/:f:/r/teams/Python-ohjelmointi/Shared%20Documents/General/Recordings?csf=1&web=1&e=J6kP7Y).
+
+Tunneilla kirjoitettavat [esimerkkikoodit löytyvät tunnin jälkeen GitHubista](https://github.com/python-ohjelmointi/esimerkit/).
 
 
 ## 📅 Aikataulu
