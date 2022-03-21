@@ -4,9 +4,15 @@
 
 ## Ohjelmasi ei TMC:n mukaan tulosta mitään tai kysy syötteitä
 
-> Tehtävissä, joissa ei erikseen pyydetä funktioiden toteuttamista, mitään koodia ei tule sijoittaa `if __name__ == "__main__"-lohkoon.`
+> Tehtävissä, joissa ei erikseen pyydetä funktioiden toteuttamista, mitään koodia ei tule sijoittaa `if __name__ == "__main__"`-lohkoon.
 >
 > [mooc.fi](https://ohjelmointi-22.mooc.fi/osa-6/1-tiedostojen-lukeminen)
+
+## Testi jää jumiin ja saat virheen "test timed out"
+
+Ohjelmasi todennäköisesti pyytää syötettä, jota ei tulisi tehtävänannon mukaan pyytää. Tästä johtuen ohjelmasi jää odottamaan syötettä, jota TMC:n testit eivät anna. Lopulta TMC keskeyttää testit aikakatkaisun avulla.
+
+Tarkasta että koodissa ei ole ylimääräisiä `input`-käskyjä. Tarvittaessa siirrä ohjelmaa testaavat tehtävänannon ulkopuoliset koodit `if __name__ == "__main__"`-lohkon sisään.
 
 ## Kattavampi testiraportti suorittamalla testit komentorivillä
 
