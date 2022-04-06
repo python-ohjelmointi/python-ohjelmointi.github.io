@@ -12,7 +12,7 @@ Kaikki opiskelijat ovat yhtä lailla tervetulleita osallistumaan oppitunneille t
 
 ## 📣 MS Teams -ryhmä
 
-Kurssin oppitunnit järjestetään **perjantaisin klo 12-15.45 MS Teamsissa**. Etäopetuslinjausten mahdollisesti muuttuessa järjestämme myös lähiopetusta kampuksella.
+Kurssin oppitunnit järjestetään **perjantaisin klo 12-15.45**. Maaliskuun alusta järjestämme myös lähiopetusta kampuksella. Lähiopetuksen aikana aloitamme tunnit klo 12.30, jotta ehditte syömään ja siirtymään tunnille.
 
 Linkki aloitustunnin kokoukseen löytyy kurssin Teams-ryhmästä, johon pääset liittymään itsenäisesti. Kirjaudu ennen kurssin ensimmäistä oppituntia Teamsiin Haaga-Helian käyttäjätunnuksellasi sekä koodilla, jonka löydät kurssin [Moodle-sivulta](https://hhmoodle.haaga-helia.fi/course/view.php?id=32028).
 
@@ -30,7 +30,7 @@ Kurssin osallistumisen vahvistaminen edellyttää kurssin järjestelmiin\* liitt
 
 Menettelyn ei ole tarkoitus karsia ketään pois kurssilta, vaan varmistaa, että työskentely kurssin parissa lähtee kaikilla hyvin käyntiin.
 
-<small>* Teams ja ohjelmointi-22.mooc.fi</small>
+<small>* Teams ja [ohjelmointi-22.mooc.fi](https://ohjelmointi-22.mooc.fi/)</small>
 
 
 ## 👨‍🏫 Helsingin yliopiston mooc
@@ -57,9 +57,11 @@ Kurssin myöhempien osien kyselyillä ei ole merkitystä kurssin arviointiin, mu
 
 ## 🔗 Tärkeät linkit
 
-**Haaga-Helia.fi**
+**Tämä kurssi**
 
 * [Opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/ICT8TN035)
+* [Oppituntien esimerkkikoodit (GitHub)](https://github.com/python-ohjelmointi/esimerkit/)
+* [Oppituntien videot (OneDrive)](https://haagahelia.sharepoint.com/:f:/r/teams/Python-ohjelmointi/Shared%20Documents/General/Recordings?csf=1&web=1&e=J6kP7Y)
 
 **Mooc.fi**
 
@@ -181,6 +183,8 @@ Intensiiviviikko, ei opetusta
 ### 1.4. Välikoe
 
 Välikoe. Aprillipäivä.
+
+[Ohjeita kokeeseen liittyen.](./koe)
 
 
 ### 8.4. Kokoelmat ja viittaukset (mooc.fi osa 5)
