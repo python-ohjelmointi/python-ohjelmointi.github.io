@@ -193,8 +193,34 @@ Välikoe. Aprillipäivä.
 * Viittaukset
 * Sanakirja
 * Tuple
+* [namedtuple](https://docs.python.org/3/library/collections.html#collections.namedtuple)
+* Milloin käytän eri kokoelmatyyppejä?!
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-5)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa05)
 
+
+<!--
+**Yhteenveto kokoelmien piirteistä:**
+
+* Listat
+
+    * Hyvä oletusratkaisu useiden arvojen tallentamiseen.
+
+* Sanakirjat
+
+    * Erinomainen ratkaisu tilanteissa, joissa tallennettaville arvoille halutaan muu kuin juokseva numeroindeksi.
+    * Isompien tietomäärien kanssa tyypillisesti hyvin tehokas ratkaisu.
+
+* Tuplet (monikko)
+
+    * Hyvä ratkaisu, kun kaikki kokoelmassa tarvittavat arvot on tiedossa jo kokoelmaa luotaessa.
+    * Erityisesti hyödyllinen tiedonvälityksessä paikasta toiseen.
+
+* Namedtuple
+
+    * Loogisesti erittäin selkeä ratkaisu tiedon jäsentämiseen tilanteissa, joissa jokaisella alkiolla on aina ennalta tunnetut arvot. Esimerkiksi kurssit, joilla on aina koodi, nimi ja opintopisteet.
+    * Namedtuple:a voidaan oikeastaan ajatella pikemminkin omana tietotyyppinä kuin kokoelmana.
+-->
 
 ### 15.4. **Pitkäperjantai**  (mooc.fi osa 5)
 
