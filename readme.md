@@ -242,6 +242,10 @@ Välikoe. Aprillipäivä.
 * Paikalliset ja globaalit muuttujat
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-6)
 
+**Välikokeen uusinta klo 14-18**
+
+Tarkemmat tiedot uusintakokeesta löydät kurssin Teams-kanavalta.
+
 
 ### 6.5. Soveltavat aiheet (mooc.fi osa 7)
 
