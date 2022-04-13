@@ -224,7 +224,7 @@ Välikoe. Aprillipäivä.
 
 ### 15.4. **Pitkäperjantai**  (mooc.fi osa 5)
 
-**Pitkäperjantai**, eli ei oppituntia. Itsenäistä opiskelua normaaliin tahtiin. Ohjausta on saatavilla Teamsissa ja Discordissa normaalisti perjantaita lukuun ottamatta.
+**Pitkäperjantai**, eli ei oppituntia. Itsenäistä opiskelua normaaliin tahtiin ma-to. Ohjausta on saatavilla Teamsissa ja Discordissa normaalisti perjantaita lukuun ottamatta.
 
 
 ### 22.4. Tiedostojen lukeminen ja kirjoittaminen (mooc.fi osa 6)
