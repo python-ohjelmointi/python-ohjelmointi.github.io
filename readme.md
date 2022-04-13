@@ -263,9 +263,10 @@ Tarkemmat tiedot uusintakokeesta löydät kurssin Teams-kanavalta.
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-7)
 
 
-### 20.5. Loppukoe
+### 20.5. Loppukoe ja viikkotehtävien DL
 
-Loppukoe
+* Loppukoe klo 12:30 - 15:00
+* Kaikkien Mooc.fi-tehtävien DL on klo 12:30. Tehtäviä voi yhä palauttaa tämän jälkeen, mutta niillä ei ole vaikutusta kurssin arviointiin.
 
 
 ## 📈 Arviointi
@@ -276,19 +277,27 @@ Kurssin arvosana muodostuu viikkotehtävien ja kokeiden arvosanojen perusteella 
 * Välikokeen painoarvo on 25 %
 * Loppukokeen painoarvo on 25 %
 
+
 ### Viikkotehtävien arviointi
 
 Viikkotehtävien arviointi lasketaan siten, että 25 % tehtävistä oikeuttaa arvosanaan 1, kun taas 100 % tehtävistä oikeuttaa arvosanaan 5. Tehtävien arvosana pyöristetään vasta loppuarvosanaa laskettaessa.
 
-Arvosana on laskettavissa seuraavalla funktiolla:
+Kaikkien mooc.fi-tehtävien DL on 20.5. klo 12:30. Tehtäviä voi yhä palauttaa tämän jälkeen, mutta niillä ei ole vaikutusta kurssin arviointiin.
+
+Tehtävistä saatava loppuarvosana on laskettavissa seuraavalla funktiolla:
 
 ```python
 minimi = 25     # 25 %
 maksimi = 100   # 100 %
 
-def laske_arvosana(pisteet: int) -> float:
-    if pisteet >= minimi:
-        return 1 + 4 * (pisteet - minimi) / (maksimi - minimi)
+def laske_arvosana(oma_prosentti: int) -> float:
+    '''
+    Laskee arvosanan annetun tehtäväpisteprosentin (0-100) perusteella.
+    >>> laske_arvosana(82)
+    4.04
+    '''
+    if oma_prosentti >= minimi:
+        return 1 + 4 * (oma_prosentti - minimi) / (maksimi - minimi)
     else:
         return 0
 ```
