@@ -238,6 +238,7 @@ Tällä tunnilla paneudumme siihen, miten huomioimme vaihtelevat suoritusympäri
     * [Python 3's pathlib Module: Taming the File System (realpython.com)](https://realpython.com/python-pathlib/)
 * Eri merkistöjen käsittely
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-6)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
 
 
 ### 29.4. Virhetilanteisiin varautuminen ja testaaminen (mooc.fi osa 6)
@@ -246,6 +247,7 @@ Tällä tunnilla paneudumme siihen, miten huomioimme vaihtelevat suoritusympäri
 * Virhetilanteisiin varautuminen
 * Paikalliset ja globaalit muuttujat
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-6)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
 
 **Välikokeen uusinta klo 14-18**
 
