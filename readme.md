@@ -154,7 +154,7 @@ Talviloma, ei opetusta ⛄
 
 💡 **Osasta 4 alkaen tehtävät palautetaan VS Code:n TMC-laajennuksen avulla, eikä tehtäviä voi palauttaa enää verkkoselaimen kautta.**
 
-Lue Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen) sekä ["ohjelmoinnin aloittaminen"](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen).
+Lue Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen) sekä ["ohjelmoinnin aloittaminen"](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen). Varmista lisäksi, että liityt myös VS Codessa oikealle kurssille [tämän kuvan mukaisesti](./img/kurssin-valinta-tmc.png).
 
 * Visual Studio Code -editori, Python-tulkki ja debuggeri
 * Lisää funktioista
@@ -229,9 +229,14 @@ Välikoe. Aprillipäivä.
 
 ### 22.4. Tiedostojen lukeminen ja kirjoittaminen (mooc.fi osa 6)
 
-* [Tiedostojen käsittely Path-luokan avulla](https://docs.python.org/3/library/pathlib.html)
+Tällä tunnilla paneudumme siihen, miten huomioimme vaihtelevat suoritusympäristöt ja kirjoitamme koodia, joka toimii myös muualla kuin omalla koneellamme. Keskeisiä aiheita tulevat olemaan tiedostojen polut sekä merkistöt, jotka vaihtelevat käyttöjärjestelmäkohtaisesti.
+
 * Tiedostojen lukeminen
 * Tiedostojen kirjoittaminen
+* Tiedostojen käsittely Path-luokan avulla:
+    * [pathlib - Object-oriented filesystem paths (docs.python.org)](https://docs.python.org/3/library/pathlib.html)
+    * [Python 3's pathlib Module: Taming the File System (realpython.com)](https://realpython.com/python-pathlib/)
+* Eri merkistöjen käsittely
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-6)
 
 
