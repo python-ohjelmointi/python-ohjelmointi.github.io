@@ -254,16 +254,17 @@ Tällä tunnilla paneudumme siihen, miten huomioimme vaihtelevat suoritusympäri
 Tarkemmat tiedot uusintakokeesta löydät kurssin Teams-kanavalta.
 
 
-### 6.5. Soveltavat aiheet (mooc.fi osa 7)
+### 6.5. Data-analytiikkaa Pythonilla (vierailijaluento)
+
+Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analytiikassa. Oppitunti järjestetään poikkeuksellisesti **vain kampuksella**, ja Teams-vaihtoehtoa ei ole tällä kertaa tarjolla. Oppitunnilla tarvitset Anaconda-työkalua, jonka voit asentaa itsellesi [täältä](https://www.anaconda.com/products/distribution). Jos et halua asentaa työkalua omalle koneellesi, niin voit vaihtoehtoisesti käyttää tarvittavia työkaluja [Google-tunnusten avulla pilvessä](https://colab.research.google.com/) tai mahdollisesti VDI:n kautta Haaga-Helian ympäristössä.
+
+
+
+### 13.5. Soveltavat aiheet (mooc.fi osa 7)
 
 * Moduulit
 * Satunnaisuus
 * Aikojen käsittely
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-7)
-
-
-### 13.5. Soveltavat aiheet ja kertaus (mooc.fi osa 7)
-
 * Datan käsittely
 * Oman moduulin tekeminen
 * Lisää Pythonista
