@@ -276,6 +276,8 @@ Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analyti
 * Loppukoe klo 12:30 - 15:00
 * Kaikkien Mooc.fi-tehtävien DL on klo 12:30. Tehtäviä voi yhä palauttaa tämän jälkeen, mutta niillä ei ole vaikutusta kurssin arviointiin.
 
+[Ohjeita kokeeseen liittyen.](./koe)
+
 
 ## 📈 Arviointi
 
