@@ -73,8 +73,8 @@ Kurssin myöhempien osien kyselyillä ei ole merkitystä kurssin arviointiin, mu
 
 **Python ja VS Code**
 
-* [Teemu Sirkiän "Ohjelmoinnin perusteet Pythonilla" -kalvot](http://www.cs.hut.fi/~ttsirkia/Python.pdf)
-* [Python 3 - ohjelmointiopas (v. 1.2.1)](https://lutpub.lut.fi/bitstream/handle/10024/162088/Vanhala2020-Python3Ohjelmointiopas.pdf?sequence=1&isAllowed=y)
+* [Ohjelmoinnin perusteet Pythonilla. Teemu Sirkiä / Aalto-yliopisto](http://www.cs.hut.fi/~ttsirkia/Python.pdf)
+* [Python 3 - ohjelmointiopas (v. 1.2.1). Erno Vanhala ja Uolevi Nikula / Lappeenrannan Yliopisto](https://lutpub.lut.fi/bitstream/handle/10024/162088/Vanhala2020-Python3Ohjelmointiopas.pdf?sequence=1&isAllowed=y)
 * [The Python Tutorial](https://docs.python.org/3.10/tutorial/)
 * [Visual Studio Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
