@@ -294,6 +294,14 @@ Viikkotehtävien arviointi lasketaan siten, että 25 % tehtävistä oikeuttaa ar
 
 Kaikkien mooc.fi-tehtävien DL on 20.5. klo 12:30. Tehtäviä voi yhä palauttaa tämän jälkeen, mutta niillä ei ole vaikutusta kurssin arviointiin.
 
+
+#### Mistä näen omat tehtäväpisteeni?
+
+Näet omat tehtäväpisteesi TMC-palvelusta kirjautumalla TMC-tunnuksillasi osoitteeseen [https://tmc.mooc.fi/org/haaga-helia/courses/962/points](https://tmc.mooc.fi/org/haaga-helia/courses/962/points).
+
+
+#### Arvosanojen laskukaavat
+
 Tehtävistä saatava loppuarvosana on laskettavissa seuraavalla funktiolla:
 
 ```python
