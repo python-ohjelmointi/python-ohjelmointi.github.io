@@ -62,6 +62,7 @@ Kurssin myöhempien osien kyselyillä ei ole merkitystä kurssin arviointiin, mu
 * [Opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/ICT8TN035)
 * [Oppituntien esimerkkikoodit (GitHub)](https://github.com/python-ohjelmointi/esimerkit/)
 * [Oppituntien videot (OneDrive)](https://haagahelia.sharepoint.com/:f:/r/teams/Python-ohjelmointi/Shared%20Documents/General/Recordings?csf=1&web=1&e=J6kP7Y)
+* [Oma pistetilanne (TMC-palvelussa)](https://tmc.mooc.fi/org/haaga-helia/courses/962/points)
 
 **Mooc.fi**
 
