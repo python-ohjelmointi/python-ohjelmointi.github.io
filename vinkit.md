@@ -2,6 +2,18 @@
 
 # Kootut vinkit
 
+## Tehtävän jakaminen TMC:n "paste"-palvelussa
+
+Jos tehtävä ei millään ratkea ja kaipaat apua, voit lähettää koodisi paste-palveluun, jonka kautta opettajat tai muut opiskelijat voivat perehtyä ratkaisuun ja antaa vinkkejä. Lähettäessäsi ratkaisusi paste-palveluun, saat linkin, jonka kautta sinä ja muut voitte avata koodisi nettiselaimella. Paste-pelveluun voi lähettää tiedostoja ainakin kahdella eri tavalla:
+
+Tapa 1:
+
+![Tiedoston lähettäminen TMC:n paste-palveluun](./img/tmc-paste1.png)
+
+Tapa 2:
+
+![Tiedoston lähettäminen TMC:n paste-palveluun](./img/tmc-paste2.png)
+
 ## Ohjelmasi ei TMC:n mukaan tulosta mitään tai kysy syötteitä
 
 > Tehtävissä, joissa ei erikseen pyydetä funktioiden toteuttamista, mitään koodia ei tule sijoittaa `if __name__ == "__main__"`-lohkoon.
