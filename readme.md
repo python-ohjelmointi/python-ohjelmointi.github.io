@@ -279,6 +279,7 @@ Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analyti
 
 [Ohjeita kokeeseen liittyen.](./koe)
 
+Jätäthän kurssista vielä [opintojaksopalautetta!](https://mynet.haaga-helia.fi/group/pakki/opintopalaute)
 
 ## 📈 Arviointi
 
