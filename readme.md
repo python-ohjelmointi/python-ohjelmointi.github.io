@@ -275,7 +275,8 @@ Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analyti
 ### 20.5. Loppukoe ja viikkotehtävien DL
 
 * Loppukoe klo 12:30 - 15:00
-* Kaikkien Mooc.fi-tehtävien DL on klo 12:30. Tehtäviä voi yhä palauttaa tämän jälkeen, mutta niillä ei ole vaikutusta kurssin arviointiin.
+* <del>Kaikkien Mooc.fi-tehtävien DL on klo 12:30.</del> 
+* <strong>Huom!</strong> Jatkamme tehtävien palautusaikaa maanantaihin 23.5. klo 8 asti. Tehtäviä voi yhä palauttaa tämän jälkeen, mutta niillä ei ole vaikutusta kurssin arviointiin.
 
 [Ohjeita kokeeseen liittyen.](./koe)
 
@@ -289,6 +290,7 @@ Kurssin arvosana muodostuu viikkotehtävien ja kokeiden arvosanojen perusteella 
 * Välikokeen painoarvo on 25 %
 * Loppukokeen painoarvo on 25 %
 
+Voitte halutessanne kokeilla arvosanalaskurilla, minkä loppuarvosanan eri osasuoritukset tuottavat: [https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri](https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri).
 
 ### Viikkotehtävien arviointi
 
