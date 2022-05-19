@@ -296,7 +296,7 @@ Voitte halutessanne kokeilla arvosanalaskurilla, minkä loppuarvosanan eri osasu
 
 Viikkotehtävien arviointi lasketaan siten, että 25 % tehtävistä oikeuttaa arvosanaan 1, kun taas 100 % tehtävistä oikeuttaa arvosanaan 5. Tehtävien arvosana pyöristetään vasta loppuarvosanaa laskettaessa.
 
-Kaikkien mooc.fi-tehtävien DL on 20.5. klo 12:30. Tehtäviä voi yhä palauttaa tämän jälkeen, mutta niillä ei ole vaikutusta kurssin arviointiin.
+<del>Kaikkien mooc.fi-tehtävien DL on 20.5. klo 12:30.</del> Jatkamme tehtävien palautusaikaa maanantaihin 23.5. klo 8 asti. Tehtäviä voi yhä palauttaa tämän jälkeen, mutta niillä ei ole vaikutusta kurssin arviointiin.
 
 
 #### Mistä näen omat tehtäväpisteeni?
