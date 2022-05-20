@@ -270,6 +270,7 @@ Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analyti
 * Oman moduulin tekeminen
 * Lisää Pythonista
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-7)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa07)
 
 
 ### 20.5. Loppukoe ja viikkotehtävien DL
