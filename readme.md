@@ -290,6 +290,8 @@ Kurssin arvosana muodostuu viikkotehtävien ja kokeiden arvosanojen perusteella 
 * Välikokeen painoarvo on 25 %
 * Loppukokeen painoarvo on 25 %
 
+Kokeissa vaadittu minimipistemäärä hyväksyttyyn suoritukseen on 40 % eli 10 pistettä. Kokeita on mahdollista uusia tutkintosäännön mukaisesti kahdessa seuraavassa uusintakokeessa, joista tiedotetaan kurssin Teams-kanavalla.
+
 Voitte halutessanne kokeilla arvosanalaskurilla, minkä loppuarvosanan eri osasuoritukset tuottavat: [https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri](https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri).
 
 ### Viikkotehtävien arviointi
