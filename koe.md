@@ -52,4 +52,14 @@ Kokeessa saa käyttää kurssin tavanomaisia tietolähteitä, kuten Google, Stac
 Ohjelmasi ei saa vilpillisesti harhauttaa tehtävän tarkastimia siten, että se tuottaa oikean vastauksen tehtävässä käytettäville testisyötteille toteuttamatta tehtävänannossa kuvailtua logiikkaa. Tällaiset ratkaisut hylätään, ja tahalliseksi katsottava vilppi voi johtaa myös koko kokeen hylkäykseen.
 
 
+# Kokeen tulokset ja palautteet
+
+Kokeen jälkeen näet saamasi pisteet ja palautteet Viopesta kohdasta "Oma nurkka" (my corner). Huom! Tämä on ainoa paikka, jossa näkyy manuaalisessa arvioinnissa annetut varsinaiset pisteet:
+
+![oma nurkka](./img/oma-nurkka.png)
+
+Jokaisen tehtävän kohdalla, jossa manuaalinen arviointi poikkeaa Viopen automaattisesta arvioinnista, löydät opettajan kommentin tehtäväsivun alaosasta:
+
+![opettajan kommentti sivun alaosassa](./img/opettajan-kommentti.png)
+
 <script src="scripts.js"></script>
