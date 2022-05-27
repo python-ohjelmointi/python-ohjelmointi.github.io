@@ -63,3 +63,9 @@ Jokaisen tehtävän kohdalla, jossa manuaalinen arviointi poikkeaa Viopen automa
 ![opettajan kommentti sivun alaosassa](./img/opettajan-kommentti.png)
 
 <script src="scripts.js"></script>
+
+<style type="text/css">
+#content img {
+    max-width: 400px;
+}
+</style>
