@@ -32,6 +32,15 @@ Menettelyn ei ole tarkoitus karsia ketään pois kurssilta, vaan varmistaa, ett�
 
 <small>* Teams ja [ohjelmointi-22.mooc.fi](https://ohjelmointi-22.mooc.fi/)</small>
 
+### Kurssin keskeyttäminen
+
+Kurssin keskeyttäminen ei ole Haaga-Helian linjauksia noudattaen mahdollista enää kahden ensimmäisen viikon jälkeen:
+
+> *"Opettaja poistaa opetuksen alussa toteutukselta opiskelijat, jotka eivät osallistu ensimmäiseen opetuskertaan tai ilmoita poissaolostaan. Opiskelijoita ei enää myöhemmin poisteta toteutukselta, vaan kaikille annetaan arvosana hylätty-kiitettävä."*
+>
+> *[https://mynet.haaga-helia.fi/group/pakki/toteutukselle-ilmoittautuminen](https://mynet.haaga-helia.fi/group/pakki/toteutukselle-ilmoittautuminen)*
+
+
 
 ## 👨‍🏫 Helsingin yliopiston mooc
 
