@@ -292,6 +292,14 @@ Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analyti
 
 Jätäthän kurssista vielä [opintojaksopalautetta!](https://mynet.haaga-helia.fi/group/pakki/opintopalaute)
 
+
+### 6.6. Väli- ja loppukokeen uusinta klo 14-19
+
+Järjestämme maanantaina 6.6. klo 14-19 välillä uusintakokeen Viopessa. Uusinnassa on mahdollista uusia joko välikoe tai loppukoe ja kokeeseen ei tarvitse erikseen ilmoittautua. Kukin kokelas saa käyttää kokeeseen valitsemanaan aikana klo 14-19 aikavälillä korkeintaan 2,5 tuntia. Aika alkaa siitä, kun avaat kokeen ensimmäisen kerran.
+
+Tarkemmat tiedot uusintakokeesta löydät kurssin Teams-kanavalta.
+
+
 ## 📈 Arviointi
 
 Kurssin arvosana muodostuu viikkotehtävien ja kokeiden arvosanojen perusteella seuraavasti:

@@ -54,11 +54,11 @@ Ohjelmasi ei saa vilpillisesti harhauttaa tehtävän tarkastimia siten, että se
 
 # Kokeen tulokset ja palautteet
 
-Kokeen jälkeen näet saamasi pisteet ja palautteet Viopesta kohdasta "Oma nurkka" (my corner). Huom! Tämä on ainoa paikka, jossa näkyy manuaalisessa arvioinnissa annetut varsinaiset pisteet:
+Kokeen manuaalisen arvioinnin jälkeen näet saamasi pisteet Viopen kohdasta "Oma nurkka" (my corner). "Oma nurkka" on ainoa paikka, jossa näkyy manuaalisessa arvioinnissa annetut varsinaiset pisteet:
 
 ![oma nurkka](./img/oma-nurkka.png)
 
-Jokaisen tehtävän kohdalla, jossa manuaalinen arviointi poikkeaa Viopen automaattisesta arvioinnista, löydät opettajan kommentin tehtäväsivun alaosasta:
+Niissä tehtävissä, joissa manuaalinen arviointi poikkeaa Viopen automaattisesta arvioinnista, löydät opettajan kommentin tehtäväsivun alaosasta:
 
 ![opettajan kommentti sivun alaosassa](./img/opettajan-kommentti.png)
 
