@@ -41,7 +41,6 @@ Kurssin keskeyttäminen ei ole Haaga-Helian linjauksia noudattaen mahdollista en
 > *[https://mynet.haaga-helia.fi/group/pakki/toteutukselle-ilmoittautuminen](https://mynet.haaga-helia.fi/group/pakki/toteutukselle-ilmoittautuminen)*
 
 
-
 ## 👨‍🏫 Helsingin yliopiston mooc
 
 Kurssin harjoitusympäristönä ja pääasiallisena materiaalina hyödynnetään Helsingin yliopiston ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-22.mooc.fi/](https://ohjelmointi-22.mooc.fi/). Suoritamme mooc.fi:ssä ohjelmoinnin perusteet -osiota (osat 1-7), emmekä etene ohjelmoinnin jatkokurssille.
@@ -377,6 +376,13 @@ for pisteet in range(0, 101):
 for arvosana, pistelista in tilasto.items():
     print(f'{min(pistelista):2} - {max(pistelista):3} %: {arvosana}')
 ```
+
+
+## 📑 Aiemmin hankitun osaamisen tunnistaminen (AHOT)
+
+Jos olet hankkinut tämän opintojakson mukaisen osaamisen työn, harrastuksen tai muiden kurssien kautta, voit osoittaa osaamisesi viikkotehtävien ja kokeiden sijasta AHOT-menettelyllä. Ilmoittaudu tälle kurssille normaalisti ja ole yhteydessä kurssin opettajiin AHOT-järjestelyjen osalta kurssin ensimmäisen viikon aikana.
+
+Mikäli olet suorittanut Helsingin yliopiston kaikille avoimen Ohjelmoinnin perusteet -kurssin Pythonilla, [voit hakea saamasi suoritusmerkinnän perusteella hyväksilukua tästä kurssista](https://www.haaga-helia.fi/fi/osaamisen-tunnistaminen-ja-work-study).
 
 
 ## ⚖️ Lisenssit ja tekijänoikeudet
