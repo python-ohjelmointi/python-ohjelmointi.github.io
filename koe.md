@@ -42,9 +42,11 @@ Tehtävissä ei tarvitse varautua virheellisiin syötteisiin tai muihin poikkeus
 
 ## Harjoituskoe
 
-Olemme tehneet Viopen käytön ja kokeeseen valmistautumisen tueksi erillisen harjoituskokeen, jonka voitte halutessanne tehdä itsenäisesti oman aikataulunne mukaan. Harjoituskoe löytyy Viopen etusivun alaosasta ([https://hh.viope.com](https://hh.viope.com)) nimellä "Python-harjoituskoe". Harjoituskokeessa tehtäviä, jotka on lainattu kurssin viikkotehtävistä. Kokeen tehtävät tulevat olemaan tyyliltään ja luonteeltaan näiden tehtävien mukaisia, mutta erityisesti loppukokeessa astetta haastavampia.
+Olemme tehneet Viopen käytön ja kokeeseen valmistautumisen tueksi erillisen harjoituskokeen, jonka voitte halutessanne tehdä itsenäisesti oman aikataulunne mukaan. Harjoituskoe löytyy Viopen etusivun alaosasta ([https://hh.viope.com](https://hh.viope.com)) nimellä "Python-harjoituskoe".
 
- 
+Harjoituskokeessa tehtäviä, jotka on lainattu kurssin viikkotehtävistä. Kokeen tehtävät tulevat olemaan tyyliltään ja luonteeltaan näiden tehtävien mukaisia, mutta erityisesti loppukokeessa astetta haastavampia.
+
+
 ## Kokeeseen osallistuminen
 
 Liittykää Viopen etusivulla kurssille nimeltä "Python-ohjelmointi, kevät 2022". Voitte liittyä kurssille jo etukäteen, mutta koetehtävät aukeavat ajastetusti kokeen alkuhetkellä. Päivitä tarvittaessa Viopen näkymä selaimessasi kokeen alkaessa, jotta pääset siirtymään tehtäviin.
