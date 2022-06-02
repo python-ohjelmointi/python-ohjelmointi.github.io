@@ -2,7 +2,9 @@
 
 # Kokeet
 
-Tällä sivulla on oleellista tietoa kokeeseen valmistautumiseen sekä kokeen järjestelyihin ja käytäntöihin liittyen, joten luethan sen kokonaan, vaikka sivu on ~~tuskaisen~~ pitkä.
+Tällä sivulla on oleellista tietoa kokeisiin valmistautumiseen sekä järjestelyihin ja käytäntöihin liittyen, joten luethan sen kokonaan, vaikka sivu on ~~tuskaisen~~ pitkä.
+
+Tällä sivulla esitetyt käytännöt pätevät niin väli- kuin loppukokeessa, sekä niiden uusinnoissa, ellei toisin mainita.
 
 
 ## Viope-oppimisalusta
