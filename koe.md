@@ -13,8 +13,13 @@ Löydätte Viopesta koepäivänä sekä kokeen tehtävänannot että tekstikent�
 
 Viopen kanssa on ehdottoman suositeltavaa, että koodaatte ja kokeilette oman ratkaisunne ensin VS Codessa ja liitätte sen tehtäväsivulle vasta koodin toimiessa omalla koneellanne.
 
- 
-## Kokeen tehtävät ja niiden arviointi
+
+## Kokeen arvostelu
+
+Hyväksyttyyn suoritukseen eli arvosanaan kokeessa edellytetään vähintään 40 % kokonaispisteistä. Minimipisteet oikeuttavat arvosanaan 1, kun taas 100 % pisteistä oikeuttaa arvosanaan 5. Koearvosanaa ei pyöristetä, eli jokaisella saamallasi pisteellä on merkitystä kurssin loppuarvioinnissa.
+
+
+## Kokeen tehtävät
 
 Kokeessa on viisi tehtävää, joista kukin on viiden pisteen arvoinen. Tehtävät vastaavat tyyliltään kurssin viikkotehtäviä, mutta aikaisemmista tehtävistä poiketen kokeen tehtävät tullaan arvioimaan myös manuaalisesti. Voitte siis saada tehtävästä pisteitä, vaikka Viope ei hyväksyisi ratkaisua.
 
