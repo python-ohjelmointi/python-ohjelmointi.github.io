@@ -56,11 +56,12 @@ Tämän kurssin tehtävät koostuvat vain ja ainoastaan mooc.fi:n **ohjelmointit
 
 **Tämä kurssi**
 
-* [Opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/SOF004AS2A)
-* [Oppituntien esimerkkikoodit (GitHub)](https://github.com/python-ohjelmointi/esimerkit/)
 <!-- TODO: Päivitä syksyn 2022 linkki
 * [Oppituntien videot (OneDrive)](https://haagahelia.sharepoint.com/:f:/r/teams/Python-ohjelmointi/Shared%20Documents/General/Recordings?csf=1&web=1&e=J6kP7Y)
 -->
+
+* [Opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/SOF004AS2A)
+* [Oppituntien esimerkkikoodit (GitHub)](https://github.com/python-ohjelmointi/esimerkit/)
 * [Oma pistetilanne (TMC-palvelussa)](https://tmc.mooc.fi/org/haaga-helia/courses/962/points)
 
 **Mooc.fi**
@@ -80,7 +81,9 @@ Tämän kurssin tehtävät koostuvat vain ja ainoastaan mooc.fi:n **ohjelmointit
 
 ## 🎬 Oppituntien videotallenteet ja koodiesimerkit
 
-Oppituntien tallenteet löytyvät Teamsista sekä kurssin OneDrive-kansiosta. <!--TODO: Lisää syksyn 2022 linkki-->
+Oppituntien tallenteet löytyvät Teamsista sekä kurssin OneDrive-kansiosta.
+
+<!--TODO: Lisää syksyn 2022 linkki-->
 
 Tunneilla kirjoitettavat [esimerkkikoodit löytyvät tunnin jälkeen GitHubista](https://github.com/python-ohjelmointi/esimerkit/).
 
