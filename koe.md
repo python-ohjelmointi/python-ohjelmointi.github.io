@@ -4,12 +4,12 @@
 
 Tällä sivulla on oleellista tietoa kokeisiin valmistautumiseen sekä järjestelyihin ja käytäntöihin liittyen, joten luethan sen kokonaan, vaikka sivu on ~~tuskaisen~~ pitkä.
 
-Tällä sivulla esitetyt käytännöt pätevät niin väli- kuin loppukokeessa, sekä niiden uusinnoissa, ellei toisin mainita.
+Tällä sivulla esitetyt käytännöt pätevät kaikissa kokeissa, ellei toisin mainita.
 
 
 ## Viope-oppimisalusta
 
-Koe järjestetään hyödyntäen Viope-oppimisalustaa, joka arvioi tehtävät automaattisesti melko samankaltaisesti, kuin mitä olemme tähän asti viikkotehtävissä tehneet. Suurelle osalle Viope on myös tuttu aikaisemmilta tai rinnakkaisilta kursseilta. Jos sinulla on jo olemassa Viope-tunnukset, voit käyttää niitä tässä kokeessa. Mikäli sinulla ei ole tunnuksia, rekisteröidy osoitteessa [https://hh.viope.com](https://hh.viope.com) mieluiten heti, mutta viimeistään koetta edeltävänä päivänä. Valitse kirjautumisruudun vasemmasta laidasta kohta "ilmoittaudu kurssille" ja valitse kurssiksi "Python-harjoituskoe". Voit harjoitella harjoituskokeessa tehtäviin vastaamista.
+Koe järjestetään hyödyntäen Viope-oppimisalustaa, joka arvioi tehtävät automaattisesti melko samankaltaisesti, kuin miten mooc.fi ja TMC toimivat. Suurelle osalle Viope on myös tuttu aikaisemmilta tai rinnakkaisilta kursseilta. Jos sinulla on jo olemassa Viope-tunnukset, käytä niitä kokeessa. Mikäli sinulla ei ole tunnuksia, rekisteröidy osoitteessa [https://hh.viope.com](https://hh.viope.com) mieluiten heti, mutta viimeistään koetta edeltävänä päivänä. Valitse kirjautumisruudun vasemmasta laidasta kohta "ilmoittaudu kurssille" ja valitse kurssiksi "Python-harjoituskoe". Voit harjoitella harjoituskokeessa tehtäviin vastaamista.
 
 Löydätte Viopesta koepäivänä sekä kokeen tehtävänannot että tekstikentät, joihin liitätte omat ratkaisunne. Viope suorittaa koodinne ja antaa siitä pisteet, mikäli tulos vastaa tehtävänantoa. Mikäli vastausta ei hyväksytä, voitte kokeilla uudelleen rajoittamattoman määrän kertoja. Kun Viope hyväksyy ratkaisunne, muistakaa painaa "lähetä/submit" -painiketta, jotta tehtävä tallentuu. Toiminta selkenee varmasti viimeistään kokeilemalla harjoituskoetta, josta lisätietoja alempana tässä ohjeessa.
 

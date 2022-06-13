@@ -2,26 +2,26 @@
 
 Tämän kurssin opettajina toimivat Teemu Havulinna ja Kasper Valtakari (etunimi.sukunimi@haaga-helia.fi).
 
-Kurssista järjestetään keväällä 2022 kolme rinnakkaista toteutusta, joille on kaikille yhteiset järjestelyt ja oppitunnit. Erittäin suuresta ilmoittautujamäärästä johtuen osa "perinteiselle" toteutukselle ilmoittautuneista opiskelijoista on hallinnollisista syistä siirretty Pepissä virtuaalitoteutukselle.
+Kurssista järjestetään rinnakkaisia toteutuksia, joille on kaikille samat käytännön järjestelyt ja yhteiset oppitunnit. Kaikki opiskelijat ovat yhtä lailla tervetulleita osallistumaan oppitunneille tai opiskelemaan virtuaalisesti riippumatta siitä, mikä sattuu olemaan juuri teidän oman toteutuksenne toteutustapa.
 
-Kaikki opiskelijat ovat yhtä lailla tervetulleita osallistumaan oppitunneille tai opiskelemaan virtuaalisesti riippumatta siitä, mikä sattuu olemaan juuri teidän oman toteutuksenne toteutustapa.
+Kurssin oppitunnit järjestetään **keskiviikkoisin klo 11-13.45**.
+
 
 **Tällä sivulla:**
 
 <div class="js-toc"></div>
 
-## 📣 MS Teams -ryhmä
 
-Kurssin oppitunnit järjestetään **perjantaisin klo 12-15.45**. Maaliskuun alusta järjestämme myös lähiopetusta kampuksella. Lähiopetuksen aikana aloitamme tunnit klo 12.30, jotta ehditte syömään ja siirtymään tunnille.
+## 💬 Tiedotus- ja tukikanavat
 
-Linkki aloitustunnin kokoukseen löytyy kurssin Teams-ryhmästä, johon pääset liittymään itsenäisesti. Kirjaudu ennen kurssin ensimmäistä oppituntia Teamsiin Haaga-Helian käyttäjätunnuksellasi sekä koodilla, jonka löydät kurssin [Moodle-sivulta](https://hhmoodle.haaga-helia.fi/course/view.php?id=32028).
-
-
-## 💬 Ohjaus- ja tukikanavat
-
-Kurssin tukikanavina käytämme omaa MS Teams -ryhmäämme ja [HY:n Discord-kanavia](https://ohjelmointi-22.mooc.fi/#tukivaylat). Discordissa on saatavissa reaaliaikaista apua jokaisena arkipäivänä [tämän aikataulun mukaisesti](https://ohjelmointi-22.mooc.fi/tuki#ohjausajat-discordissa).
+Kurssin tiedotus- ja tukikanavina käytämme omaa MS Teams -ryhmäämme ja [HY:n Discord-kanavia](https://ohjelmointi-22.mooc.fi/#tukivaylat). Discordissa on saatavissa reaaliaikaista apua jokaisena arkipäivänä [tämän aikataulun mukaisesti](https://ohjelmointi-22.mooc.fi/tuki#ohjausajat-discordissa).
 
 Kurssin suuresta osallistuja- ja tehtävämäärästä johtuen emme tarjoa ohjausta yksittäisiin tehtäviin sähköpostitse. Et kuitenkaan jää tehtävien kanssa yksin, kun käytät edellä mainittuja Teams- ja Discord-kanavia.
+
+
+## 📣 MS Teams -ryhmä
+
+Kirjaudu ennen kurssin ensimmäistä oppituntia Teamsiin Haaga-Helian käyttäjätunnuksellasi sekä koodilla, jonka löydät kurssin [Moodle-sivulta](https://hhmoodle.haaga-helia.fi/).
 
 
 ## ✔️ Kurssin osallistumisen vahvistaminen
@@ -34,14 +34,14 @@ Menettelyn ei ole tarkoitus karsia ketään pois kurssilta, vaan varmistaa, ett�
 
 ### Kurssin keskeyttäminen
 
-Kurssin keskeyttäminen ei ole Haaga-Helian linjauksia noudattaen mahdollista enää kahden ensimmäisen viikon jälkeen:
+Kurssin keskeyttäminen ei ole Haaga-Helian linjauksia noudattaen mahdollista enää osallistumisen vahvistamisen jälkeen:
 
 > *"Opettaja poistaa opetuksen alussa toteutukselta opiskelijat, jotka eivät osallistu ensimmäiseen opetuskertaan tai ilmoita poissaolostaan. Opiskelijoita ei enää myöhemmin poisteta toteutukselta, vaan kaikille annetaan arvosana hylätty-kiitettävä."*
 >
 > *[https://mynet.haaga-helia.fi/group/pakki/toteutukselle-ilmoittautuminen](https://mynet.haaga-helia.fi/group/pakki/toteutukselle-ilmoittautuminen)*
 
 
-## 👨‍🏫 Helsingin yliopiston mooc
+## 👨‍🏫 Helsingin yliopiston mooc ja kurssin tehtävät
 
 Kurssin harjoitusympäristönä ja pääasiallisena materiaalina hyödynnetään Helsingin yliopiston ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-22.mooc.fi/](https://ohjelmointi-22.mooc.fi/). Suoritamme mooc.fi:ssä ohjelmoinnin perusteet -osiota (osat 1-7), emmekä etene ohjelmoinnin jatkokurssille.
 
@@ -49,27 +49,18 @@ Haaga-Helian kurssin suorittamiseksi sinun tulee vaihtaa kurssitoteutukseksi moo
 
 [**Mooc.fi-rekisteröityminen ja Haaga-Helian toteutukselle liittyminen.**](kurssille-liittyminen)
 
-
-## 📝 Kurssin tehtävät
-
-Tämän kurssin tehtävät koostuvat [Helsingin yliopiston ohjelmoinnin peruskurssin](https://ohjelmointi-22.mooc.fi/) osien 1-7 _**ohjelmointitehtävistä**_.
-
-Kyselyihin ja kertauskyselyihin antamanne vastaukset ja niistä saamanne pisteet eivät tallennu samaan järjestelmään ohjelmointitehtävien kanssa, eikä niitä huomioida kurssin arvioinnissa.
-
-**Kevään 2022 pistekorjaus**
-
-Kyselyiden pisteiden puuttuminen tuli kevään 2022 toteutuksella ilmi vasta kurssin käynnistyttyä, joten hyväksiluemme kaikille osallistujille automaattisesti täydet pisteet osien 1 ja 2 kyselyistä kurssin loppuarvioinnissa. Käytännössä siis kurssin maksimipistemäärä sekä kaikkien henkilökohtaiset tulokset nousevat 11 pisteellä.
-
-Kurssin myöhempien osien kyselyillä ei ole merkitystä kurssin arviointiin, mutta suosittelemme myös niihin vastaamista niin tutkimusaineiston kuin myös oman osaamisen kartuttamiseksi.
+Tämän kurssin tehtävät koostuvat vain ja ainoastaan mooc.fi:n **ohjelmointitehtävistä**. Kyselyihin ja kertauskyselyihin antamanne vastaukset ja niistä saamanne pisteet eivät tallennu samaan järjestelmään ohjelmointitehtävien kanssa, eikä niitä huomioida kurssin arvioinnissa.
 
 
 ## 🔗 Tärkeät linkit
 
 **Tämä kurssi**
 
-* [Opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/ICT8TN035)
+* [Opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/SOF004AS2A)
 * [Oppituntien esimerkkikoodit (GitHub)](https://github.com/python-ohjelmointi/esimerkit/)
+<!-- TODO: Päivitä syksyn 2022 linkki
 * [Oppituntien videot (OneDrive)](https://haagahelia.sharepoint.com/:f:/r/teams/Python-ohjelmointi/Shared%20Documents/General/Recordings?csf=1&web=1&e=J6kP7Y)
+-->
 * [Oma pistetilanne (TMC-palvelussa)](https://tmc.mooc.fi/org/haaga-helia/courses/962/points)
 
 **Mooc.fi**
@@ -89,7 +80,7 @@ Kurssin myöhempien osien kyselyillä ei ole merkitystä kurssin arviointiin, mu
 
 ## 🎬 Oppituntien videotallenteet ja koodiesimerkit
 
-Oppituntien tallenteet löytyvät Teamsista sekä [kurssin OneDrive-kansiosta](https://haagahelia.sharepoint.com/:f:/r/teams/Python-ohjelmointi/Shared%20Documents/General/Recordings?csf=1&web=1&e=J6kP7Y).
+Oppituntien tallenteet löytyvät Teamsista sekä kurssin OneDrive-kansiosta. <!--TODO: Lisää syksyn 2022 linkki-->
 
 Tunneilla kirjoitettavat [esimerkkikoodit löytyvät tunnin jälkeen GitHubista](https://github.com/python-ohjelmointi/esimerkit/).
 
@@ -101,7 +92,7 @@ Kurssin tehtävillä ei ole yksittäisiä määräaikoja. Kurssin arvioinnissa h
 Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli tekemään aina sen osan tehtäviä, jota käsitellään oppitunnilla. Helsingin yliopiston opintojakson etenemisvauhti on huomattavasti meidän vauhtiamme nopeampi ja voit myös edetä heidän tahdissaan.
 
 
-### 21.1. Ohjelmoinnin aloitus (mooc.fi osa 1)
+### 24.8. Ohjelmoinnin aloitus (mooc.fi osa 1)
 
 * Ohjelmistojen asennus
 * Ohjelmoinnin aloittaminen
@@ -110,7 +101,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
 
 
-### 28.1. Muuttujat ja ehdot (mooc.fi osa 1)
+### 31.8. Muuttujat ja ehdot (mooc.fi osa 1)
 
 * Lisää muuttujista
 * Laskentaa luvuilla
@@ -119,7 +110,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
 
 
-### 4.2. Terminologia, ehtolauseet (mooc.fi osa 2)
+### 7.9. Terminologia, ehtolauseet (mooc.fi osa 2)
 
 * Ohjelmoinnin termejä
 * Lisää ehtolauseita
@@ -127,7 +118,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
 
 
-### 11.2. Toistorakenteet (mooc.fi osa 2)
+### 14.9. Toistorakenteet (mooc.fi osa 2)
 
 * Ehtojen yhdistäminen
 * Yksinkertainen silmukka
@@ -135,7 +126,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
 
 
-### 18.2. Merkkijonot (mooc.fi osa 3)
+### 21.9. Merkkijonot (mooc.fi osa 3)
 
 * Ehdot silmukoissa
 * Merkkijonojen käsittely
@@ -144,12 +135,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
 
-### ~~25.2. Talviloma~~
-
-Talviloma, ei opetusta ⛄
-
-
-### 4.3. Toisto ja funktiot (mooc.fi osa 3)
+### 28.9. Toisto ja funktiot (mooc.fi osa 3)
 
 * [For-toistorakenne](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
 * [Omat funktiot](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
@@ -159,7 +145,7 @@ Talviloma, ei opetusta ⛄
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
 
-### 11.3. TMC, funktiot ja listat (mooc.fi osa 4)
+### 5.10. TMC, funktiot ja listat (mooc.fi osa 4)
 
 💡 **Osasta 4 alkaen tehtävät palautetaan VS Code:n TMC-laajennuksen avulla, eikä tehtäviä voi palauttaa enää verkkoselaimen kautta.**
 
@@ -172,7 +158,7 @@ Lue Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"]
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
 
 
-### 18.3. Listojen läpikäynti (mooc.fi osa 4)
+### 12.10. Listojen läpikäynti (mooc.fi osa 4)
 
 * Silmukat ja iterointi
 * Tulostuksen muotoilu
@@ -182,21 +168,17 @@ Lue Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"]
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
 
 
-
-
-### 25.3. ~~Intensiiviviikko~~
+### 19.10. ~~Intensiiviviikko~~
 
 Intensiiviviikko, ei opetusta
 
 
-### 1.4. Välikoe
+### 26.10. Välikoe
 
-Välikoe. Aprillipäivä.
-
-[Ohjeita kokeeseen liittyen.](./koe)
+Välikoe. [Ohjeita kokeeseen liittyen.](./koe)
 
 
-### 8.4. Kokoelmat ja viittaukset (mooc.fi osa 5)
+### 2.11. Kokoelmat ja viittaukset (mooc.fi osa 5)
 
 * Lisää listoista
 * Viittaukset
@@ -231,12 +213,12 @@ Välikoe. Aprillipäivä.
     * Namedtuple:a voidaan oikeastaan ajatella pikemminkin omana tietotyyppinä kuin kokoelmana.
 -->
 
-### 15.4. **Pitkäperjantai**  (mooc.fi osa 5)
+### 9.11. Kokoelmat ja viittaukset (mooc.fi osa 5)
 
-**Pitkäperjantai**, eli ei oppituntia. Itsenäistä opiskelua normaaliin tahtiin ma-to. Ohjausta on saatavilla Teamsissa ja Discordissa normaalisti perjantaita lukuun ottamatta.
+Edellisellä viikolla aloitettu aihe jatkuu.
 
 
-### 22.4. Tiedostojen lukeminen ja kirjoittaminen (mooc.fi osa 6)
+### 16.11. Tiedostojen lukeminen ja kirjoittaminen (mooc.fi osa 6)
 
 Tällä tunnilla paneudumme siihen, miten huomioimme vaihtelevat suoritusympäristöt ja kirjoitamme koodia, joka toimii myös muualla kuin omalla koneellamme. Keskeisiä aiheita tulevat olemaan tiedostojen polut sekä merkistöt, jotka vaihtelevat käyttöjärjestelmäkohtaisesti.
 
@@ -250,7 +232,7 @@ Tällä tunnilla paneudumme siihen, miten huomioimme vaihtelevat suoritusympäri
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
 
 
-### 29.4. Virhetilanteisiin varautuminen ja testaaminen (mooc.fi osa 6)
+### 23.11. Virhetilanteisiin varautuminen ja testaaminen (mooc.fi osa 6)
 
 * Oman koodin yksikkötestaaminen
 * Virhetilanteisiin varautuminen
@@ -258,18 +240,19 @@ Tällä tunnilla paneudumme siihen, miten huomioimme vaihtelevat suoritusympäri
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-6)
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
 
-**Välikokeen uusinta klo 14-18**
-
-Tarkemmat tiedot uusintakokeesta löydät kurssin Teams-kanavalta.
 
 
-### 6.5. Data-analytiikkaa Pythonilla (vierailijaluento)
+### 30.11. Mahdollinen vierailijaluento
 
-Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analytiikassa. Oppitunti järjestetään poikkeuksellisesti **vain kampuksella**, ja Teams-vaihtoehtoa ei ole tällä kertaa tarjolla. Oppitunnilla tarvitset Anaconda-työkalua, jonka voit asentaa itsellesi [täältä](https://www.anaconda.com/products/distribution). Jos et halua asentaa työkalua omalle koneellesi, niin voit vaihtoehtoisesti käyttää tarvittavia työkaluja [Google-tunnusten avulla pilvessä](https://colab.research.google.com/) tai mahdollisesti VDI:n kautta Haaga-Helian ympäristössä.
+Pyrimme sisällyttämään kurssille vierailijaluennon, jonka tarkemmat tiedot julkaistaan myöhemmin.
+
+<!--Data-analytiikkaa Pythonilla (vierailijaluento)
+
+Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analytiikassa. Oppitunti järjestetään poikkeuksellisesti **vain kampuksella**, ja Teams-vaihtoehtoa ei ole tällä kertaa tarjolla. Oppitunnilla tarvitset Anaconda-työkalua, jonka voit asentaa itsellesi [täältä](https://www.anaconda.com/products/distribution). Jos et halua asentaa työkalua omalle koneellesi, niin voit vaihtoehtoisesti käyttää tarvittavia työkaluja [Google-tunnusten avulla pilvessä](https://colab.research.google.com/) tai mahdollisesti VDI:n kautta Haaga-Helian ympäristössä.-->
 
 
 
-### 13.5. Soveltavat aiheet (mooc.fi osa 7)
+### 7.12. Soveltavat aiheet (mooc.fi osa 7)
 
 * Moduulit
 * Satunnaisuus
@@ -281,43 +264,44 @@ Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analyti
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa07)
 
 
-### 20.5. Loppukoe ja viikkotehtävien DL
+### 14.12. Loppukoe ja viikkotehtävien DL
 
-* Loppukoe klo 12:30 - 15:00
-* <del>Kaikkien Mooc.fi-tehtävien DL on klo 12:30.</del> 
-* <strong>Huom!</strong> Jatkamme tehtävien palautusaikaa maanantaihin 23.5. klo 8 asti. Tehtäviä voi yhä palauttaa tämän jälkeen, mutta niillä ei ole vaikutusta kurssin arviointiin.
+* Loppukoe
+* <del>Kaikkien Mooc.fi-tehtävien DL on kokeen alussa</del> 
 
 [Ohjeita kokeeseen liittyen.](./koe)
 
 Jätäthän kurssista vielä [opintojaksopalautetta!](https://mynet.haaga-helia.fi/group/pakki/opintopalaute)
 
 
-### 6.6. Väli- ja loppukokeen uusinta klo 14-19
+<!--### 6.6. Väli- ja loppukokeen uusinta klo 14-19
 
 Järjestämme maanantaina 6.6. klo 14-19 välillä uusintakokeen Viopessa. Uusinnassa on mahdollista uusia joko välikoe tai loppukoe ja kokeeseen ei tarvitse erikseen ilmoittautua. Kukin kokelas saa käyttää kokeeseen valitsemanaan aikana klo 14-19 aikavälillä korkeintaan 2,5 tuntia. Aika alkaa siitä, kun avaat kokeen ensimmäisen kerran.
 
-Tarkemmat tiedot uusintakokeesta löydät kurssin Teams-kanavalta.
+Tarkemmat tiedot uusintakokeesta löydät kurssin Teams-kanavalta.-->
 
 
 ## 📈 Arviointi
 
 Kurssin arvosana muodostuu viikkotehtävien ja kokeiden arvosanojen perusteella seuraavasti:
 
-* Viikkotehtävien painoarvo loppuarvosanassa on 50 %
+* Viikkotehtävien painoarvo loppuarvosanasta on 50 %
 * Välikokeen painoarvo on 25 %
 * Loppukokeen painoarvo on 25 %
 
 Kokeissa vaadittu minimipistemäärä hyväksyttyyn suoritukseen on 40 % eli 10 pistettä. Kokeita on mahdollista uusia tutkintosäännön mukaisesti kahdessa seuraavassa uusintakokeessa, joista tiedotetaan kurssin Teams-kanavalla.
 
-Voitte halutessanne kokeilla arvosanalaskurilla, minkä loppuarvosanan eri osasuoritukset tuottavat: [https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri](https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri).
+<!--Voitte halutessanne kokeilla arvosanalaskurilla, minkä loppuarvosanan eri osasuoritukset tuottavat: [https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri](https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri).-->
+
 
 ### Viikkotehtävien arviointi
 
-Viikkotehtävien arviointi lasketaan siten, että 25 % tehtävistä oikeuttaa arvosanaan 1, kun taas 100 % tehtävistä oikeuttaa arvosanaan 5. Helsingin yliopiston arvostelusta poiketen Haaga-Helian toteutuksella ei yksittäisiin osioihin liittyviä minimipistemääriä. Pisteitä ei siis tarkastella osiokohtaisesti, vaan 25 % kokonaisuudesta riittää.
+Viikkotehtävien arviointi lasketaan siten, että 25 % tehtävistä oikeuttaa arvosanaan 1, kun taas 100 % tehtävistä oikeuttaa arvosanaan 5.
 
-<del>Kaikkien mooc.fi-tehtävien DL on 20.5. klo 12:30.</del> Jatkamme tehtävien palautusaikaa maanantaihin 23.5. klo 8 asti. Tehtäviä voi yhä palauttaa tämän jälkeen, mutta niillä ei ole vaikutusta kurssin arviointiin.
+Helsingin yliopiston arvostelusta poiketen Haaga-Helian toteutuksella ei yksittäisiin osioihin liittyviä minimipistemääriä. Pisteitä ei siis tarkastella osiokohtaisesti, vaan 25 % kokonaisuudesta riittää.
 
 Tehtävien arvosana pyöristetään vasta loppuarvosanaa laskettaessa.
+
 
 #### Mistä näen omat tehtäväpisteeni?
 
@@ -380,7 +364,7 @@ for arvosana, pistelista in tilasto.items():
 
 ## 📑 Aiemmin hankitun osaamisen tunnistaminen (AHOT)
 
-Jos olet hankkinut tämän opintojakson mukaisen osaamisen työn, harrastuksen tai muiden kurssien kautta, voit osoittaa osaamisesi viikkotehtävien ja kokeiden sijasta AHOT-menettelyllä. Ilmoittaudu tälle kurssille normaalisti ja ole yhteydessä kurssin opettajiin AHOT-järjestelyjen osalta kurssin ensimmäisen viikon aikana.
+Jos olet hankkinut tämän opintojakson mukaisen osaamisen työn, harrastuksen tai muiden kurssien kautta, voit osoittaa osaamisesi viikkotehtävien ja kokeiden sijasta AHOT-menettelyllä. Ilmoittaudu tälle kurssille normaalisti ja ole yhteydessä kurssin opettajiin AHOT-järjestelyjen osalta **viimeistään kurssin ensimmäisen viikon aikana**.
 
 Mikäli olet suorittanut Helsingin yliopiston kaikille avoimen Ohjelmoinnin perusteet -kurssin Pythonilla, [voit hakea saamasi suoritusmerkinnän perusteella hyväksilukua tästä kurssista](https://www.haaga-helia.fi/fi/osaamisen-tunnistaminen-ja-work-study).
 
