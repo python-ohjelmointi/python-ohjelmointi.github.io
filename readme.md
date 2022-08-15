@@ -176,9 +176,9 @@ Lue Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"]
 Intensiiviviikko, ei opetusta
 
 
-### 26.10. Välikoe
+### 26.10. Koe
 
-Välikoe. [Ohjeita kokeeseen liittyen.](./koe)
+Koe. [Ohjeita kokeeseen liittyen.](./koe)
 
 
 ### 2.11. Kokoelmat ja viittaukset (mooc.fi osa 5)
@@ -267,9 +267,9 @@ Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analyti
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa07)
 
 
-### 14.12. Loppukoe ja viikkotehtävien DL
+### 14.12. Koe ja viikkotehtävien DL
 
-* Loppukoe
+* Koe
 * <del>Kaikkien Mooc.fi-tehtävien DL on kokeen alussa</del> 
 
 [Ohjeita kokeeseen liittyen.](./koe)
@@ -286,13 +286,14 @@ Tarkemmat tiedot uusintakokeesta löydät kurssin Teams-kanavalta.-->
 
 ## 📈 Arviointi
 
-Kurssin arvosana muodostuu viikkotehtävien ja kokeiden arvosanojen perusteella seuraavasti:
+Kurssin loppuarvosana muodostuu viikkotehtävien ja kokeiden arvosanojen perusteella seuraavasti:
 
-* Viikkotehtävien painoarvo loppuarvosanasta on 50 %
-* Välikokeen painoarvo on 25 %
-* Loppukokeen painoarvo on 25 %
+* Viikkotehtävien painoarvo on 50 %
+* Kokeen painoarvo on 50 %
 
-Kokeissa vaadittu minimipistemäärä hyväksyttyyn suoritukseen on 40 % eli 10 pistettä. Kokeita on mahdollista uusia tutkintosäännön mukaisesti kahdessa seuraavassa uusintakokeessa, joista tiedotetaan kurssin Teams-kanavalla.
+Kurssin aikana järjestetään kaksi koetta, joiden arvosanoista parempi huomioidaan kurssin arvostelussa. Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa.
+
+Kokeissa vaadittu minimipistemäärä hyväksyttyyn suoritukseen on 40 % eli 10 pistettä. Koe on mahdollista uusia tutkintosäännön mukaisesti kahdesti, ja uusinnoista tiedotetaan kurssin Teams-kanavalla. [Tarkemmat ohjeet kokeen käytännön järjestelyihin liittyen löydät erilliseltä sivulta.](./koe)
 
 <!--Voitte halutessanne kokeilla arvosanalaskurilla, minkä loppuarvosanan eri osasuoritukset tuottavat: [https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri](https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri).-->
 
