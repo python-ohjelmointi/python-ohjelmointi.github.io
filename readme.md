@@ -79,11 +79,9 @@ Tämän kurssin tehtävät koostuvat vain ja ainoastaan mooc.fi:n **ohjelmointit
 * [Visual Studio Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
 
-## 🎬 Oppituntien videotallenteet ja koodiesimerkit
+## 🎬 Videotallenteet ja koodiesimerkit
 
-Oppituntien tallenteet löytyvät Teamsista sekä kurssin OneDrive-kansiosta.
-
-<!--TODO: Lisää syksyn 2022 linkki-->
+Helsingin yliopiston videotallenteet löytyvät [mooc.fi:stä](https://ohjelmointi-22.mooc.fi/#luentotallenteet). Haaga-Helian oppituntien tallenteet löydät Teamsista niiden oppituntien osalta, joilla opetus järjestetään verkossa.
 
 Tunneilla kirjoitettavat [esimerkkikoodit löytyvät tunnin jälkeen GitHubista](https://github.com/python-ohjelmointi/esimerkit/).
 
