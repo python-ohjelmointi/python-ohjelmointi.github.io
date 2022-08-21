@@ -176,9 +176,8 @@ Intensiiviviikko, ei opetusta
 
 ### 26.10. Koe
 
-Koe. [Ohjeita kokeeseen liittyen.](./koe)
-
-Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
+* [Ohjeita kokeeseen liittyen.](./koe)
+* Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
 
 
 ### 2.11. Kokoelmat ja viittaukset (mooc.fi osa 5)
@@ -269,11 +268,10 @@ Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analyti
 
 ### 14.12. Koe ja viikkotehtävien DL
 
-* Koe
+* [Ohjeita kokeeseen liittyen.](./koe)
 * Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
 * <del>Kaikkien Mooc.fi-tehtävien DL on kokeen alussa</del> 
 
-[Ohjeita kokeeseen liittyen.](./koe)
 
 Jätäthän kurssista vielä [opintojaksopalautetta!](https://mynet.haaga-helia.fi/group/pakki/opintopalaute)
 
