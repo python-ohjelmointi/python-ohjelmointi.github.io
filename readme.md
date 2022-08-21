@@ -178,6 +178,8 @@ Intensiiviviikko, ei opetusta
 
 Koe. [Ohjeita kokeeseen liittyen.](./koe)
 
+Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
+
 
 ### 2.11. Kokoelmat ja viittaukset (mooc.fi osa 5)
 
@@ -268,6 +270,7 @@ Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analyti
 ### 14.12. Koe ja viikkotehtävien DL
 
 * Koe
+* Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
 * <del>Kaikkien Mooc.fi-tehtävien DL on kokeen alussa</del> 
 
 [Ohjeita kokeeseen liittyen.](./koe)
@@ -289,7 +292,7 @@ Kurssin loppuarvosana muodostuu viikkotehtävien ja kokeiden arvosanojen peruste
 * Viikkotehtävien painoarvo on 50 %
 * Kokeen painoarvo on 50 %
 
-Kurssin aikana järjestetään kaksi koetta, joiden arvosanoista parempi huomioidaan kurssin arvostelussa. Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa.
+Kurssin aikana järjestetään kaksi koetta, joiden arvosanoista parempi huomioidaan kurssin arvostelussa. Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
 
 Kokeissa vaadittu minimipistemäärä hyväksyttyyn suoritukseen on 40 % eli 10 pistettä. Koe on mahdollista uusia tutkintosäännön mukaisesti kahdesti, ja uusinnoista tiedotetaan kurssin Teams-kanavalla. [Tarkemmat ohjeet kokeen käytännön järjestelyihin liittyen löydät erilliseltä sivulta.](./koe)
 
