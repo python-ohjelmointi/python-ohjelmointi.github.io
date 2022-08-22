@@ -290,9 +290,9 @@ Kurssin loppuarvosana muodostuu viikkotehtävien ja kokeiden arvosanojen peruste
 * Viikkotehtävien painoarvo on 50 %
 * Kokeen painoarvo on 50 %
 
-Kurssin aikana järjestetään kaksi koetta, joiden arvosanoista parempi huomioidaan kurssin arvostelussa. Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
+Kurssin aikana järjestetään kaksi koetta, joiden arvosanoista parempi huomioidaan kurssin arvostelussa. Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan. Jos kummastakaan kokeesta ei tule hyväksyttyä suoritusta, seuraava mahdollisuus kokeen suorittamiseksi on seuraavan lukukauden kurssikokeen yhteydessä.
 
-Kokeissa vaadittu minimipistemäärä hyväksyttyyn suoritukseen on 40 % eli 10 pistettä. Koe on mahdollista uusia tutkintosäännön mukaisesti kahdesti, ja uusinnoista tiedotetaan kurssin Teams-kanavalla. [Tarkemmat ohjeet kokeen käytännön järjestelyihin liittyen löydät erilliseltä sivulta.](./koe)
+Kokeissa vaadittu minimipistemäärä hyväksyttyyn suoritukseen on 40 % eli 10 pistettä. [Tarkemmat ohjeet kokeen käytännön järjestelyihin liittyen löydät erilliseltä sivulta.](./koe)
 
 <!--Voitte halutessanne kokeilla arvosanalaskurilla, minkä loppuarvosanan eri osasuoritukset tuottavat: [https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri](https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri).-->
 
