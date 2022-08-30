@@ -61,7 +61,7 @@ Tämän kurssin tehtävät koostuvat vain ja ainoastaan mooc.fi:n **ohjelmointit
 -->
 
 * [Opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/SOF004AS2A)
-* [Oppituntien esimerkkikoodit (GitHub)](https://github.com/python-ohjelmointi/esimerkit/)
+* [Oppituntien esimerkkikoodit (legacy)](https://github.com/python-ohjelmointi/esimerkit/)
 * [Oma pistetilanne (TMC-palvelussa)](https://tmc.mooc.fi/org/haaga-helia/courses/962/points)
 
 **Mooc.fi**
@@ -99,7 +99,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Ohjelmoinnin aloittaminen
 * Tietoa käyttäjältä
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-1)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
+* [📁 Oppitunnin esimerkkikoodit (legacy)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
 
 
 ### 31.8. Muuttujat ja ehdot (mooc.fi osa 1)
@@ -108,7 +108,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Laskentaa luvuilla
 * Ehtorakenne
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-1)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
+* [📁 Oppitunnin esimerkkikoodit (legacy)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
 
 
 ### 7.9. Terminologia, ehtolauseet (mooc.fi osa 2)
@@ -116,7 +116,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Ohjelmoinnin termejä
 * Lisää ehtolauseita
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-2)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
+* [📁 Oppitunnin esimerkkikoodit (legacy)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
 
 
 ### 14.9. Toistorakenteet (mooc.fi osa 2)
@@ -124,7 +124,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Ehtojen yhdistäminen
 * Yksinkertainen silmukka
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-2)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
+* [📁 Oppitunnin esimerkkikoodit (legacy)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
 
 
 ### 21.9. Merkkijonot (mooc.fi osa 3)
@@ -133,7 +133,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Merkkijonojen käsittely
 * [Merkkijonot Pythonin dokumentaatiossa](https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str)
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-3)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
+* [📁 Oppitunnin esimerkkikoodit (legacy)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
 
 ### 28.9. Toisto ja funktiot (mooc.fi osa 3)
@@ -143,7 +143,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Mitä `if __name__ == '__main__':` tekee? (katso [selitys](https://stackoverflow.com/a/419185) ja [Pythonin dokumentaatio](https://docs.python.org/3/tutorial/modules.html#executing-modules-as-scripts))
 * Mitä vaihtoehtoja `__name__ == '__main__'`-vertailulle on?
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-3)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
+* [📁 Oppitunnin esimerkkikoodit (legacy)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
 
 ### 5.10. TMC, funktiot ja listat (mooc.fi osa 4)
@@ -156,7 +156,7 @@ Lue Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"]
 * Lisää funktioista
 * Listat
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-4)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
+* [📁 Oppitunnin esimerkkikoodit (legacy)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
 
 
 ### 12.10. Listojen läpikäynti (mooc.fi osa 4)
@@ -166,7 +166,7 @@ Lue Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"]
 * Lisää merkkijonoista ja listoista
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-4)
 * [Doctest-työkalu](https://docs.python.org/3/library/doctest.html)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
+* [📁 Oppitunnin esimerkkikoodit (legacy)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
 
 
 ### 19.10. ~~Intensiiviviikko~~
@@ -189,7 +189,7 @@ Intensiiviviikko, ei opetusta
 * [namedtuple](https://docs.python.org/3/library/collections.html#collections.namedtuple)
 * Milloin käytän eri kokoelmatyyppejä?!
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-5)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa05)
+* [📁 Oppitunnin esimerkkikoodit (legacy)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa05)
 
 
 <!--
@@ -231,7 +231,7 @@ Tällä tunnilla paneudumme siihen, miten huomioimme vaihtelevat suoritusympäri
     * [Python 3's pathlib Module: Taming the File System (realpython.com)](https://realpython.com/python-pathlib/)
 * Eri merkistöjen käsittely
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-6)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
+* [📁 Oppitunnin esimerkkikoodit (legacy)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
 
 
 ### 23.11. Virhetilanteisiin varautuminen ja testaaminen (mooc.fi osa 6)
@@ -240,7 +240,7 @@ Tällä tunnilla paneudumme siihen, miten huomioimme vaihtelevat suoritusympäri
 * Virhetilanteisiin varautuminen
 * Paikalliset ja globaalit muuttujat
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-6)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
+* [📁 Oppitunnin esimerkkikoodit (legacy)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
 
 
 
@@ -263,7 +263,7 @@ Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analyti
 * Oman moduulin tekeminen
 * Lisää Pythonista
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-7)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa07)
+* [📁 Oppitunnin esimerkkikoodit (legacy)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa07)
 
 
 ### 14.12. Koe ja viikkotehtävien DL
