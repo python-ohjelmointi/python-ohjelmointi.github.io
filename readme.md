@@ -270,7 +270,7 @@ Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analyti
 
 * [Ohjeita kokeeseen liittyen.](./koe)
 * Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
-* <del>Kaikkien Mooc.fi-tehtävien DL on kokeen alussa</del> 
+* Kaikkien Mooc.fi-tehtävien DL on kokeen alussa
 
 
 Jätäthän kurssista vielä [opintojaksopalautetta!](https://mynet.haaga-helia.fi/group/pakki/opintopalaute)
