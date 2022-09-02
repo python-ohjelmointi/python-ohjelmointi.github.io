@@ -43,13 +43,19 @@ Kurssin keskeyttäminen ei ole Haaga-Helian linjauksia noudattaen mahdollista en
 
 ## 👨‍🏫 Helsingin yliopiston mooc ja kurssin tehtävät
 
-Kurssin harjoitusympäristönä ja pääasiallisena materiaalina hyödynnetään Helsingin yliopiston ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-22.mooc.fi/](https://ohjelmointi-22.mooc.fi/). Suoritamme mooc.fi:ssä ohjelmoinnin perusteet -osiota (osat 1-7), emmekä etene ohjelmoinnin jatkokurssille.
+Kurssin harjoitusympäristönä ja pääasiallisena materiaalina hyödynnetään Helsingin yliopiston ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-22.mooc.fi/](https://ohjelmointi-22.mooc.fi/). Suoritamme mooc.fi:ssä **ohjelmoinnin perusteet** -osiota (osat 1-7), emmekä etene ohjelmoinnin jatkokurssille.
 
 Haaga-Helian kurssin suorittamiseksi sinun tulee vaihtaa kurssitoteutukseksi mooc.fi:ssä juuri Haaga-Helian toteutus seuraavan ohjeen mukaisesti:
 
 [**Mooc.fi-rekisteröityminen ja Haaga-Helian toteutukselle liittyminen.**](kurssille-liittyminen)
 
 Tämän kurssin tehtävät koostuvat vain ja ainoastaan mooc.fi:n **ohjelmointitehtävistä**. Kyselyihin ja kertauskyselyihin antamanne vastaukset ja niistä saamanne pisteet eivät tallennu samaan järjestelmään ohjelmointitehtävien kanssa, eikä niitä huomioida kurssin arvioinnissa.
+
+### 🧙‍♂️ Ohjelmoinnin jatkokurssi
+
+Haaga-Helian omassa tarjonnassa ei ole tällä hetkellä Python-ohjelmoinnin jatkokurssia, mutta sellainen on mahdollista suorittaa itsenäisesti Helsingin yliopiston mooc.fi-palvelussa.
+
+Saatuasi jatkokurssin suoritettua HY:n puolella voit hakea opintojakson sisällyttämistä tutkintoosi. Lisätietoja löydät sivulta [https://www.haaga-helia.fi/fi/osaamisen-tunnistaminen-ja-work-study](https://www.haaga-helia.fi/fi/osaamisen-tunnistaminen-ja-work-study) kohdasta "hyväksiluku".
 
 
 ## 🔗 Tärkeät linkit
