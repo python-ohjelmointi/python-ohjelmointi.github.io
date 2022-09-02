@@ -61,7 +61,8 @@ Tämän kurssin tehtävät koostuvat vain ja ainoastaan mooc.fi:n **ohjelmointit
 -->
 
 * [Opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/SOF004AS2A)
-* [Oppituntien esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/)
+* [Oppituntien esimerkkikoodit (syksy 2022)](https://github.com/python-ohjelmointi/esimerkit-s22/)
+* [Oppituntien esimerkkikoodit (arkisto, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/)
 * [Oma pistetilanne (TMC-palvelussa)](https://tmc.mooc.fi/org/haaga-helia/courses/962/points)
 
 **Mooc.fi**
@@ -83,7 +84,7 @@ Tämän kurssin tehtävät koostuvat vain ja ainoastaan mooc.fi:n **ohjelmointit
 
 Helsingin yliopiston videotallenteet löytyvät [mooc.fi:stä](https://ohjelmointi-22.mooc.fi/#luentotallenteet). Haaga-Helian oppituntien tallenteet löydät Teamsista niiden oppituntien osalta, joilla opetus järjestetään verkossa.
 
-Tunneilla kirjoitettavat [esimerkkikoodit löytyvät tunnin jälkeen GitHubista](https://github.com/python-ohjelmointi/esimerkit/).
+Tunneilla kirjoitettavat [esimerkkikoodit löytyvät tunnin jälkeen GitHubista (syksy 2022)](https://github.com/python-ohjelmointi/esimerkit-s22/).
 
 
 ## 📅 Aikataulu
@@ -99,6 +100,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Ohjelmoinnin aloittaminen
 * Tietoa käyttäjältä
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-1)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa01)
 * [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
 
 
@@ -108,6 +110,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Laskentaa luvuilla
 * Ehtorakenne
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-1)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa01)
 * [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
 
 
