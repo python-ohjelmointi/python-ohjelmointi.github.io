@@ -51,7 +51,7 @@ Haaga-Helian kurssin suorittamiseksi sinun tulee vaihtaa kurssitoteutukseksi moo
 
 Tämän kurssin tehtävät koostuvat vain ja ainoastaan mooc.fi:n **ohjelmointitehtävistä**. Kyselyihin ja kertauskyselyihin antamanne vastaukset ja niistä saamanne pisteet eivät tallennu samaan järjestelmään ohjelmointitehtävien kanssa, eikä niitä huomioida kurssin arvioinnissa.
 
-### Ohjelmoinnin jatkokurssi
+### 🧙‍♂️ Ohjelmoinnin jatkokurssi
 
 Haaga-Helian omassa tarjonnassa ei ole tällä hetkellä Python-ohjelmoinnin jatkokurssia, mutta sellainen on mahdollista suorittaa itsenäisesti Helsingin yliopiston mooc.fi-palvelussa.
 
