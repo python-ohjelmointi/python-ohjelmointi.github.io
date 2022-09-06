@@ -408,6 +408,6 @@ Mikäli olet suorittanut Helsingin yliopiston kaikille avoimen Ohjelmoinnin peru
 
 <small><a href="https://github.com/python-ohjelmointi/python-ohjelmointi.github.io/edit/main/readme.md">Ehdota muutosta tälle sivulle.</a></small>
 
-<script src="/tocbot/tocbot.min.js"></script>
+<!--script src="/tocbot/tocbot.min.js"></script-->
 <script src="/scripts.js"></script>
 <link rel="stylesheet" href="/tocbot/tocbot.css" />
