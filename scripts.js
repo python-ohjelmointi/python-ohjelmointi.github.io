@@ -3,6 +3,7 @@ document.querySelectorAll('a[href^="http"]').forEach(link => link.target = '_bla
 
 if (window.tocbot) {
     tocbot.init({
+        scrollSmooth: false,
         tocSelector: '.js-toc',
         contentSelector: '.main-content',
         disableTocScrollSync: true,
