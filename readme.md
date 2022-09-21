@@ -154,6 +154,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Mitä `if __name__ == '__main__':` tekee? (katso [selitys](https://stackoverflow.com/a/419185) ja [Pythonin dokumentaatio](https://docs.python.org/3/tutorial/modules.html#executing-modules-as-scripts))
 * Mitä vaihtoehtoja `__name__ == '__main__'`-vertailulle on?
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-3)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-3)
 * [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
 
