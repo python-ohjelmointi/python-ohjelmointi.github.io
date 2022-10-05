@@ -144,6 +144,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Merkkijonojen käsittely
 * [Merkkijonot Pythonin dokumentaatiossa](https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str)
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-3)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa03)
 * [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
 
@@ -154,7 +155,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Mitä `if __name__ == '__main__':` tekee? (katso [selitys](https://stackoverflow.com/a/419185) ja [Pythonin dokumentaatio](https://docs.python.org/3/tutorial/modules.html#executing-modules-as-scripts))
 * Mitä vaihtoehtoja `__name__ == '__main__'`-vertailulle on?
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-3)
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-3)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa03)
 * [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
 
@@ -168,6 +169,7 @@ Lue Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"]
 * Lisää funktioista
 * Listat
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-4)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa04)
 * [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
 
 
@@ -178,6 +180,7 @@ Lue Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"]
 * Lisää merkkijonoista ja listoista
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-4)
 * [Doctest-työkalu](https://docs.python.org/3/library/doctest.html)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa04)
 * [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
 
 
