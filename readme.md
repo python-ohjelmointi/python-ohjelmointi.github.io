@@ -62,10 +62,8 @@ Saatuasi jatkokurssin suoritettua HY:n puolella voit hakea opintojakson sisälly
 
 **Tämä kurssi**
 
-<!-- TODO: Päivitä syksyn 2022 linkki
-* [Oppituntien videot (OneDrive)](https://haagahelia.sharepoint.com/:f:/r/teams/Python-ohjelmointi/Shared%20Documents/General/Recordings?csf=1&web=1&e=J6kP7Y)
--->
 
+* [Oppituntien videot (OneDrive)](https://haagahelia.sharepoint.com/:f:/r/teams/Python-ohjelmointi71/Jaetut%20asiakirjat/General/Recordings?csf=1&web=1&e=4DVuVR)
 * [Opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/SOF004AS2A)
 * [Oppituntien esimerkkikoodit (syksy 2022)](https://github.com/python-ohjelmointi/esimerkit-s22/)
 * [Oppituntien esimerkkikoodit (arkisto, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/)
