@@ -49,7 +49,7 @@ Harjoituskokeessa tehtäviä, jotka on lainattu kurssin viikkotehtävistä. Koke
 
 ## Kokeeseen osallistuminen
 
-Liittykää Viopen etusivulla kurssille nimeltä "Python-ohjelmointi, kevät 2022". Voitte liittyä kurssille jo etukäteen, mutta koetehtävät aukeavat ajastetusti kokeen alkuhetkellä. Päivitä tarvittaessa Viopen näkymä selaimessasi kokeen alkaessa, jotta pääset siirtymään tehtäviin.
+Liittykää Viopen etusivulla kurssille nimeltä "Python-ohjelmointi, syksy 2022". Voitte liittyä kurssille jo etukäteen, mutta koetehtävät aukeavat ajastetusti kokeen alkuhetkellä. Päivitä tarvittaessa Viopen näkymä selaimessasi kokeen alkaessa, jotta pääset siirtymään tehtäviin.
 
 Seuratkaa kokeen aikana kelloa tai laittakaa itsellenne muistutus, jotta varmasti ehditte lähettää ja tallentaa kaikki tehtävät ennen kokeen päättymistä.
 
