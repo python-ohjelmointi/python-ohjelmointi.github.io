@@ -189,6 +189,7 @@ Intensiiviviikko, ei opetusta
 
 ### 26.10. Koe
 
+* Tässä kokeessa koealue on mooc.fi:n osat 1-4.
 * [Ohjeita kokeeseen liittyen.](./koe)
 * Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
 
@@ -281,6 +282,7 @@ Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analyti
 
 ### 14.12. Koe ja viikkotehtävien DL
 
+* Tässä kokeessa koealue painottuu mooc.fi:n osiin 1-4, mutta myös osien 5-7 osaaminen voi olla yksittäisissä tehtävissä tarpeen.
 * [Ohjeita kokeeseen liittyen.](./koe)
 * Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
 * Kaikkien Mooc.fi-tehtävien DL on kokeen alussa
