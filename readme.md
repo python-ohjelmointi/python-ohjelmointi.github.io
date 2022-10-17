@@ -93,7 +93,7 @@ Tunneilla kirjoitettavat [esimerkkikoodit löytyvät tunnin jälkeen GitHubista 
 
 ## 📅 Aikataulu
 
-Kurssin tehtävillä ei ole yksittäisiä määräaikoja. Kurssin arvioinnissa huomioidaan ne pisteet, jotka on kertynyt tehtävistä kurssin loppukokeeseen mennessä. Loppukokeen jälkeen tehtäviä voi edelleen ratkoa, mutta ne eivät vaikuta arviointiin.
+Kurssin tehtävillä ei ole yksittäisiä määräaikoja. Kurssin arvioinnissa huomioidaan ne pisteet, jotka on kertynyt tehtävistä kurssin jälkimmäiseen kokeeseen mennessä (14.12.2022). Tämänkin jälkeen tehtäviä voi edelleen ratkoa, mutta ne eivät enää vaikuta arviointiin.
 
 Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli tekemään aina sen osan tehtäviä, jota käsitellään oppitunnilla. Helsingin yliopiston opintojakson etenemisvauhti on huomattavasti meidän vauhtiamme nopeampi ja voit myös edetä heidän tahdissaan.
 
