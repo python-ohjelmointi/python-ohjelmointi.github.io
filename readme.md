@@ -285,7 +285,7 @@ Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analyti
 * Tässä kokeessa koealue painottuu mooc.fi:n osiin 1-4, mutta myös osien 5-7 osaaminen voi olla yksittäisissä tehtävissä tarpeen.
 * [Ohjeita kokeeseen liittyen.](./koe)
 * Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
-* Kaikkien Mooc.fi-tehtävien DL on kokeen alussa
+* **Kaikkien Mooc.fi-tehtävien DL on kokeen alussa.**
 
 
 Jätäthän kurssista vielä [opintojaksopalautetta!](https://mynet.haaga-helia.fi/group/pakki/opintopalaute)
@@ -310,6 +310,11 @@ Kurssin aikana järjestetään kaksi koetta, joiden arvosanoista parempi huomioi
 Kokeissa vaadittu minimipistemäärä hyväksyttyyn suoritukseen on 40 % eli 10 pistettä. [Tarkemmat ohjeet kokeen käytännön järjestelyihin liittyen löydät erilliseltä sivulta.](./koe)
 
 <!--Voitte halutessanne kokeilla arvosanalaskurilla, minkä loppuarvosanan eri osasuoritukset tuottavat: [https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri](https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri).-->
+
+
+### Viikkotehtävien DL
+
+Mooc.fi:n eri osioiden tehtävillä ei ole tällä kurssilla erillisiä määräaikoja, vaan kaikkien tehtävien yhteinen DL on kurssin "loppukokeen" alussa 14.12.2022.
 
 
 ### Viikkotehtävien arviointi
