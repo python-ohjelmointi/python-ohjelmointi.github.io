@@ -309,7 +309,7 @@ Kurssin aikana järjestetään kaksi koetta, joiden arvosanoista parempi huomioi
 
 Kokeissa vaadittu minimipistemäärä hyväksyttyyn suoritukseen on 40 % eli 10 pistettä. [Tarkemmat ohjeet kokeen käytännön järjestelyihin liittyen löydät erilliseltä sivulta.](./koe)
 
-<!--Voitte halutessanne kokeilla arvosanalaskurilla, minkä loppuarvosanan eri osasuoritukset tuottavat: [https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri](https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri).-->
+Voitte halutessanne kokeilla arvosanalaskurilla, minkä loppuarvosanan eri osasuoritukset tuottavat: [https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri](https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri).
 
 
 ### Viikkotehtävien DL
