@@ -194,7 +194,12 @@ Intensiiviviikko, ei opetusta
 * Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
 
 
-### 2.11. Kokoelmat ja viittaukset (mooc.fi osa 5)
+### 2.11. Data-analytiikkaa Pythonilla (vierailijaluento *kampuksella*)
+
+Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analytiikassa. Oppitunti järjestetään poikkeuksellisesti **vain kampuksella**, ja Teams-vaihtoehtoa ei ole tällä kertaa tarjolla. Oppitunnilla tarvitset Anaconda-työkalua, jonka voit asentaa itsellesi [täältä](https://www.anaconda.com/products/distribution). Mikäli käytät luokan konetta, pitäisi Anacondan olla valmiiksi asennettuna.
+
+
+### 9.11. Kokoelmat ja viittaukset (mooc.fi osa 5)
 
 * Lisää listoista
 * Viittaukset
@@ -229,12 +234,12 @@ Intensiiviviikko, ei opetusta
     * Namedtuple:a voidaan oikeastaan ajatella pikemminkin omana tietotyyppinä kuin kokoelmana.
 -->
 
-### 9.11. Kokoelmat ja viittaukset (mooc.fi osa 5)
+### 16.11. Kokoelmat ja viittaukset (mooc.fi osa 5)
 
 Edellisellä viikolla aloitettu aihe jatkuu.
 
 
-### 16.11. Tiedostojen lukeminen ja kirjoittaminen (mooc.fi osa 6)
+### 23.11. Tiedostojen lukeminen ja kirjoittaminen (mooc.fi osa 6)
 
 Tällä tunnilla paneudumme siihen, miten huomioimme vaihtelevat suoritusympäristöt ja kirjoitamme koodia, joka toimii myös muualla kuin omalla koneellamme. Keskeisiä aiheita tulevat olemaan tiedostojen polut sekä merkistöt, jotka vaihtelevat käyttöjärjestelmäkohtaisesti.
 
@@ -248,24 +253,13 @@ Tällä tunnilla paneudumme siihen, miten huomioimme vaihtelevat suoritusympäri
 * [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
 
 
-### 23.11. Virhetilanteisiin varautuminen ja testaaminen (mooc.fi osa 6)
+### 30.11. Virhetilanteisiin varautuminen ja testaaminen (mooc.fi osa 6)
 
 * Oman koodin yksikkötestaaminen
 * Virhetilanteisiin varautuminen
 * Paikalliset ja globaalit muuttujat
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-6)
 * [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
-
-
-
-### 30.11. Mahdollinen vierailijaluento
-
-Pyrimme sisällyttämään kurssille vierailijaluennon, jonka tarkemmat tiedot julkaistaan myöhemmin.
-
-<!--Data-analytiikkaa Pythonilla (vierailijaluento)
-
-Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analytiikassa. Oppitunti järjestetään poikkeuksellisesti **vain kampuksella**, ja Teams-vaihtoehtoa ei ole tällä kertaa tarjolla. Oppitunnilla tarvitset Anaconda-työkalua, jonka voit asentaa itsellesi [täältä](https://www.anaconda.com/products/distribution). Jos et halua asentaa työkalua omalle koneellesi, niin voit vaihtoehtoisesti käyttää tarvittavia työkaluja [Google-tunnusten avulla pilvessä](https://colab.research.google.com/) tai mahdollisesti VDI:n kautta Haaga-Helian ympäristössä.-->
-
 
 
 ### 7.12. Soveltavat aiheet (mooc.fi osa 7)
