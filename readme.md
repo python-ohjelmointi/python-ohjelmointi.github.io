@@ -196,7 +196,7 @@ Intensiiviviikko, ei opetusta
 
 ### 2.11. Data-analytiikkaa Pythonilla (vierailijaluento *kampuksella*)
 
-Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analytiikassa. Oppitunti järjestetään poikkeuksellisesti **vain kampuksella**, ja Teams-vaihtoehtoa ei ole tällä kertaa tarjolla. Oppitunnilla tarvitset Anaconda-työkalua, jonka voit asentaa itsellesi [täältä](https://www.anaconda.com/products/distribution). Mikäli käytät luokan konetta, pitäisi Anacondan olla valmiiksi asennettuna.
+Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analytiikassa. Oppitunti järjestetään poikkeuksellisesti **vain kampuksella**, ja Teams-vaihtoehtoa ei ole tällä kertaa tarjolla.
 
 
 ### 9.11. Kokoelmat ja viittaukset (mooc.fi osa 5)
