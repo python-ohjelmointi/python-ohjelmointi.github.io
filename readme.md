@@ -68,6 +68,8 @@ Saatuasi jatkokurssin suoritettua HY:n puolella voit hakea opintojakson sisälly
 * [Oppituntien esimerkkikoodit (syksy 2022)](https://github.com/python-ohjelmointi/esimerkit-s22/)
 * [Oppituntien esimerkkikoodit (arkisto, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/)
 * [Oma pistetilanne (TMC-palvelussa)](https://tmc.mooc.fi/org/haaga-helia/courses/962/points)
+* [Sekalaisia vinkkejä työkaluihin liittyen](/vinkit)
+
 
 **Mooc.fi**
 
