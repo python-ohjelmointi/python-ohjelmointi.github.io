@@ -194,9 +194,11 @@ Intensiiviviikko, ei opetusta
 * Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
 
 
-### 2.11. Data-analytiikkaa Pythonilla (vierailijaluento *kampuksella*)
+### 2.11. ~~Data-analytiikkaa Pythonilla (vierailijaluento *kampuksella*)~~
 
-Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analytiikassa. Oppitunti järjestetään poikkeuksellisesti **vain kampuksella**, ja Teams-vaihtoehtoa ei ole tällä kertaa tarjolla.
+**Päivitys:** Vierailun sijasta järjestämme oppitunnin normaalisti kampuksella ja Teamsissa.
+
+~~Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analytiikassa. Oppitunti järjestetään poikkeuksellisesti **vain kampuksella**, ja Teams-vaihtoehtoa ei ole tällä kertaa tarjolla.~~
 
 
 ### 9.11. Kokoelmat ja viittaukset (mooc.fi osa 5)
