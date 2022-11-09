@@ -243,6 +243,8 @@ Intensiiviviikko, ei opetusta
 
 Edellisellä viikolla aloitettu aihe jatkuu.
 
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa05)
+
 
 ### 23.11. Tiedostojen lukeminen ja kirjoittaminen (mooc.fi osa 6)
 
