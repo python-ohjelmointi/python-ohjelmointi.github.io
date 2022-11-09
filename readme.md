@@ -212,6 +212,7 @@ Intensiiviviikko, ei opetusta
 * [namedtuple](https://docs.python.org/3/library/collections.html#collections.namedtuple)
 * Milloin käytän eri kokoelmatyyppejä?!
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-5)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa05)
 * [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa05)
 
 
