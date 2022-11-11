@@ -163,7 +163,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 
 💡 **Osasta 4 alkaen tehtävät palautetaan VS Code:n TMC-laajennuksen avulla, eikä tehtäviä voi palauttaa enää verkkoselaimen kautta.**
 
-Lue Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen) sekä ["ohjelmoinnin aloittaminen"](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen). Varmista lisäksi, että liityt myös VS Codessa oikealle kurssille [tämän kuvan mukaisesti](./img/kurssin-valinta-tmc.png).
+> Lue Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen) sekä ["ohjelmoinnin aloittaminen"](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen). Varmista lisäksi, että liityt myös VS Codessa oikealle kurssille [tämän kuvan mukaisesti](./img/kurssin-valinta-tmc.png).
 
 * Visual Studio Code -editori, Python-tulkki ja debuggeri
 * Lisää funktioista
@@ -241,6 +241,8 @@ Intensiiviviikko, ei opetusta
 
 ### 16.11. Kokoelmat ja viittaukset (mooc.fi osa 5)
 
+> Kurssin sudoku-tehtävien myötä saatte itsellenne toimivan sudoku-tarkastuslogiikan, mutta varsinaisen pelattavan pelin kehittäminen ei ole osana harjoitustehtäväpakettia. Jos haluat, voit hyödyntää oman koodisi kokeilemisessa tätä kurssi varten toteutettua [sudoku-tekstikäyttöliittymää](https://github.com/python-ohjelmointi/esimerkit-s22/tree/main/sudoku).
+
 Edellisellä viikolla aloitettu aihe jatkuu.
 
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa05)
@@ -248,7 +250,7 @@ Edellisellä viikolla aloitettu aihe jatkuu.
 
 ### 23.11. Tiedostojen lukeminen ja kirjoittaminen (mooc.fi osa 6)
 
-Tällä tunnilla paneudumme siihen, miten huomioimme vaihtelevat suoritusympäristöt ja kirjoitamme koodia, joka toimii myös muualla kuin omalla koneellamme. Keskeisiä aiheita tulevat olemaan tiedostojen polut sekä merkistöt, jotka vaihtelevat käyttöjärjestelmäkohtaisesti.
+> Tällä tunnilla paneudumme siihen, miten huomioimme vaihtelevat suoritusympäristöt ja kirjoitamme koodia, joka toimii myös muualla kuin omalla koneellamme. Keskeisiä aiheita tulevat olemaan tiedostojen polut sekä merkistöt, jotka vaihtelevat käyttöjärjestelmäkohtaisesti.
 
 * Tiedostojen lukeminen
 * Tiedostojen kirjoittaminen
@@ -270,6 +272,8 @@ Tällä tunnilla paneudumme siihen, miten huomioimme vaihtelevat suoritusympäri
 
 
 ### 7.12. Soveltavat aiheet (mooc.fi osa 7)
+
+> 🔐 Huom! Saatat törmätä tämän osan "Kurssien tilastot" -tehtävässä hankaliin SSL-virheisiin. Mooc.fi:ssä on annettu vinkkejä ongelman kiertämiseksi, mutta kyseisessä tehtävässä voi olla helpointa käyttää [vaihtoehtoista palvelinta, jolla on eri tahon myöntämä sertifikaatti](./vinkit#ssl-virheet-tehtävässä-kurssien-tilastot).
 
 * Moduulit
 * Satunnaisuus
