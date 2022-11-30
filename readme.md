@@ -259,6 +259,7 @@ Edellisellä viikolla aloitettu aihe jatkuu.
     * [Python 3's pathlib Module: Taming the File System (realpython.com)](https://realpython.com/python-pathlib/)
 * Eri merkistöjen käsittely
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-6)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa06)
 * [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
 
 
@@ -268,6 +269,7 @@ Edellisellä viikolla aloitettu aihe jatkuu.
 * Virhetilanteisiin varautuminen
 * Paikalliset ja globaalit muuttujat
 * [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-6)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa06)
 * [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
 
 
