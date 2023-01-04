@@ -1,10 +1,10 @@
 <h1 class="js-toc-ignore">Python-ohjelmointi</h1>
 
-Tämän kurssin opettajina toimivat Teemu Havulinna ja Kasper Valtakari (etunimi.sukunimi@haaga-helia.fi).
+Tämän kurssin opettajina toimivat Teemu Havulinna ja Heikki Raatikainen (etunimi.sukunimi@haaga-helia.fi). Kurssin kehittämisessä on ollut mukana myös Kasper Valtakari.
 
-Kurssista järjestetään rinnakkaisia toteutuksia, joille on kaikille samat käytännön järjestelyt ja yhteiset oppitunnit. Kaikki opiskelijat ovat yhtä lailla tervetulleita osallistumaan oppitunneille tai opiskelemaan virtuaalisesti riippumatta siitä, mikä sattuu olemaan juuri teidän oman toteutuksenne toteutustapa.
+Kurssista järjestetään samanaikaisesti rinnakkaisia toteutuksia, joille on kaikille samat käytännön järjestelyt ja yhteiset oppitunnit. Kaikki opiskelijat ovat yhtä lailla tervetulleita osallistumaan oppitunneille tai opiskelemaan virtuaalisesti riippumatta siitä, mikä sattuu olemaan juuri teidän oman toteutuksenne toteutustapa.
 
-Kurssin oppitunnit järjestetään **keskiviikkoisin klo 11-13.45**.
+Kurssin oppitunnit järjestetään MS Teamsissa **keskiviikkoisin klo 14-16.45**.
 
 
 **Tällä sivulla:**
@@ -14,7 +14,7 @@ Kurssin oppitunnit järjestetään **keskiviikkoisin klo 11-13.45**.
 
 ## 💬 Tiedotus- ja tukikanavat
 
-Kurssin tiedotus- ja tukikanavina käytämme omaa MS Teams -ryhmäämme ja [HY:n Discord-kanavia](https://ohjelmointi-22.mooc.fi/#tukivaylat). Discordissa on saatavissa reaaliaikaista apua jokaisena arkipäivänä [tämän aikataulun mukaisesti](https://ohjelmointi-22.mooc.fi/tuki#ohjausajat-discordissa).
+Kurssin tiedotus- ja tukikanavina käytämme omaa MS Teams -ryhmäämme ja [HY:n Discord-kanavia](https://ohjelmointi-23.mooc.fi/#tukivaylat). Discordissa on saatavissa reaaliaikaista apua jokaisena arkipäivänä [tämän aikataulun mukaisesti](https://ohjelmointi-23.mooc.fi/tuki#ohjausajat-discordissa).
 
 Kurssin suuresta osallistuja- ja tehtävämäärästä johtuen emme tarjoa ohjausta yksittäisiin tehtäviin sähköpostitse. Et kuitenkaan jää tehtävien kanssa yksin, kun käytät edellä mainittuja Teams- ja Discord-kanavia.
 
@@ -30,7 +30,7 @@ Kurssin osallistumisen vahvistaminen edellyttää kurssin järjestelmiin\* liitt
 
 Menettelyn ei ole tarkoitus karsia ketään pois kurssilta, vaan varmistaa, että työskentely kurssin parissa lähtee kaikilla hyvin käyntiin.
 
-<small>* Teams ja [ohjelmointi-22.mooc.fi](https://ohjelmointi-22.mooc.fi/)</small>
+<small>* Teams ja [ohjelmointi-23.mooc.fi](https://ohjelmointi-23.mooc.fi/)</small>
 
 ### Kurssin keskeyttäminen
 
@@ -43,7 +43,7 @@ Kurssin keskeyttäminen ei ole Haaga-Helian linjauksia noudattaen mahdollista en
 
 ## 👨‍🏫 Helsingin yliopiston mooc ja kurssin tehtävät
 
-Kurssin harjoitusympäristönä ja pääasiallisena materiaalina hyödynnetään Helsingin yliopiston ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-22.mooc.fi/](https://ohjelmointi-22.mooc.fi/). Suoritamme mooc.fi:ssä **ohjelmoinnin perusteet** -osiota (osat 1-7), emmekä etene ohjelmoinnin jatkokurssille.
+Kurssin harjoitusympäristönä ja pääasiallisena materiaalina hyödynnetään Helsingin yliopiston ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-23.mooc.fi/](https://ohjelmointi-23.mooc.fi/). Suoritamme mooc.fi:ssä **ohjelmoinnin perusteet** -osiota (osat 1-7), emmekä etene ohjelmoinnin jatkokurssille.
 
 Haaga-Helian kurssin suorittamiseksi sinun tulee vaihtaa kurssitoteutukseksi mooc.fi:ssä juuri Haaga-Helian toteutus seuraavan ohjeen mukaisesti:
 
@@ -65,101 +65,110 @@ Saatuasi jatkokurssin suoritettua HY:n puolella voit hakea opintojakson sisälly
 
 * [Oppituntien videot (OneDrive)](https://haagahelia.sharepoint.com/:f:/r/teams/Python-ohjelmointi71/Jaetut%20asiakirjat/General/Recordings?csf=1&web=1&e=4DVuVR)
 * [Opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/SOF004AS2A)
-* [Oppituntien esimerkkikoodit (syksy 2022)](https://github.com/python-ohjelmointi/esimerkit-s22/)
-* [Oppituntien esimerkkikoodit (arkisto, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/)
-* [Oma pistetilanne (TMC-palvelussa)](https://tmc.mooc.fi/org/haaga-helia/courses/962/points)
+* [Oma pistetilanne (TMC-palvelussa)](https://tmc.mooc.fi/org/haaga-helia/)
 * [Sekalaisia vinkkejä työkaluihin liittyen](/vinkit)
+* [Oppituntien esimerkkikoodit (kevät 2023)](https://github.com/python-ohjelmointi/esimerkit-k23/)
+* [Oppituntien esimerkkikoodit (arkisto, syksy 2022)](https://github.com/python-ohjelmointi/esimerkit-s22/)
+* [Oppituntien esimerkkikoodit (arkisto, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/)
 
 
 **Mooc.fi**
 
-* [Materiaalit ja tehtävät (https://ohjelmointi-22.mooc.fi/)](https://ohjelmointi-22.mooc.fi/)
+* [Materiaalit ja tehtävät (https://ohjelmointi-23.mooc.fi/)](https://ohjelmointi-23.mooc.fi/)
 * [HY:n Discordiin liittyminen](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc)
 * [TestMyCode -laajennuksen asentaminen VS Codeen](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen)
 * [TMC-laajennuksen käyttäminen](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen)
 
 **Python ja VS Code**
 
-* [Ohjelmoinnin perusteet Pythonilla. Teemu Sirkiä / Aalto-yliopisto](http://www.cs.hut.fi/~ttsirkia/Python.pdf)
+* [Ohjelmoinnin perusteet Pythonilla. PDF-kalvosetti. Teemu Sirkiä / Aalto-yliopisto](http://www.cs.hut.fi/~ttsirkia/Python.pdf)
 * [Python 3 - ohjelmointiopas (v. 1.2.1). Erno Vanhala ja Uolevi Nikula / Lappeenrannan Yliopisto](https://lutpub.lut.fi/bitstream/handle/10024/162088/Vanhala2020-Python3Ohjelmointiopas.pdf?sequence=1&isAllowed=y)
 * [The Python Tutorial](https://docs.python.org/3.10/tutorial/)
+* [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
 * [Visual Studio Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
 
 ## 🎬 Videotallenteet ja koodiesimerkit
 
-Helsingin yliopiston videotallenteet löytyvät [mooc.fi:stä](https://ohjelmointi-22.mooc.fi/#luentotallenteet). Haaga-Helian oppituntien tallenteet löydät Teamsista niiden oppituntien osalta, joilla opetus järjestetään verkossa.
+Helsingin yliopiston videotallenteet löytyvät [mooc.fi:stä](https://ohjelmointi-23.mooc.fi/#luentotallenteet). Haaga-Helian oppituntien tallenteet löydät Teamsista niiden oppituntien osalta, joilla opetus järjestetään verkossa. Lisäksi löydät erinomaisia Python-videoita YouTubesta, esim. [Harvardin CS50-kurssin soittolistalta](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V).
 
-Tunneilla kirjoitettavat [esimerkkikoodit löytyvät tunnin jälkeen GitHubista (syksy 2022)](https://github.com/python-ohjelmointi/esimerkit-s22/).
+Tunneilla kirjoitettavat [esimerkkikoodit löytyvät tunnin jälkeen GitHubista (kevät 2023)](https://github.com/python-ohjelmointi/esimerkit-k23/).
 
 
 ## 📅 Aikataulu
 
-Kurssin tehtävillä ei ole yksittäisiä määräaikoja. Kurssin arvioinnissa huomioidaan ne pisteet, jotka on kertynyt tehtävistä kurssin jälkimmäiseen kokeeseen mennessä (14.12.2022). Tämänkin jälkeen tehtäviä voi edelleen ratkoa, mutta ne eivät enää vaikuta arviointiin.
+Kurssin tehtävillä ei ole yksittäisiä määräaikoja. Kurssin arvioinnissa huomioidaan ne pisteet, jotka on kertynyt tehtävistä kurssin jälkimmäiseen kokeeseen mennessä. Tämänkin jälkeen tehtäviä voi edelleen ratkoa, mutta ne eivät enää vaikuta arviointiin.
 
 Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli tekemään aina sen osan tehtäviä, jota käsitellään oppitunnilla. Helsingin yliopiston opintojakson etenemisvauhti on huomattavasti meidän vauhtiamme nopeampi ja voit myös edetä heidän tahdissaan.
 
 
-### 24.8. Ohjelmoinnin aloitus (mooc.fi osa 1)
+### 18.1. Ohjelmoinnin aloitus (mooc.fi osa 1)
 
 * Ohjelmistojen asennus
 * Ohjelmoinnin aloittaminen
 * Tietoa käyttäjältä
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-1)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa01)
-* [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-1)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa01)
+* 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa01), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
 
 
-### 31.8. Muuttujat ja ehdot (mooc.fi osa 1)
+### 25.1. Muuttujat ja ehdot (mooc.fi osa 1)
 
 * Lisää muuttujista
 * Laskentaa luvuilla
 * Ehtorakenne
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-1)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa01)
-* [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-1)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa01)
+* 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa01), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
 
 
-### 7.9. Terminologia, ehtolauseet (mooc.fi osa 2)
+### 1.2. Terminologia, ehtolauseet (mooc.fi osa 2)
 
 * Ohjelmoinnin termejä
 * Lisää ehtolauseita
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-2)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa02)
-* [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-2)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa02)
+* 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa02), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
 
 
-### 14.9. Toistorakenteet (mooc.fi osa 2)
+### 8.2. Toistorakenteet (mooc.fi osa 2)
 
 * Ehtojen yhdistäminen
 * Yksinkertainen silmukka
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-2)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa02)
-* [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-2)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa02)
+* 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa02), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
 
 
-### 21.9. Merkkijonot (mooc.fi osa 3)
+### 15.2. Merkkijonot (mooc.fi osa 3)
 
 * Ehdot silmukoissa
 * Merkkijonojen käsittely
 * [Merkkijonot Pythonin dokumentaatiossa](https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str)
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-3)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa03)
-* [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-3)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa03)
+* 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa03), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
 
-### 28.9. Toisto ja funktiot (mooc.fi osa 3)
+
+### 22.2. Talvilomaviikko ❄
+
+Talvilomaviikko, ei opetusta.
+
+
+
+### 1.3. Toisto ja funktiot (mooc.fi osa 3)
 
 * [For-toistorakenne](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
 * [Omat funktiot](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
 * Mitä `if __name__ == '__main__':` tekee? (katso [selitys](https://stackoverflow.com/a/419185) ja [Pythonin dokumentaatio](https://docs.python.org/3/tutorial/modules.html#executing-modules-as-scripts))
 * Mitä vaihtoehtoja `__name__ == '__main__'`-vertailulle on?
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-3)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa03)
-* [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-3)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa03)
+* 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa03), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
 
-### 5.10. TMC, funktiot ja listat (mooc.fi osa 4)
+### 8.3. TMC, funktiot ja listat (mooc.fi osa 4)
 
 > 💡 **Osasta 4 alkaen tehtävät palautetaan VS Code:n TMC-laajennuksen avulla, eikä tehtäviä voi palauttaa enää verkkoselaimen kautta.**
 >
@@ -168,42 +177,40 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Visual Studio Code -editori, Python-tulkki ja debuggeri
 * Lisää funktioista
 * Listat
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-4)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa04)
-* [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-4)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa04)
+* 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa04), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
 
 
-### 12.10. Listojen läpikäynti (mooc.fi osa 4)
+### 15.3. Listojen läpikäynti (mooc.fi osa 4)
 
 * Silmukat ja iterointi
 * Tulostuksen muotoilu
 * Lisää merkkijonoista ja listoista
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-4)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-4)
 * [Doctest-työkalu](https://docs.python.org/3/library/doctest.html)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa04)
-* [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa04)
+* 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa04), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
 
 
-### 19.10. ~~Intensiiviviikko~~
+### 22.3. Intensiiviviikko
 
-Intensiiviviikko, ei opetusta
+Intensiiviviikko, ei opetusta.
 
 
-### 26.10. Koe
+### 29.3. Koe
 
 * Tässä kokeessa koealue on mooc.fi:n osat 1-4.
 * [Ohjeita kokeeseen liittyen.](./koe)
 * Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
 
 
-### 2.11. ~~Data-analytiikkaa Pythonilla (vierailijaluento *kampuksella*)~~
+### 5.4. Mahdollinen vierailijaluento
 
-**Päivitys:** Vierailun sijasta järjestämme oppitunnin normaalisti kampuksella ja Teamsissa.
-
-~~Aki Taanila vierailee kurssilla esittelemässä Pythonin käyttöä data-analytiikassa. Oppitunti järjestetään poikkeuksellisesti **vain kampuksella**, ja Teams-vaihtoehtoa ei ole tällä kertaa tarjolla.~~
+Tarkemmat tiedot mahdollisesta vierailusta päivitetään kurssin edetessä.
 
 
-### 9.11. Kokoelmat ja viittaukset (mooc.fi osa 5)
+### 12.4. Kokoelmat ja viittaukset (mooc.fi osa 5)
 
 * Lisää listoista
 * Viittaukset
@@ -211,44 +218,22 @@ Intensiiviviikko, ei opetusta
 * Tuple
 * [namedtuple](https://docs.python.org/3/library/collections.html#collections.namedtuple)
 * Milloin käytän eri kokoelmatyyppejä?!
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-5)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa05)
-* [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa05)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-5)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa05)
+* 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa05), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa05)
 
 
-<!--
-**Yhteenveto kokoelmien piirteistä:**
-
-* Listat
-
-    * Hyvä oletusratkaisu useiden arvojen tallentamiseen.
-
-* Sanakirjat
-
-    * Erinomainen ratkaisu tilanteissa, joissa tallennettaville arvoille halutaan muu kuin juokseva numeroindeksi.
-    * Isompien tietomäärien kanssa tyypillisesti hyvin tehokas ratkaisu.
-
-* Tuplet (monikko)
-
-    * Hyvä ratkaisu, kun kaikki kokoelmassa tarvittavat arvot on tiedossa jo kokoelmaa luotaessa.
-    * Erityisesti hyödyllinen tiedonvälityksessä paikasta toiseen.
-
-* Namedtuple
-
-    * Loogisesti erittäin selkeä ratkaisu tiedon jäsentämiseen tilanteissa, joissa jokaisella alkiolla on aina ennalta tunnetut arvot. Esimerkiksi kurssit, joilla on aina koodi, nimi ja opintopisteet.
-    * Namedtuple:a voidaan oikeastaan ajatella pikemminkin omana tietotyyppinä kuin kokoelmana.
--->
-
-### 16.11. Kokoelmat ja viittaukset (mooc.fi osa 5)
+### 19.4. Kokoelmat ja viittaukset (mooc.fi osa 5)
 
 > Kurssin sudoku-tehtävien myötä saatte itsellenne toimivan sudoku-tarkastuslogiikan, mutta varsinaisen pelattavan pelin kehittäminen ei ole osana harjoitustehtäväpakettia. Jos haluat, voit hyödyntää oman koodisi kokeilemisessa tätä kurssi varten toteutettua [sudoku-tekstikäyttöliittymää](https://github.com/python-ohjelmointi/esimerkit-s22/tree/main/sudoku).
 
 Edellisellä viikolla aloitettu aihe jatkuu.
 
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa05)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa05)
+* 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa05), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa05)
 
 
-### 23.11. Tiedostojen lukeminen ja kirjoittaminen (mooc.fi osa 6)
+### 26.4. Tiedostojen lukeminen ja kirjoittaminen (mooc.fi osa 6)
 
 > Tällä tunnilla paneudumme siihen, miten huomioimme vaihtelevat suoritusympäristöt ja kirjoitamme koodia, joka toimii myös muualla kuin omalla koneellamme. Keskeisiä aiheita tulevat olemaan tiedostojen polut sekä merkistöt, jotka vaihtelevat käyttöjärjestelmäkohtaisesti.
 
@@ -258,22 +243,22 @@ Edellisellä viikolla aloitettu aihe jatkuu.
     * [pathlib - Object-oriented filesystem paths (docs.python.org)](https://docs.python.org/3/library/pathlib.html)
     * [Python 3's pathlib Module: Taming the File System (realpython.com)](https://realpython.com/python-pathlib/)
 * Eri merkistöjen käsittely
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-6)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa06)
-* [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-6)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa06)
+* 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa06), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
 
 
-### 30.11. Virhetilanteisiin varautuminen ja testaaminen (mooc.fi osa 6)
+### 3.5. Virhetilanteisiin varautuminen ja testaaminen (mooc.fi osa 6)
 
 * Oman koodin yksikkötestaaminen
 * Virhetilanteisiin varautuminen
 * Paikalliset ja globaalit muuttujat
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-6)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa06)
-* [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-6)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa06)
+* 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa06), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
 
 
-### 7.12. Soveltavat aiheet (mooc.fi osa 7)
+### 10.5. Soveltavat aiheet (mooc.fi osa 7)
 
 > 🔐 Huom! Saatat törmätä tämän osan "Kurssien tilastot" -tehtävässä hankaliin SSL-virheisiin. Mooc.fi:ssä on annettu vinkkejä ongelman kiertämiseksi, mutta kyseisessä tehtävässä voi olla helpointa käyttää [vaihtoehtoista palvelinta, jolla on eri tahon myöntämä sertifikaatti](./vinkit#ssl-virheet-tehtävässä-kurssien-tilastot).
 
@@ -283,11 +268,12 @@ Edellisellä viikolla aloitettu aihe jatkuu.
 * Datan käsittely
 * Oman moduulin tekeminen
 * Lisää Pythonista
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-7)
-* [📁 Oppitunnin esimerkkikoodit (legacy, kevät 2022)](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa07)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-7)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa07)
+* 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa07), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa07)
 
 
-### 14.12. Koe ja viikkotehtävien DL
+### 17.5. Koe ja viikkotehtävien DL
 
 * Tässä kokeessa koealue painottuu mooc.fi:n osiin 1-4, mutta myös osien 5-7 osaaminen voi olla yksittäisissä tehtävissä tarpeen.
 * [Ohjeita kokeeseen liittyen.](./koe)
@@ -321,7 +307,7 @@ Voitte halutessanne kokeilla arvosanalaskurilla, minkä loppuarvosanan eri osasu
 
 ### Viikkotehtävien DL
 
-Mooc.fi:n eri osioiden tehtävillä ei ole tällä kurssilla erillisiä määräaikoja, vaan kaikkien tehtävien yhteinen DL on kurssin "loppukokeen" alussa 14.12.2022.
+Mooc.fi:n eri osioiden tehtävillä ei ole tällä kurssilla erillisiä määräaikoja, vaan kaikkien tehtävien yhteinen DL on kurssin jälkimmäisen kokeen alussa.
 
 
 ### Viikkotehtävien arviointi
@@ -335,7 +321,7 @@ Tehtävien arvosana pyöristetään vasta loppuarvosanaa laskettaessa.
 
 #### Mistä näen omat tehtäväpisteeni?
 
-Näet omat tehtäväpisteesi TMC-palvelusta kirjautumalla TMC-tunnuksillasi osoitteeseen [https://tmc.mooc.fi/org/haaga-helia/courses/962/points](https://tmc.mooc.fi/org/haaga-helia/courses/962/points).
+Näet omat tehtäväpisteesi TMC-palvelusta kirjautumalla TMC-tunnuksillasi osoitteeseen [https://tmc.mooc.fi/org/haaga-helia/](https://tmc.mooc.fi/org/haaga-helia/).
 
 
 #### Arvosanojen laskukaavat
@@ -409,7 +395,7 @@ Mikäli olet suorittanut Helsingin yliopiston kaikille avoimen Ohjelmoinnin peru
 >
 > Kurssin materiaali on lisensoitu [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fi) -lisenssillä.
 >
-> *[https://ohjelmointi-22.mooc.fi/credits](https://ohjelmointi-22.mooc.fi/credits)*
+> *[https://ohjelmointi-23.mooc.fi/credits](https://ohjelmointi-23.mooc.fi/credits)*
 
 
 ### Python ja Pythonin dokumentaatio

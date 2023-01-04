@@ -2,9 +2,9 @@
 
 # Mooc.fi-rekisteröityminen
 
-Kurssin harjoitusten suorittamiseksi sinun tulee rekisteröityä Helsingin yliopiston MOOC-kurssille osoitteessa [https://ohjelmointi-22.mooc.fi/](https://ohjelmointi-22.mooc.fi/). Sen lisäksi sinun tulee valita profiilisi asetuksista Haaga-Helian kurssi, jotta saat ratkaisemistasi tehtävistä pisteet.
+Kurssin harjoitusten suorittamiseksi sinun tulee rekisteröityä Helsingin yliopiston MOOC-kurssille osoitteessa [https://ohjelmointi-23.mooc.fi/](https://ohjelmointi-23.mooc.fi/). Sen lisäksi sinun tulee valita profiilisi asetuksista Haaga-Helian kurssi, jotta saat ratkaisemistasi tehtävistä pisteet.
 
-Kirjauduttuasi sisään verkkosivulle, siirry profiiliisi klikkaamalla oikean yläkulman käyttäjäkuvaketta tai suoraan linkistä [https://ohjelmointi-22.mooc.fi/profile](https://ohjelmointi-22.mooc.fi/profile).
+Kirjauduttuasi sisään verkkosivulle, siirry profiiliisi klikkaamalla oikean yläkulman käyttäjäkuvaketta tai suoraan linkistä [https://ohjelmointi-23.mooc.fi/profile](https://ohjelmointi-23.mooc.fi/profile).
 
 Rastita sen jälkeen ruutu "Suoritan muuta kurssia kuin mooc.fi:n kaikille avointa verkkokurssia tai Helsingin yliopiston kurssia" ja valitse pudotusvalikosta "Haaga-Helia: Python-ohjelmointi...".
 
