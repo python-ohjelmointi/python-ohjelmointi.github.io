@@ -12,4 +12,6 @@ Rastita sen jälkeen ruutu "Suoritan muuta kurssia kuin mooc.fi:n kaikille avoin
 
 Muista myös tallentaa profiilisi muutokset sivun alaosan "Tallenna" painikkeella.
 
+💡 **Huom! Haaga-Helian toteutus ei ole välttämättä valittavissa ennen kurssin alkua.**
+
 <script src="scripts.js"></script>

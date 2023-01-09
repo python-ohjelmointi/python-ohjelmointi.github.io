@@ -47,6 +47,8 @@ Kurssin harjoitusympäristönä ja pääasiallisena materiaalina hyödynnetään
 
 Haaga-Helian kurssin suorittamiseksi sinun tulee vaihtaa kurssitoteutukseksi mooc.fi:ssä juuri Haaga-Helian toteutus seuraavan ohjeen mukaisesti:
 
+💡 **Huom! Haaga-Helian toteutus ei ole välttämättä valittavissa vielä ennen kurssin alkua.**
+
 [**Mooc.fi-rekisteröityminen ja Haaga-Helian toteutukselle liittyminen.**](kurssille-liittyminen)
 
 Tämän kurssin tehtävät koostuvat vain ja ainoastaan mooc.fi:n **ohjelmointitehtävistä**. Kyselyihin ja kertauskyselyihin antamanne vastaukset ja niistä saamanne pisteet eivät tallennu samaan järjestelmään ohjelmointitehtävien kanssa, eikä niitä huomioida kurssin arvioinnissa.
