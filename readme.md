@@ -65,7 +65,7 @@ Saatuasi jatkokurssin suoritettua HY:n puolella voit hakea opintojakson sisälly
 **Tämä kurssi**
 
 
-* [Oppituntien videot (OneDrive)](https://haagahelia.sharepoint.com/:f:/r/teams/Python-ohjelmointi71/Jaetut%20asiakirjat/General/Recordings?csf=1&web=1&e=4DVuVR)
+* [Oppituntien videot (OneDrive)](https://haagahelia.sharepoint.com/:f:/r/teams/Python-ohjelmointi711/Jaetut%20asiakirjat/General?csf=1&web=1&e=TE7Tas)
 * [Opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/SOF004AS2A)
 * [Oma pistetilanne (TMC-palvelussa)](https://tmc.mooc.fi/org/haaga-helia/)
 * [Sekalaisia vinkkejä työkaluihin liittyen](/vinkit)
