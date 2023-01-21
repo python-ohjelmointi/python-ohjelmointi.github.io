@@ -26,11 +26,15 @@ Kirjaudu ennen kurssin ensimmäistä oppituntia Teamsiin Haaga-Helian käyttäj�
 
 ## ✔️ Kurssin osallistumisen vahvistaminen
 
-Kurssin osallistumisen vahvistaminen edellyttää kurssin järjestelmiin\* liittymistä ja ohjelmointitehtävien suorittamista aktiivisesti ensimmäisten kahden viikon aikana. Tehtäviin on saatavissa vinkkejä ja tukea kurssin Teams-kanavalla sekä oppitunneilla.
+Kurssin osallistumisen vahvistaminen edellyttää kurssin järjestelmiin\* liittymistä ja ohjelmointitehtävien suorittamista aktiivisesti\*\* ensimmäisten kahden viikon aikana\*\*\*. Tehtäviin on saatavissa vinkkejä ja tukea kurssin Teams-kanavalla sekä oppitunneilla.
 
 Menettelyn ei ole tarkoitus karsia ketään pois kurssilta, vaan varmistaa, että työskentely kurssin parissa lähtee kaikilla hyvin käyntiin.
 
-<small>* Teams ja [ohjelmointi-22.mooc.fi](https://ohjelmointi-22.mooc.fi/)</small>
+<small>* Teams ja [ohjelmointi-23.mooc.fi](https://ohjelmointi-23.mooc.fi/)</small>
+
+<small>** Kaksi ensimmäistä viikkoa käsitellään mooc.fi:n osa 1:tä, mutta sitäkään ei tarvitse suorittaa vielä kokonaan. Jo ensimmäisen sivun tehtävien tekeminen tulkitaan aktiiviseksi suorittamiseksi, mutta suosittelemme tekemään tätä enemmän.</small>
+
+<small>*** Vahvistamissääntöä ei noudateta "nonstop"-toteutuksilla.</small>
 
 ### Kurssin keskeyttäminen
 
@@ -43,15 +47,16 @@ Kurssin keskeyttäminen ei ole Haaga-Helian linjauksia noudattaen mahdollista en
 
 ## 👨‍🏫 Helsingin yliopiston mooc ja kurssin tehtävät
 
-Kurssin harjoitusympäristönä ja pääasiallisena materiaalina hyödynnetään Helsingin yliopiston ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-22.mooc.fi/](https://ohjelmointi-22.mooc.fi/). Suoritamme mooc.fi:ssä **ohjelmoinnin perusteet** -osiota (osat 1-7), emmekä etene ohjelmoinnin jatkokurssille.
+Kurssin harjoitusympäristönä ja pääasiallisena materiaalina hyödynnetään Helsingin yliopiston ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-23.mooc.fi/](https://ohjelmointi-23.mooc.fi/). Suoritamme mooc.fi:ssä **ohjelmoinnin perusteet** -osiota (osat 1-7), emmekä etene ohjelmoinnin jatkokurssille.
 
-Haaga-Helian kurssin suorittamiseksi sinun tulee vaihtaa kurssitoteutukseksi mooc.fi:ssä juuri Haaga-Helian toteutus seuraavan ohjeen mukaisesti:
+Haaga-Helian kurssi löytyy sekä *ohjelmointi-22.mooc.fi* että *ohjelmointi-23.mooc.fi* sivuilta. Voit käyttää kumpaa tahansa näistä, koska tehtävät ja materiaalit ovat käytännössä samat. Tehtäväpisteet kertyvät myös samaan rekisteriin. Jos aloitit kurssin vuoden -22 puolella, voit hyvin siirtyä käyttämään myöhemmissä tehtävissä vuoden -23 sivustoa. Huomaa kuitenkin, että mikäli vaihdat vuoden 2023 sivustolle, sinun tulee asettaa myös siellä profiiliisi Haaga-Helian toteutus.
 
-💡 **Huom! Keväällä 2023 käytämme vuoden 2022 mooc-kurssia, jonka tehtävät ja sisältö ovat identtiset vuoden 2023 version kanssa.**
+**Haaga-Helian kurssin valitseminen profiiliisi on erittäin tärkeää, koska vain silloin näemme suorituksesi tällä kurssilla.** Vaihda siis kurssitoteutukseksi mooc.fi:ssä Haaga-Helian toteutus seuraavan ohjeen mukaisesti:
 
 [**Mooc.fi-rekisteröityminen ja Haaga-Helian toteutukselle liittyminen.**](kurssille-liittyminen)
 
-Tämän kurssin tehtävät koostuvat vain ja ainoastaan mooc.fi:n **ohjelmointitehtävistä**. Kyselyihin ja kertauskyselyihin antamanne vastaukset ja niistä saamanne pisteet eivät tallennu samaan järjestelmään ohjelmointitehtävien kanssa, eikä niitä huomioida kurssin arvioinnissa.
+Tämän kurssin tehtävät koostuvat vain ja ainoastaan mooc.fi:n **ohjelmointitehtävistä**. Kyselyihin ja kertauskyselyihin antamanne vastaukset ja niistä saamanne pisteet eivät tallennu samaan järjestelmään ohjelmointitehtävien kanssa, eikä niitä huomioida kurssin arvioinnissa. Suosittelemme silti niihin vastaamista oman osaamisen vahvistamiseksi.
+
 
 ### 🧙‍♂️ Ohjelmoinnin jatkokurssi
 
@@ -76,7 +81,7 @@ Saatuasi jatkokurssin suoritettua HY:n puolella voit hakea opintojakson sisälly
 
 **Mooc.fi**
 
-* [Materiaalit ja tehtävät (https://ohjelmointi-22.mooc.fi/)](https://ohjelmointi-22.mooc.fi/)
+* [Materiaalit ja tehtävät (https://ohjelmointi-23.mooc.fi/)](https://ohjelmointi-23.mooc.fi/)
 * [HY:n Discordiin liittyminen](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc)
 * [TestMyCode -laajennuksen asentaminen VS Codeen](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen)
 * [TMC-laajennuksen käyttäminen](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen)
@@ -109,7 +114,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Ohjelmistojen asennus
 * Ohjelmoinnin aloittaminen
 * Tietoa käyttäjältä
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-1)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-1)
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa01)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa01), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
 
@@ -119,7 +124,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Lisää muuttujista
 * Laskentaa luvuilla
 * Ehtorakenne
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-1)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-1)
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa01)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa01), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
 
@@ -128,7 +133,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 
 * Ohjelmoinnin termejä
 * Lisää ehtolauseita
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-2)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-2)
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa02)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa02), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
 
@@ -137,7 +142,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 
 * Ehtojen yhdistäminen
 * Yksinkertainen silmukka
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-2)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-2)
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa02)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa02), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
 
@@ -147,7 +152,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Ehdot silmukoissa
 * Merkkijonojen käsittely
 * [Merkkijonot Pythonin dokumentaatiossa](https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str)
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-3)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-3)
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa03)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa03), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
@@ -165,7 +170,7 @@ Talvilomaviikko, ei opetusta.
 * [Omat funktiot](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
 * Mitä `if __name__ == '__main__':` tekee? (katso [selitys](https://stackoverflow.com/a/419185) ja [Pythonin dokumentaatio](https://docs.python.org/3/tutorial/modules.html#executing-modules-as-scripts))
 * Mitä vaihtoehtoja `__name__ == '__main__'`-vertailulle on?
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-3)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-3)
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa03)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa03), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
@@ -179,7 +184,7 @@ Talvilomaviikko, ei opetusta.
 * Visual Studio Code -editori, Python-tulkki ja debuggeri
 * Lisää funktioista
 * Listat
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-4)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-4)
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa04)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa04), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
 
@@ -189,7 +194,7 @@ Talvilomaviikko, ei opetusta.
 * Silmukat ja iterointi
 * Tulostuksen muotoilu
 * Lisää merkkijonoista ja listoista
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-4)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-4)
 * [Doctest-työkalu](https://docs.python.org/3/library/doctest.html)
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa04)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa04), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
@@ -220,7 +225,7 @@ Tarkemmat tiedot mahdollisesta vierailusta päivitetään kurssin edetessä.
 * Tuple
 * [namedtuple](https://docs.python.org/3/library/collections.html#collections.namedtuple)
 * Milloin käytän eri kokoelmatyyppejä?!
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-5)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-5)
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa05)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa05), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa05)
 
@@ -245,7 +250,7 @@ Edellisellä viikolla aloitettu aihe jatkuu.
     * [pathlib - Object-oriented filesystem paths (docs.python.org)](https://docs.python.org/3/library/pathlib.html)
     * [Python 3's pathlib Module: Taming the File System (realpython.com)](https://realpython.com/python-pathlib/)
 * Eri merkistöjen käsittely
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-6)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-6)
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa06)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa06), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
 
@@ -255,7 +260,7 @@ Edellisellä viikolla aloitettu aihe jatkuu.
 * Oman koodin yksikkötestaaminen
 * Virhetilanteisiin varautuminen
 * Paikalliset ja globaalit muuttujat
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-6)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-6)
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa06)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa06), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
 
@@ -270,7 +275,7 @@ Edellisellä viikolla aloitettu aihe jatkuu.
 * Datan käsittely
 * Oman moduulin tekeminen
 * Lisää Pythonista
-* [Materiaalit (mooc.fi)](https://ohjelmointi-22.mooc.fi/osa-7)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-7)
 * [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa07)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa07), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa07)
 
