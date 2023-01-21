@@ -32,7 +32,7 @@ Menettelyn ei ole tarkoitus karsia ketään pois kurssilta, vaan varmistaa, ett�
 
 <small>* Teams ja [ohjelmointi-23.mooc.fi](https://ohjelmointi-23.mooc.fi/)</small>
 
-<small>** Kaksi ensimmäistä viikkoa käsitellään mooc.fi:n osa 1:tä, mutta sitäkään ei tarvitse suorittaa vielä kokonaan. Jo ensimmäisen sivun tehtävien tekeminen tulkitaan aktiiviseksi suorittamiseksi, mutta suosittelemme tekemään tätä enemmän.</small>
+<small>** Kaksi ensimmäistä viikkoa käsitellään mooc.fi:n osa 1:tä, mutta sitäkään ei tarvitse suorittaa vielä kokonaan. Jo ensimmäisen sivun tehtävien (5 kpl) tekeminen tulkitaan aktiiviseksi suorittamiseksi.</small>
 
 <small>*** Vahvistamissääntöä ei noudateta "nonstop"-toteutuksilla.</small>
 
