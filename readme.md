@@ -115,7 +115,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Ohjelmoinnin aloittaminen
 * Tietoa käyttäjältä
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-1)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa01)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa01)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa01), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
 
 
@@ -125,7 +125,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Laskentaa luvuilla
 * Ehtorakenne
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-1)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa01)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa01)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa01), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
 
 
@@ -134,7 +134,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Ohjelmoinnin termejä
 * Lisää ehtolauseita
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-2)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa02)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa02)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa02), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
 
 
@@ -143,7 +143,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Ehtojen yhdistäminen
 * Yksinkertainen silmukka
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-2)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa02)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa02)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa02), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
 
 
@@ -153,7 +153,7 @@ Suosittelemme vahvasti seuraamaan tehtävien osalta kurssin aikataulua, eli teke
 * Merkkijonojen käsittely
 * [Merkkijonot Pythonin dokumentaatiossa](https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str)
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-3)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa03)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa03)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa03), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
 
@@ -171,7 +171,7 @@ Talvilomaviikko, ei opetusta.
 * Mitä `if __name__ == '__main__':` tekee? (katso [selitys](https://stackoverflow.com/a/419185) ja [Pythonin dokumentaatio](https://docs.python.org/3/tutorial/modules.html#executing-modules-as-scripts))
 * Mitä vaihtoehtoja `__name__ == '__main__'`-vertailulle on?
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-3)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa03)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa03)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa03), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
 
@@ -185,7 +185,7 @@ Talvilomaviikko, ei opetusta.
 * Lisää funktioista
 * Listat
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-4)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa04)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa04)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa04), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
 
 
@@ -196,7 +196,7 @@ Talvilomaviikko, ei opetusta.
 * Lisää merkkijonoista ja listoista
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-4)
 * [Doctest-työkalu](https://docs.python.org/3/library/doctest.html)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa04)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa04)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa04), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
 
 
@@ -226,7 +226,7 @@ Tarkemmat tiedot mahdollisesta vierailusta päivitetään kurssin edetessä.
 * [namedtuple](https://docs.python.org/3/library/collections.html#collections.namedtuple)
 * Milloin käytän eri kokoelmatyyppejä?!
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-5)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa05)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa05)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa05), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa05)
 
 
@@ -236,7 +236,7 @@ Tarkemmat tiedot mahdollisesta vierailusta päivitetään kurssin edetessä.
 
 Edellisellä viikolla aloitettu aihe jatkuu.
 
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa05)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa05)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa05), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa05)
 
 
@@ -251,7 +251,7 @@ Edellisellä viikolla aloitettu aihe jatkuu.
     * [Python 3's pathlib Module: Taming the File System (realpython.com)](https://realpython.com/python-pathlib/)
 * Eri merkistöjen käsittely
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-6)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa06)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa06)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa06), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
 
 
@@ -261,7 +261,7 @@ Edellisellä viikolla aloitettu aihe jatkuu.
 * Virhetilanteisiin varautuminen
 * Paikalliset ja globaalit muuttujat
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-6)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa06)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa06)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa06), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
 
 
@@ -276,7 +276,7 @@ Edellisellä viikolla aloitettu aihe jatkuu.
 * Oman moduulin tekeminen
 * Lisää Pythonista
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-7)
-* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/blob/main/osa07)
+* [📁 Oppitunnin esimerkkikoodit](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa07)
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa07), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa07)
 
 
