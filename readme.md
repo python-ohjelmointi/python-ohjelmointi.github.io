@@ -205,11 +205,15 @@ Talvilomaviikko, ei opetusta.
 Intensiiviviikko, ei opetusta.
 
 
-### 29.3. Koe
+### 29.3. Koe klo 11-21
 
-* Tässä kokeessa koealue on mooc.fi:n osat 1-4.
-* [Ohjeita kokeeseen liittyen.](./koe)
+Tässä kokeessa koealue on mooc.fi:n osat 1-4. Järjestämme kokeen "itsepalveluperiaatteella" klo 11-21 välillä.
+
+Koe järjestetään Viope-nimisessä järjestelmässä ja kokeeseen ei tarvitse ilmoittautua etukäteen. Kukin kokelas saa käyttää kokeeseen valitsemanaan aikana annetulla aikavälillä korkeintaan 2,5 tuntia. Aika alkaa siitä, kun avaat kokeen ensimmäisen kerran. Ole mahdollisissa ongelmatilanteissa yhteydessä opettajaan ensisijaisesti Teamsin välityksellä.
+
+* [Tarkempia ohjeita kokeeseen liittyen.](./koe)
 * Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
+* Mikäli sinulla on erityisopettajan lausunto kokeen lisäajasta, voit käyttää myös saamasi lisäajan. Jos lausunnossa ei ole eritelty lisäajan kestoa, koeaikasi on 3 tuntia 15 minuuttia.
 
 
 ### 5.4. Mahdollinen vierailijaluento
@@ -280,13 +284,18 @@ Edellisellä viikolla aloitettu aihe jatkuu.
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa07), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa07)
 
 
-### 17.5. Koe ja viikkotehtävien DL
+### 17.5. Koe klo 11-21 ja viikkotehtävien DL klo 11
 
-* Tässä kokeessa koealue painottuu mooc.fi:n osiin 1-4, mutta myös osien 5-7 osaaminen voi olla yksittäisissä tehtävissä tarpeen.
-* [Ohjeita kokeeseen liittyen.](./koe)
+Tässä kokeessa koealue painottuu mooc.fi:n osiin 1-4, mutta myös osien 5-7 osaaminen voi olla yksittäisissä tehtävissä tarpeen. Järjestämme kokeen "itsepalveluperiaatteella" klo 11-21 välillä.
+
+Koe järjestetään ensimmäisen kokeen tavoin Viope-nimisessä järjestelmässä ja kokeeseen ei tarvitse ilmoittautua etukäteen. Kukin kokelas saa käyttää kokeeseen valitsemanaan aikana annetulla aikavälillä korkeintaan 2,5 tuntia. Aika alkaa siitä, kun avaat kokeen ensimmäisen kerran. Ole mahdollisissa ongelmatilanteissa yhteydessä opettajaan ensisijaisesti Teamsin välityksellä.
+
+Jos osallistuit jo edelliseen kokeeseen, saat halutessasi osallistua myös tähän ja korottaa arvosanaasi.
+
+* [Tarkempia ohjeita kokeeseen liittyen.](./koe)
 * Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
+* Mikäli sinulla on erityisopettajan lausunto kokeen lisäajasta, voit käyttää myös saamasi lisäajan. Jos lausunnossa ei ole eritelty lisäajan kestoa, koeaikasi on 3 tuntia 15 minuuttia.
 * **Kaikkien Mooc.fi-tehtävien DL on kokeen alussa.**
-
 
 Jätäthän kurssista vielä [opintojaksopalautetta!](https://mynet.haaga-helia.fi/group/pakki/opintopalaute)
 
