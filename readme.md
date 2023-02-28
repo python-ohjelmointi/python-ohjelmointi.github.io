@@ -367,7 +367,7 @@ Voit kokeilla funktiota esim. seuraavasti:
 4.04
 ```
 
-Arvosanojen jakauman hahmottamiseksi seuraavassa taulukossa on myös prosenttirajat, jotka tuottavat pyöristettynä eri arvosanat:
+Arvosanojen jakauman hahmottamiseksi seuraavassa taulukossa on myös prosenttirajat, jotka tuottaisivat pyöristettynä eri arvosanat:
 
 ```
  0 -  24 %: 0
@@ -378,20 +378,8 @@ Arvosanojen jakauman hahmottamiseksi seuraavassa taulukossa on myös prosenttira
 91 - 100 %: 5
 ```
 
-Huomaa kuitenkin, että pyöristystä ei tehdä erikseen harjoitusten arvosanoille, vaan vasta loppuarvosanalle.
+Huomaa kuitenkin, että pyöristystä ei tehdä erikseen harjoitusten ja kokeen arvosanoille, vaan vasta loppuarvosanalle.
 
-Yllä oleva asteikko on muodostettu seuraavalla Python-koodilla:
-
-```python
-tilasto = {arvosana: [] for arvosana in (0, 1, 2, 3, 4, 5)}
-
-for pisteet in range(0, 101):
-    arvosana = round(laske_arvosana(pisteet))
-    tilasto[arvosana] += [pisteet]
-
-for arvosana, pistelista in tilasto.items():
-    print(f'{min(pistelista):2} - {max(pistelista):3} %: {arvosana}')
-```
 
 
 ## 📑 Aiemmin hankitun osaamisen tunnistaminen (AHOT)
