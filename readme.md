@@ -209,8 +209,9 @@ Intensiiviviikko, ei opetusta.
 
 Tässä kokeessa koealue on mooc.fi:n osat 1-4. Järjestämme kokeen "itsepalveluperiaatteella" klo 11-21 välillä.
 
-Koe järjestetään Viope-nimisessä järjestelmässä ja kokeeseen ei tarvitse ilmoittautua etukäteen. Kukin kokelas saa käyttää kokeeseen valitsemanaan aikana annetulla aikavälillä korkeintaan 2,5 tuntia. Aika alkaa siitä, kun avaat kokeen ensimmäisen kerran. Ole mahdollisissa ongelmatilanteissa yhteydessä opettajaan ensisijaisesti Teamsin välityksellä.
+Koe järjestetään [Viope](https://hh.viope.com/)-nimisessä järjestelmässä ja kokeeseen ei tarvitse ilmoittautua etukäteen. Kukin kokelas saa käyttää kokeeseen valitsemanaan aikana annetulla aikavälillä korkeintaan 2,5 tuntia. Aika alkaa siitä, kun avaat kokeen ensimmäisen kerran. Ole mahdollisissa ongelmatilanteissa yhteydessä opettajaan ensisijaisesti Teamsin välityksellä.
 
+* [Viope](https://hh.viope.com/)
 * [Tarkempia ohjeita kokeeseen liittyen.](./koe)
 * Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
 * Mikäli sinulla on erityisopettajan lausunto kokeen lisäajasta, voit käyttää myös saamasi lisäajan. Jos lausunnossa ei ole eritelty lisäajan kestoa, koeaikasi on 3 tuntia 15 minuuttia.
@@ -288,10 +289,11 @@ Edellisellä viikolla aloitettu aihe jatkuu.
 
 Tässä kokeessa koealue painottuu mooc.fi:n osiin 1-4, mutta myös osien 5-7 osaaminen voi olla yksittäisissä tehtävissä tarpeen. Järjestämme kokeen "itsepalveluperiaatteella" klo 11-21 välillä.
 
-Koe järjestetään ensimmäisen kokeen tavoin Viope-nimisessä järjestelmässä ja kokeeseen ei tarvitse ilmoittautua etukäteen. Kukin kokelas saa käyttää kokeeseen valitsemanaan aikana annetulla aikavälillä korkeintaan 2,5 tuntia. Aika alkaa siitä, kun avaat kokeen ensimmäisen kerran. Ole mahdollisissa ongelmatilanteissa yhteydessä opettajaan ensisijaisesti Teamsin välityksellä.
+Koe järjestetään ensimmäisen kokeen tavoin [Viope](https://hh.viope.com/)-nimisessä järjestelmässä ja kokeeseen ei tarvitse ilmoittautua etukäteen. Kukin kokelas saa käyttää kokeeseen valitsemanaan aikana annetulla aikavälillä korkeintaan 2,5 tuntia. Aika alkaa siitä, kun avaat kokeen ensimmäisen kerran. Ole mahdollisissa ongelmatilanteissa yhteydessä opettajaan ensisijaisesti Teamsin välityksellä.
 
 Jos osallistuit jo edelliseen kokeeseen, saat halutessasi osallistua myös tähän ja korottaa arvosanaasi.
 
+* [Viope](https://hh.viope.com/)
 * [Tarkempia ohjeita kokeeseen liittyen.](./koe)
 * Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
 * Mikäli sinulla on erityisopettajan lausunto kokeen lisäajasta, voit käyttää myös saamasi lisäajan. Jos lausunnossa ei ole eritelty lisäajan kestoa, koeaikasi on 3 tuntia 15 minuuttia.
