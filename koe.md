@@ -67,7 +67,11 @@ Seuratkaa kokeen aikana kelloa tai laittakaa itsellenne muistutus, jotta varmast
 
 Koetta ei tarvitse erikseen lopettaa tai lähettää, vaan riittää, että palautat tehtävät ja siirryt pois Viopesta. Huolehdi kuitenkin, että yksittäiset tehtävät on lähetetty tai tallennettu keskeneräisinä ennen lopettamista.
 
-Viope-järjestelmän käyttöliittymä voi tuntua tehtävän ratkaisun jälkeen epäselvältä. Saatuasi tehtävän valmiiksi ja painettuasi "valmis", näet todennäköisesti ratkaisusi vieressä edelleen saman ohjetekstin sekä "valmis"-painikkeen. Tehtäväsivun yläosaan tulee kuitenkin lähetyksen jälkeen esiin teksti "Olet tehnyt tämän tehtävän", joka tarkoittaa, että tehtävä on hyväksytty ja tallennettu onnistuneesti.
+Viope-järjestelmän käyttöliittymä voi tuntua tehtävän ratkaisun jälkeen epäselvältä. Saatuasi tehtävän valmiiksi ja painettuasi "valmis", näet todennäköisesti ratkaisusi vieressä edelleen saman ohjetekstin sekä "valmis"-painikkeen:
+
+![Ratkaisusi toimii oikein](./img/ratkaisusi-toimii-oikein.jpg)
+
+ Tehtäväsivun yläosaan tulee kuitenkin lähetyksen jälkeen esiin teksti "Olet tehnyt tämän tehtävän", joka tarkoittaa, että tehtävä on hyväksytty ja tallennettu onnistuneesti.
 
 Jos olet epävarma ratkaisun lähettämisen onnistumisesta, avaa vasemmanpuoleisen valikon kautta "Oma nurkka", jossa näkyy kooste tehtävistä ja niiden pisteistä.
 
@@ -96,5 +100,9 @@ Niissä tehtävissä, joissa manuaalinen arviointi poikkeaa Viopen automaattises
 <style type="text/css">
 #content img {
     max-width: 400px;
+    display: block;
+    margin: 0 auto;
+    border: solid silver 1px;
+    padding: 1px;
 }
 </style>
