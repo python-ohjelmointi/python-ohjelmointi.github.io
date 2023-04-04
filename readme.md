@@ -217,9 +217,11 @@ Koe järjestetään [Viope](https://hh.viope.com/)-nimisessä järjestelmässä 
 * Mikäli sinulla on erityisopettajan lausunto kokeen lisäajasta, voit käyttää myös saamasi lisäajan. Jos lausunnossa ei ole eritelty lisäajan kestoa, koeaikasi on 3 tuntia 15 minuuttia.
 
 
-### 5.4. Mahdollinen vierailijaluento
+### 5.4. Data-analytiikan vierailutunti, ohjausta tehtäviin ja kokeen malliratkaisuja
 
-Tarkemmat tiedot mahdollisesta vierailusta päivitetään kurssin edetessä.
+Teams-oppitunnilla ei käsitellä uusia aiheita, mutta olette erittäin tervetulleita kysymään vinkkejä esimerkiksi kurssin tehtäviin liittyen. Voimme myös käydä läpi viime viikolla pidetyn kokeen ratkaisuja.
+
+Viikon toinen aihe on data-analytiikan vierailijaluento. Tiedot vierailun järjestelyistä löydät [Teams-kanavalta](https://teams.microsoft.com/l/message/19:KnQxSEHIkCBbVSMTKvjrxs3ByXxO0TzpYoW8EC-svDY1@thread.tacv2/1680522479356?tenantId=a9e39483-dd21-4c25-b848-2a625cff7939&groupId=eafa80cc-40d6-41b3-b6ec-72b6ffabbeee&parentMessageId=1680522479356&teamName=Python-ohjelmointi&channelName=General&createdTime=1680522479356&allowXTenantAccess=false).
 
 
 ### 12.4. Kokoelmat ja viittaukset (mooc.fi osa 5)
