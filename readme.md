@@ -223,6 +223,8 @@ Teams-oppitunnilla ei käsitellä uusia aiheita, mutta olette erittäin tervetul
 
 Viikon toinen aihe on data-analytiikan vierailijaluento. Tiedot vierailun järjestelyistä löydät [Teams-kanavalta](https://teams.microsoft.com/l/message/19:KnQxSEHIkCBbVSMTKvjrxs3ByXxO0TzpYoW8EC-svDY1@thread.tacv2/1680522479356?tenantId=a9e39483-dd21-4c25-b848-2a625cff7939&groupId=eafa80cc-40d6-41b3-b6ec-72b6ffabbeee&parentMessageId=1680522479356&teamName=Python-ohjelmointi&channelName=General&createdTime=1680522479356&allowXTenantAccess=false).
 
+* [📁 Kokeen esimerkkiratkaisuja](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/malliratkaisut)
+
 
 ### 12.4. Kokoelmat ja viittaukset (mooc.fi osa 5)
 
@@ -332,16 +334,14 @@ Mooc.fi:n eri osioiden tehtävillä ei ole tällä kurssilla erillisiä määrä
 
 ### Viikkotehtävien arviointi
 
-Viikkotehtävien arviointi lasketaan siten, että 25 % tehtävistä oikeuttaa arvosanaan 1, kun taas 100 % tehtävistä oikeuttaa arvosanaan 5.
+Kurssin suorittamiseksi sinun tulee saada vähintään 25 % viikkotehtävien pisteistä. Viikkotehtävien arviointi lasketaan siten, että minimimäärä (25 %) oikeuttaa arvosanaan 1, kun taas 100 % tehtäväpisteistä oikeuttaa arvosanaan 5.
 
 Helsingin yliopiston arvostelusta poiketen Haaga-Helian toteutuksella ei yksittäisiin osioihin liittyviä minimipistemääriä. Pisteitä ei siis tarkastella osiokohtaisesti, vaan 25 % kokonaisuudesta riittää.
-
-Tehtävien arvosana pyöristetään vasta loppuarvosanaa laskettaessa.
 
 
 #### Mistä näen omat tehtäväpisteeni?
 
-Näet omat tehtäväpisteesi TMC-palvelusta kirjautumalla TMC-tunnuksillasi osoitteeseen [https://tmc.mooc.fi/org/haaga-helia/](https://tmc.mooc.fi/org/haaga-helia/).
+Näet omat tehtäväpisteesi TMC-palvelusta kirjautumalla TMC-tunnuksillasi osoitteeseen [https://tmc.mooc.fi/org/haaga-helia/](https://tmc.mooc.fi/org/haaga-helia/). Tehtäväpisteet ovat myös näkyviää VS Code:n TMC-laajennoksessa "My Courses"-näkymässä [tämän kuvan mukaisesti](./img/points-gained-tmc-plugin.png).
 
 
 #### Arvosanojen laskukaavat
@@ -371,19 +371,7 @@ Voit kokeilla funktiota esim. seuraavasti:
 4.04
 ```
 
-Arvosanojen jakauman hahmottamiseksi seuraavassa taulukossa on myös prosenttirajat, jotka tuottaisivat pyöristettynä eri arvosanat:
-
-```
- 0 -  24 %: 0
-25 -  34 %: 1
-35 -  53 %: 2
-54 -  71 %: 3
-72 -  90 %: 4
-91 - 100 %: 5
-```
-
-Huomaa kuitenkin, että pyöristystä ei tehdä erikseen harjoitusten ja kokeen arvosanoille, vaan vasta loppuarvosanalle.
-
+Jos saat siis kokeesta arvosanaksi 5 ja saat 82 % tehtäväpisteistä, muodostuu loppuarvosanaksi 4,52, joka pyöristyy ylöspäin 5:een. Vastaavasti jos saat 100 % tehtäväpisteistä ja kokeesta arvosanan 4, pyöristyy tulos myös ylöspäin 5:een.
 
 
 ## 📑 Aiemmin hankitun osaamisen tunnistaminen (AHOT)
