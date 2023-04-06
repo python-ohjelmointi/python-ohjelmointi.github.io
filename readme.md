@@ -343,7 +343,7 @@ Helsingin yliopiston arvostelusta poiketen Haaga-Helian toteutuksella ei yksitt�
 
 #### Mistä näen omat tehtäväpisteeni?
 
-Näet omat tehtäväpisteesi TMC-palvelusta kirjautumalla TMC-tunnuksillasi osoitteeseen [https://tmc.mooc.fi/org/haaga-helia/](https://tmc.mooc.fi/org/haaga-helia/). Tehtäväpisteet ovat myös näkyviää VS Code:n TMC-laajennoksessa "My Courses"-näkymässä [tämän kuvan mukaisesti](./img/points-gained-tmc-plugin.png).
+Näet omat tehtäväpisteesi TMC-palvelusta kirjautumalla TMC-tunnuksillasi osoitteeseen [https://tmc.mooc.fi/org/haaga-helia/](https://tmc.mooc.fi/org/haaga-helia/). Tehtäväpisteet ovat myös näkyvillä VS Code:n TMC-laajennoksessa "My Courses"-näkymässä [tämän kuvan mukaisesti](./img/points-gained-tmc-plugin.png).
 
 
 ## 📑 Aiemmin hankitun osaamisen tunnistaminen (AHOT)
