@@ -320,6 +320,8 @@ Kurssin loppuarvosana muodostuu viikkotehtävien ja kokeiden arvosanojen peruste
 * Viikkotehtävien painoarvo on 50 %
 * Kokeen painoarvo on 50 %
 
+Jos saat siis esimerkiksi kokeesta arvosanaksi 5 ja tehtävistä 4, muodostuu loppuarvosanaksi 4,5, joka pyöristetään ylöspäin 5:een. Vastaavasti jos saat tehtävistä arvosanaksi 4 ja kokeesta arvosanan 3, pyöristyy tulos myös ylöspäin 4:ään. Pyöristykset tehdään vasta kurssin lopussa, eli voit saada esim. kokeesta arvosanaksi 4.1 ja tehtävistä 4.9.
+
 Kurssin aikana järjestetään kaksi koetta, joiden arvosanoista parempi huomioidaan kurssin arvostelussa. Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan. Jos kummastakaan kokeesta ei tule hyväksyttyä suoritusta, seuraava mahdollisuus kokeen suorittamiseksi on seuraavan lukukauden kurssikokeen yhteydessä.
 
 Kokeissa vaadittu minimipistemäärä hyväksyttyyn suoritukseen on 40 % eli 10 pistettä. [Tarkemmat ohjeet kokeen käytännön järjestelyihin liittyen löydät erilliseltä sivulta.](./koe)
@@ -342,36 +344,6 @@ Helsingin yliopiston arvostelusta poiketen Haaga-Helian toteutuksella ei yksitt�
 #### Mistä näen omat tehtäväpisteeni?
 
 Näet omat tehtäväpisteesi TMC-palvelusta kirjautumalla TMC-tunnuksillasi osoitteeseen [https://tmc.mooc.fi/org/haaga-helia/](https://tmc.mooc.fi/org/haaga-helia/). Tehtäväpisteet ovat myös näkyviää VS Code:n TMC-laajennoksessa "My Courses"-näkymässä [tämän kuvan mukaisesti](./img/points-gained-tmc-plugin.png).
-
-
-#### Arvosanojen laskukaavat
-
-Tehtävistä saatava loppuarvosana on laskettavissa seuraavalla funktiolla:
-
-```python
-minimi = 25     # 25 %
-maksimi = 100   # 100 %
-
-def laske_arvosana(oma_prosentti: int) -> float:
-    '''
-    Laskee arvosanan annetun tehtäväpisteprosentin (0-100) perusteella.
-    >>> laske_arvosana(82)
-    4.04
-    '''
-    if oma_prosentti >= minimi:
-        return 1 + 4 * (oma_prosentti - minimi) / (maksimi - minimi)
-    else:
-        return 0
-```
-
-Voit kokeilla funktiota esim. seuraavasti:
-
-```python
->>> laske_arvosana(82)
-4.04
-```
-
-Jos saat siis kokeesta arvosanaksi 5 ja saat 82 % tehtäväpisteistä, muodostuu loppuarvosanaksi 4,52, joka pyöristyy ylöspäin 5:een. Vastaavasti jos saat 100 % tehtäväpisteistä ja kokeesta arvosanan 4, pyöristyy tulos myös ylöspäin 5:een.
 
 
 ## 📑 Aiemmin hankitun osaamisen tunnistaminen (AHOT)
