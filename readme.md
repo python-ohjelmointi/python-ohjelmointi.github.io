@@ -241,7 +241,7 @@ Viikon toinen aihe on data-analytiikan vierailijaluento. Tiedot vierailun järje
 
 ### 19.4. Kokoelmat ja viittaukset (mooc.fi osa 5)
 
-> Kurssin sudoku-tehtävien myötä saatte itsellenne toimivan sudoku-tarkastuslogiikan, mutta varsinaisen pelattavan pelin kehittäminen ei ole osana harjoitustehtäväpakettia. Jos haluat, voit hyödyntää oman koodisi kokeilemisessa tätä kurssi varten toteutettua [sudoku-tekstikäyttöliittymää](https://github.com/python-ohjelmointi/esimerkit-s22/tree/main/sudoku).
+> Kurssin sudoku-tehtävien myötä saatte itsellenne toimivan sudoku-tarkastuslogiikan, mutta varsinaisen pelattavan pelin kehittäminen ei ole osana harjoitustehtäväpakettia. Jos haluat, voit hyödyntää oman koodisi kokeilemisessa tätä kurssi varten toteutettua [sudoku-tekstikäyttöliittymää](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/sudoku).
 
 Edellisellä viikolla aloitettu aihe jatkuu.
 
