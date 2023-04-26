@@ -289,7 +289,7 @@ Edellisellä viikolla aloitettu aihe jatkuu.
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa07), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa07)
 
 
-### 17.5. Koe klo 11-21 ja viikkotehtävien DL klo 11
+### 17.5. Koe klo 11-21 <del>ja viikkotehtävien DL klo 11</del>\*
 
 Tässä kokeessa koealue painottuu mooc.fi:n osiin 1-4, mutta myös osien 5-7 osaaminen voi olla yksittäisissä tehtävissä tarpeen. Järjestämme kokeen "itsepalveluperiaatteella" klo 11-21 välillä.
 
@@ -304,6 +304,17 @@ Jos osallistuit jo edelliseen kokeeseen, saat halutessasi osallistua myös täh�
 * **Kaikkien Mooc.fi-tehtävien DL on kokeen alussa.**
 
 Jätäthän kurssista vielä [opintojaksopalautetta!](https://mynet.haaga-helia.fi/group/pakki/opintopalaute)
+
+\* Viikkotehtävien DL on siirretty saman viikon perjantaille 19.5.
+
+### 19.5. Viikkotehtävien DL klo 23:59
+
+Viikkotehtävien uusi deadline on perjantaina 19.5. klo 23:59
+
+
+### Uusintakokeet
+
+Kurssin suoritukset arvioidaan tutkintosäännön mukaisesti aikataulussa 29.3. ja 17.5. järjestettävien kokeiden perusteella. Näitä koesuorituksia on kuitenkin mahdollista korottaa. Pidämme kesäkuun alussa ja elokuun lopussa kokeet, joissa on mahdollista korottaa jo kirjattua arvosanaa. Tarkemmat päivämäärät ja kellonajat julkaistaan kurssin Teams-kanavalla.
 
 
 <!--### 6.6. Väli- ja loppukokeen uusinta klo 14-19
