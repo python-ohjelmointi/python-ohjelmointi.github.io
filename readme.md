@@ -264,9 +264,9 @@ Edellisellä viikolla aloitettu aihe jatkuu.
 * 📁 Esimerkkiarkisto: [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa06), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
 
 
-### 3.5. Virhetilanteisiin varautuminen ja testaaminen (mooc.fi osa 6)
+### 3.5. Virhetilanteisiin varautuminen (mooc.fi osa 6) <!-- ja testaaminen -->
 
-* Oman koodin yksikkötestaaminen
+<!--* Oman koodin yksikkötestaaminen-->
 * Virhetilanteisiin varautuminen
 * Paikalliset ja globaalit muuttujat
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-6)
@@ -305,11 +305,12 @@ Jos osallistuit jo edelliseen kokeeseen, saat halutessasi osallistua myös täh�
 
 Jätäthän kurssista vielä [opintojaksopalautetta!](https://mynet.haaga-helia.fi/group/pakki/opintopalaute)
 
-\* Viikkotehtävien DL on siirretty saman viikon perjantaille 19.5.
+\* **Viikkotehtävien DL on siirretty saman viikon perjantaille 19.5.**
+
 
 ### 19.5. Viikkotehtävien DL klo 23:59
 
-Viikkotehtävien uusi deadline on perjantaina 19.5. klo 23:59
+📣 Huom! Viikkotehtävien uusi deadline on perjantaina 19.5. klo 23:59.
 
 
 ### Uusintakokeet
