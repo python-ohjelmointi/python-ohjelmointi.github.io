@@ -343,7 +343,7 @@ Voitte halutessanne kokeilla arvosanalaskurilla, minkä loppuarvosanan eri osasu
 
 ### Viikkotehtävien DL
 
-Mooc.fi:n eri osioiden tehtävillä ei ole tällä kurssilla erillisiä määräaikoja, vaan kaikkien tehtävien yhteinen DL on kurssin jälkimmäisen kokeen alussa.
+Mooc.fi:n eri osioiden tehtävillä ei ole tällä kurssilla erillisiä määräaikoja, vaan kaikkien tehtävien yhteinen DL on kurssin lopussa.
 
 
 ### Viikkotehtävien arviointi
