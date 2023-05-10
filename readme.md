@@ -315,14 +315,12 @@ Jätäthän kurssista vielä [opintojaksopalautetta!](https://mynet.haaga-helia.
 
 ### Uusintakokeet
 
-Kurssin suoritukset arvioidaan tutkintosäännön mukaisesti aikataulussa 29.3. ja 17.5. järjestettävien kokeiden perusteella. Näitä koesuorituksia on kuitenkin mahdollista korottaa. Pidämme kesäkuun alussa ja elokuun lopussa kokeet, joissa on mahdollista korottaa jo kirjattua arvosanaa. Tarkemmat päivämäärät ja kellonajat julkaistaan kurssin Teams-kanavalla.
+Kurssin suoritukset arvioidaan tutkintosäännön mukaisesti aikataulussa 29.3. ja 17.5. järjestettävien kokeiden perusteella. Näitä koesuorituksia on kuitenkin mahdollista korottaa. Pidämme kesäkuun alussa ja elokuun lopussa kokeet, joissa on mahdollista korottaa jo kirjattua arvosanaa. Kokeiden päivämäärät kesällä 2023 ovat:
 
+* torstai 9.6.2023
+* torstai 31.8.2023
 
-<!--### 6.6. Väli- ja loppukokeen uusinta klo 14-19
-
-Järjestämme maanantaina 6.6. klo 14-19 välillä uusintakokeen Viopessa. Uusinnassa on mahdollista uusia joko välikoe tai loppukoe ja kokeeseen ei tarvitse erikseen ilmoittautua. Kukin kokelas saa käyttää kokeeseen valitsemanaan aikana klo 14-19 aikavälillä korkeintaan 2,5 tuntia. Aika alkaa siitä, kun avaat kokeen ensimmäisen kerran.
-
-Tarkemmat tiedot uusintakokeesta löydät kurssin Teams-kanavalta.-->
+Kukin kokelas saa käyttää kokeeseen 2,5 tuntia. Aika alkaa siitä, kun avaat kokeen ensimmäisen kerran. Tarkemmat tiedot uusintakokeista löydät kurssin Teams-kanavalta ennen koetta.
 
 
 ## 📈 Arviointi
