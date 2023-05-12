@@ -4,7 +4,7 @@
 
 Kurssin harjoitusten suorittamiseksi sinun tulee rekisteröityä Helsingin yliopiston MOOC-kurssille osoitteessa [https://ohjelmointi-23.mooc.fi/](https://ohjelmointi-23.mooc.fi/). Sen lisäksi sinun tulee valita profiilisi asetuksista Haaga-Helian kurssi, jotta saat ratkaisemistasi tehtävistä pisteet.
 
-Kirjauduttuasi sisään verkkosivulle, siirry profiiliisi klikkaamalla oikean yläkulman käyttäjäkuvaketta tai suoraan linkistä [https://ohjelmointi-23.mooc.fi/profile](https://ohjelmointi-23.mooc.fi/profile).
+Kirjauduttuasi sisään mooc.fi:n, siirry profiiliisi klikkaamalla oikean yläkulman käyttäjäkuvaketta tai suoraan linkistä [https://ohjelmointi-23.mooc.fi/profile](https://ohjelmointi-23.mooc.fi/profile).
 
 Rastita sen jälkeen ruutu "Suoritan muuta kurssia kuin mooc.fi:n kaikille avointa verkkokurssia tai Helsingin yliopiston kurssia" ja valitse pudotusvalikosta "Haaga-Helia: Python-ohjelmointi...".
 
@@ -12,6 +12,14 @@ Rastita sen jälkeen ruutu "Suoritan muuta kurssia kuin mooc.fi:n kaikille avoin
 
 Muista myös tallentaa profiilisi muutokset sivun alaosan "Tallenna" painikkeella.
 
-💡 **Huom! Haaga-Helian kurssi löytyy sekä ohjelmointi-22.mooc.fi- että ohjelmointi-23.mooc.fi- sivuilta. Voit käyttää kumpaa tahansa näistä, koska tehtävät ja materiaalit ovat käytännössä samat. Tehtäväpisteet kertyvät myös samaan rekisteriin. Jos aloitit kurssin vuoden -22 puolella, voit hyvin siirtyä käyttämään myöhemmissä tehtävissä vuoden -23 sivustoa. Huomaa kuitenkin, että mikäli vaihdat vuoden 2023 sivustolle, sinun tulee asettaa siellä erikseen profiiliisi Haaga-Helian toteutus.**
+
+## TMC-laajennos
+
+Osasta 4 alkaen tehtävät palautetaan VS Code:n TMC-laajennuksen avulla, eikä tehtäviä voi palauttaa enää verkkoselaimen kautta.
+
+Lue Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen) sekä ["ohjelmoinnin aloittaminen"](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen). Varmista lisäksi, että liityt myös VS Codessa oikealle kurssille [tämän kuvan mukaisesti](./img/kurssin-valinta-tmc.png):
+
+<a href="./img/kurssin-valinta-tmc.png"><img alt="Valitse Haaga-Helian kurssitoteutus" src="./img/kurssin-valinta-tmc.png" style="max-width: 400px; margin: 1em auto; display: block;" /></a>
+
 
 <script src="scripts.js"></script>
