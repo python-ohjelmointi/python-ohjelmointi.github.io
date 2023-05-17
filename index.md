@@ -1,6 +1,7 @@
 ---
 title: Etusivu
 layout: home
+nav_order: 0
 ---
 
 # Python-ohjelmointi
@@ -390,11 +391,3 @@ Mikäli olet suorittanut Helsingin yliopiston kaikille avoimen Ohjelmoinnin peru
 > Some software incorporated into Python is under different licenses. The licenses are listed with code falling under that license. See [Licenses and Acknowledgements for Incorporated Software](https://docs.python.org/3/license.html#otherlicenses) for an incomplete list of these licenses.
 >
 > *[https://docs.python.org/3/license.html](https://docs.python.org/3/license.html)*
-
------
-
-<small><a href="https://github.com/python-ohjelmointi/python-ohjelmointi.github.io/edit/main/readme.md">Ehdota muutosta tälle sivulle.</a></small>
-
-<script src="/tocbot/tocbot.min.js"></script>
-<script src="/scripts.js"></script>
-<link rel="stylesheet" href="/tocbot/tocbot.css" />

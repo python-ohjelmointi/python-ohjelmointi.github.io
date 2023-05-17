@@ -1,11 +1,25 @@
-[🔙 Takaisin etusivulle](./)
+---
+title: Kokeet
+layout: default
+nav_order: 5
+---
 
 # Kokeet
+{: .no_toc }
 
 Tällä sivulla on oleellista tietoa kokeisiin valmistautumiseen sekä järjestelyihin ja käytäntöihin liittyen, joten luethan sen kokonaan, vaikka sivu on ~~tuskaisen~~ pitkä.
+{: .fs-5 }
 
 Tällä sivulla esitetyt käytännöt pätevät kaikissa kokeissa, ellei toisin mainita.
+{: .fs-5 }
 
+---
+
+## Tällä sivulla:
+{: .no_toc .text-delta }
+
+* Sisällysluettelo
+{:toc}
 
 ## Kokeen aikataulu
 
@@ -69,7 +83,7 @@ Koetta ei tarvitse erikseen lopettaa tai lähettää, vaan riittää, että pala
 
 Viope-järjestelmän käyttöliittymä voi tuntua tehtävän ratkaisun jälkeen epäselvältä. Saatuasi tehtävän valmiiksi ja painettuasi "valmis", näet todennäköisesti ratkaisusi vieressä edelleen saman ohjetekstin sekä "valmis"-painikkeen:
 
-![Ratkaisusi toimii oikein](./img/ratkaisusi-toimii-oikein.jpg)
+![Ratkaisusi toimii oikein](/img/ratkaisusi-toimii-oikein.jpg)
 
  Tehtäväsivun yläosaan tulee kuitenkin lähetyksen jälkeen esiin teksti "Olet tehnyt tämän tehtävän", joka tarkoittaa, että tehtävä on hyväksytty ja tallennettu onnistuneesti.
 
@@ -89,20 +103,8 @@ Ohjelmasi ei saa vilpillisesti harhauttaa tehtävän tarkastimia siten, että se
 
 Kokeen manuaalisen arvioinnin jälkeen näet saamasi pisteet Viopen kohdasta "Oma nurkka" (my corner). "Oma nurkka" on ainoa paikka, jossa näkyy manuaalisessa arvioinnissa annetut varsinaiset pisteet:
 
-![oma nurkka](./img/oma-nurkka.png)
+![oma nurkka](/img/oma-nurkka.png)
 
 Niissä tehtävissä, joissa manuaalinen arviointi poikkeaa Viopen automaattisesta arvioinnista, löydät opettajan kommentin tehtäväsivun alaosasta:
 
-![opettajan kommentti sivun alaosassa](./img/opettajan-kommentti.png)
-
-<script src="scripts.js"></script>
-
-<style type="text/css">
-#content img {
-    max-width: 400px;
-    display: block;
-    margin: 0 auto;
-    border: solid silver 1px;
-    padding: 1px;
-}
-</style>
+![opettajan kommentti sivun alaosassa](/img/opettajan-kommentti.png)

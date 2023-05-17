@@ -1,4 +1,4 @@
-title: Python-ohjelmointi
+title: HH / Python
 description: Haaga-Helia / Python-ohjelmointi (SOF004AS2A)
 theme: just-the-docs
 
@@ -6,6 +6,8 @@ url: https://python-ohjelmointi.github.io/
 
 aux_links:
   Opintojaksokuvaus: https://opinto-opas.haaga-helia.fi/course_unit/SOF004AS2A
+
+permalink: /:title/
 
 callouts:
   highlight:
