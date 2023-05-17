@@ -1,3 +1,24 @@
-theme: jekyll-theme-cayman
 title: Python-ohjelmointi
 description: Haaga-Helia / Python-ohjelmointi (SOF004AS2A)
+theme: just-the-docs
+
+url: https://python-ohjelmointi.github.io/
+
+aux_links:
+  Opintojaksokuvaus: https://opinto-opas.haaga-helia.fi/course_unit/SOF004AS2A
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
