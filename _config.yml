@@ -30,3 +30,6 @@ callouts:
   huom:
     title: 💡 Huomio!
     color: green
+  vinkki:
+    title: Vinkki
+    color: green

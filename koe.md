@@ -7,11 +7,12 @@ nav_order: 5
 # Kokeet
 {: .no_toc }
 
-Tällä sivulla on oleellista tietoa kokeisiin valmistautumiseen sekä järjestelyihin ja käytäntöihin liittyen, joten luethan sen kokonaan, vaikka sivu on ~~tuskaisen~~ pitkä.
+
+Kurssin koe järjestetään kahteen kertaan ja molemmilla kerroilla koealue on mooc.fi:n osat 1-4. Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
 {: .fs-6 }
 
-Tällä sivulla esitetyt käytännöt pätevät kaikissa kokeissa, ellei toisin mainita.
-{: .fs-6 }
+{: .huom }
+Tällä sivulla on oleellista tietoa kokeisiin valmistautumiseen sekä järjestelyihin ja käytäntöihin liittyen, joten luethan sen kokonaan, vaikka sivu pitkä.
 
 ---
 
@@ -67,7 +68,7 @@ Tehtävissä ei tarvitse myöskään varautua virheellisiin syötteisiin tai mui
 
 Olemme tehneet Viopen käytön ja kokeeseen valmistautumisen tueksi erillisen harjoituskokeen, jonka voitte halutessanne tehdä itsenäisesti oman aikataulunne mukaan. Harjoituskoe löytyy Viopen etusivun alaosasta ([https://hh.viope.com](https://hh.viope.com)) nimellä "Python-harjoituskoe".
 
-Harjoituskokeessa tehtäviä, jotka on lainattu kurssin viikkotehtävistä. Kokeen tehtävät tulevat olemaan tyyliltään ja luonteeltaan näiden tehtävien mukaisia, mutta erityisesti loppukokeessa astetta haastavampia.
+Harjoituskokeessa tehtäviä, jotka on lainattu kurssin viikkotehtävistä. Kokeen tehtävät tulevat olemaan tyyliltään ja luonteeltaan näiden tehtävien mukaisia, mutta mahdollisesti astetta haastavampia.
 
 
 ## Kokeeseen osallistuminen
@@ -92,11 +93,19 @@ Jos olet epävarma ratkaisun lähettämisen onnistumisesta, avaa vasemmanpuoleis
 
 ## Kokeen pelisäännöt
 
-Kokeessa saa käyttää kurssin tavanomaisia tietolähteitä, kuten Google, Stack Overflow ja mooc.fi. Saat lisäksi tutkia kurssin esimerkkikoodeja ja omia kurssilla kirjoittamiasi koodeja, mutta koodin suora kopiointi kokeen vastauksiin on kiellettyä. Kaikki viestintä ja kokeesta keskusteleminen on myös kiellettyä.
+Kokeessa saa käyttää kurssin tavanomaisia tietolähteitä, kuten Google, Stack Overflow ja mooc.fi. Saat lisäksi tutkia kurssin esimerkkikoodeja ja omia kurssilla kirjoittamiasi koodeja, mutta **koodin suora kopiointi kokeen vastauksiin on kiellettyä**. **Kaikki viestintä ja kokeesta keskusteleminen on myös kiellettyä**.
 
-Tehtävän vastauksen generointi tekoälyn avulla on kokeessa kiellettyä. Et saa siis käyttää esim. ChatGPT:tä tai GitHub Copilot:ia ratkaistaksesi koetehtävän sellaisenaan. Saat kuitenkin hyödyntää näitä palveluita yksittäisten ongelmien ratkaisemiseksi. Et siis saa käyttää tekoälyä generoidaksesi ohjelman, joka kysyy käyttäjältä tehtävänannossa esitetyt kysymykset ja tulostaa vaaditut tulosteet. Saat kuitenkin kysyä esimerkiksi, miten listalta voidaan poimia tietyn ehdon täyttävät arvot, tai kuinka tietyt numerot voidaan käydä läpi suurimmasta pienimpään.
+**Tehtävän vastauksen generointi tekoälyn avulla on kokeessa kiellettyä.** Et saa siis käyttää esim. ChatGPT:tä tai GitHub Copilot:ia ratkaistaksesi koetehtävän sellaisenaan. Saat kuitenkin hyödyntää näitä palveluita yksittäisten ongelmien ratkaisemiseksi.
 
-Ohjelmasi ei saa vilpillisesti harhauttaa tehtävän tarkastimia siten, että se tuottaa oikean vastauksen tehtävässä käytettäville testisyötteille toteuttamatta tehtävänannossa kuvailtua logiikkaa. Tällaiset ratkaisut hylätään, ja tahalliseksi katsottava vilppi voi johtaa myös koko kokeen hylkäykseen.
+**Ohjelmasi ei saa vilpillisesti harhauttaa tehtävän tarkastimia** siten, että se tuottaa oikean vastauksen tehtävässä käytettäville testisyötteille toteuttamatta tehtävänannossa kuvailtua logiikkaa. Tällaiset ratkaisut hylätään, ja tahalliseksi katsottava vilppi voi johtaa myös koko kokeen hylkäykseen.
+
+{: .esim }
+> 🆗 Saat hyödyntää hakukoneita tai tekoälyä selvittääksesi esimerkiksi, miten listalta voidaan poimia tietyn ehdon täyttävät arvot tai kuinka tietyt numerot voidaan käydä läpi suurimmasta pienimpään.
+>
+> ⛔ Et saa generoida tekoälyn avulla kokonaista ohjelmaa, joka kysyy käyttäjältä tehtävänannossa esitetyt kysymykset ja tulostaa vaaditut tulosteet.
+>
+> ⛔ Et saa toteuttaa ohjelmaa siten, että se toimii pelkästään esimerkkisuorituksessa esitetyillä arvoilla ilman, että se toteuttaa tehtävänannossa esitettyä logiikkaa.
+
 
 
 ## Kokeen tulokset ja palautteet

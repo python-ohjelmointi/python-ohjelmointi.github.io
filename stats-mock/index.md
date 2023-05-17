@@ -1,3 +1,9 @@
+---
+title: SSL-virheet tehtävässä "Kurssien tilastot"
+layout: minimal
+parent: ''
+---
+
 ## SSL-virheet tehtävässä "Kurssien tilastot"
 
 Tehtävässä [kurssien tilastot](https://ohjelmointi-23.mooc.fi/osa-7/4-datan-kasittely#netissa-olevan-tiedoston-hakeminen) moni opiskelija törmää SSL-sertifikaattivirheeseen. Tämä johtuu studies.cs.helsinki.fi-palvelimen sertifikaatista.

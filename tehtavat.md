@@ -6,26 +6,48 @@ nav_order: 2
 
 # Kurssin tehtävät
 
-Kurssin harjoitusympäristönä ja pääasiallisena materiaalina hyödynnetään Helsingin yliopiston ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-23.mooc.fi/](https://ohjelmointi-23.mooc.fi/). Suoritamme mooc.fi:ssä **ohjelmoinnin perusteet** -osiota (osat 1-7), emmekä etene ohjelmoinnin jatkokurssille.
-{: .fs-6 }
+Kurssin harjoitusympäristönä ja pääasiallisena oppimateriaalina hyödynnetään Helsingin yliopiston ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-23.mooc.fi/](https://ohjelmointi-23.mooc.fi/).
+{: .fs-5 }
+
+Suoritamme mooc.fi:ssä **ohjelmoinnin perusteet** -osiota, emmekä etene ohjelmoinnin jatkokurssille. Kätevimmin löydät tehtävät listattuna mooc.fi:n [kaikki tehtävät -sivulla](https://ohjelmointi-23.mooc.fi/kaikki-tehtavat).
+{: .fs-5 }
 
 ---
 
-## Haaga-Helian kurssill eliittyminen
+## Mooc.fi ja TestMyCode (TMC)
 
-Haaga-Helian kurssin suorittamiseksi sinun tulee vaihtaa kurssitoteutukseksi [mooc.fi:n profiilisivulla](https://ohjelmointi-23.mooc.fi/profile) juuri Haaga-Helian toteutus seuraavan kuvan mukaisesti:
+Kurssin harjoitusten suorittamiseksi sinun tulee rekisteröityä Helsingin yliopiston MOOC-kurssille osoitteessa [https://ohjelmointi-23.mooc.fi/](https://ohjelmointi-23.mooc.fi/). Jos olet jo aikaisemmin rekisteröitynyt kurssille, voit käyttää olemassa olevaa käyttäjätunnustasi.
 
-<a href="/img/kurssin-valinta.jpg"><img alt="Valitse Haaga-Helian kurssitoteutus" src="./img/kurssin-valinta.jpg" style="max-width: 400px; margin: 1em auto; display: block;" /></a>
-
-Tarkempi ohje löytyy sivulta [💻 Mooc.fi ja TMC.](/kurssille-liittyminen) Muista myös tallentaa profiilisi muutokset profiilisivun alaosan "Tallenna" painikkeella.
-
-Kurssin edetessä hyödynnämme myös VS Code:n TMC-laajennosta, jossa kurssille liittyminen tapahtuu seuraavasti:
-
-<a href="/img/kurssin-valinta-tmc.png"><img alt="Valitse Haaga-Helian kurssitoteutus" src="/img/kurssin-valinta-tmc.png" style="max-width: 400px; margin: 1em auto; display: block;" /></a>
-
-**Haaga-Helian kurssin valitseminen profiiliisi on erittäin tärkeää, koska vain silloin näemme suorituksesi tällä kurssilla.**
+{: .huom }
+Rekisteröitymisen jälkeen sinun tulee valita profiilisi asetuksista Haaga-Helian kurssi, jotta saat ratkaisemistasi tehtävistä pisteet tälle kurssille. Ohje tähän löytyy alta.
 
 
-### 🚫 Kyselyt ja kertauskyselyt
+## Mooc.fi-profiilisivu
 
-Tämän kurssin tehtävät koostuvat ainoastaan mooc.fi:n **ohjelmointitehtävistä**. Kyselyihin ja kertauskyselyihin antamanne vastaukset ja niistä saamanne pisteet eivät tallennu samaan järjestelmään ohjelmointitehtävien kanssa, eikä niitä huomioida kurssin arvioinnissa. Suosittelemme silti niihin vastaamista oman osaamisen vahvistamiseksi.
+Haaga-Helian kurssin suorittamiseksi sinun tulee vaihtaa kurssitoteutukseksi [mooc.fi:n profiilisivulla](https://ohjelmointi-23.mooc.fi/profile) juuri tämä Haaga-Helian toteutus.
+
+Kirjauduttuasi sisään mooc.fi:n, siirry profiiliisi klikkaamalla oikean yläkulman käyttäjäkuvaketta tai suoraan linkistä [https://ohjelmointi-23.mooc.fi/profile](https://ohjelmointi-23.mooc.fi/profile).
+
+Vaihda suoritettavaksi kurssiksi "Haaga-Helia: Python-ohjelmointi 2022-2023" seuraavan kuvan mukaisesti:
+
+![Valitse Haaga-Helian kurssitoteutus](/img/kurssin-valinta.jpg)
+
+Muista myös tallentaa profiilisi muutokset profiilisivun alaosan "Tallenna" painikkeella.
+
+## TestMyCode-laajennos
+
+Tehtävien osasta 4 alkaen ratkaisut palautetaan VS Code:n TMC-laajennuksen avulla, eikä tehtäviä voi palauttaa mooc.fi-sivuston kautta.
+
+Lue Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen) sekä ["ohjelmoinnin aloittaminen"](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen).
+
+Varmista lisäksi, että liityt myös VS Codessa oikealle kurssille tämän kuvan mukaisesti:
+
+![Valitse Haaga-Helian kurssitoteutus](/img/kurssin-valinta-tmc.png)
+
+{: .huom }
+Haaga-Helian kurssin valitseminen profiiliisi on erittäin tärkeää, koska vain silloin näemme suorituksesi tällä kurssilla.
+
+
+## Kyselyt ja kertauskyselyt
+
+Tämän kurssin tehtävät koostuvat ainoastaan mooc.fi:n **ohjelmointitehtävistä**. **Kyselyihin ja kertauskyselyihin** antamanne vastaukset ja niistä saamanne pisteet eivät tallennu samaan järjestelmään ohjelmointitehtävien kanssa, eikä niitä huomioida kurssin arvioinnissa. Suosittelemme silti niihin vastaamista oman osaamisen vahvistamiseksi.

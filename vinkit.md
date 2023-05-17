@@ -1,6 +1,15 @@
-[🔙 Takaisin etusivulle](./)
+---
+title: 💡 Vinkit
+layout: default
+nav_order: 6
+---
 
 # Kootut vinkit
+
+Olemme koonneet tälle sivulle yleisimpiä vinkkejä, jotka auttavat ratkaisemaan kurssilla toistuvia ongelmia. Päivitämme sivua kurssin edetessä.
+{: .fs-6 }
+
+---
 
 ## Tehtävän jakaminen TMC:n "paste"-palvelussa
 
@@ -8,11 +17,12 @@ Jos tehtävä ei millään ratkea ja kaipaat apua, voit lähettää koodisi past
 
 Tapa 1:
 
-![Tiedoston lähettäminen TMC:n paste-palveluun](./img/tmc-paste1.png)
+![Tiedoston lähettäminen TMC:n paste-palveluun](/img/tmc-paste1.png)
 
 Tapa 2:
 
-![Tiedoston lähettäminen TMC:n paste-palveluun](./img/tmc-paste2.png)
+![Tiedoston lähettäminen TMC:n paste-palveluun](/img/tmc-paste2.png)
+
 
 ## Ohjelmasi ei TMC:n mukaan tulosta mitään tai kysy syötteitä
 
@@ -20,11 +30,13 @@ Tapa 2:
 >
 > [mooc.fi](https://ohjelmointi-23.mooc.fi/osa-6/1-tiedostojen-lukeminen)
 
+
 ## Testi jää jumiin ja saat virheen "test timed out"
 
 Ohjelmasi todennäköisesti pyytää syötettä, jota ei tulisi tehtävänannon mukaan pyytää. Tästä johtuen ohjelmasi jää odottamaan syötettä, jota TMC:n testit eivät anna. Lopulta TMC keskeyttää testit aikakatkaisun avulla.
 
 Tarkasta että koodissa ei ole ylimääräisiä `input`-käskyjä. Tarvittaessa siirrä ohjelmaa testaavat tehtävänannon ulkopuoliset koodit `if __name__ == "__main__"`-lohkon sisään.
+
 
 ## Kattavampi testiraportti suorittamalla testit komentorivillä
 
@@ -37,6 +49,14 @@ python3 -m tmc
 ```
 
 Mikäli testit epäonnistuvat, saat todennäköisesti tarkemman virheilmoituksen, jonka perusteella voit tehdä korjauksia.
+
+## SSL-virheet tehtävässä "Kurssien tilastot"
+
+Tehtävässä [kurssien tilastot](https://ohjelmointi-23.mooc.fi/osa-7/4-datan-kasittely#netissa-olevan-tiedoston-hakeminen) moni opiskelija törmää SSL-sertifikaattivirheeseen. Tämä johtuu studies.cs.helsinki.fi-palvelimen sertifikaatista.
+
+Voitte kiertää sertifikaattiongelmia vaihtamalla domainin <del>studies.cs.helsinki.fi</del> tilalle **python-ohjelmointi.github.io**. Muuten osoitteet ovat samat ja tehtävä toteutetaan aivan samalla tavalla kuin ohjeistettu. Käyttäkää siis vain näitä osoitteita: `https://python-ohjelmointi.github.io/stats-mock/api/courses/` ja `https://python-ohjelmointi.github.io/stats-mock/api/courses/****/stats`.
+
+Nämä tiedostot ovat Helsingin yliopiston esimerkkidataa.
 
 ## TMC-laajennoksen käynnistys Windowsissa
 
@@ -59,14 +79,3 @@ ASENNUSHAKEMISTO\Code.exe --extensions-dir=C:\vscode\extensions --user-data-dir=
 ```
 
 Voit korvata yllä olevassa komennossa esiintyvät `C:\vscode\`-hakemistot vapaasti valitsemillasi tyhjillä hakemistoilla.
-
-## SSL-virheet tehtävässä "Kurssien tilastot"
-
-Tehtävässä [kurssien tilastot](https://ohjelmointi-23.mooc.fi/osa-7/4-datan-kasittely#netissa-olevan-tiedoston-hakeminen) moni opiskelija törmää SSL-sertifikaattivirheeseen. Tämä johtuu studies.cs.helsinki.fi-palvelimen sertifikaatista.
-
-Voitte kiertää sertifikaattiongelmia vaihtamalla domainin <del>studies.cs.helsinki.fi</del> tilalle **python-ohjelmointi.github.io**. Muuten osoitteet ovat samat ja tehtävä toteutetaan aivan samalla tavalla kuin ohjeistettu. Käyttäkää siis vain näitä osoitteita: `https://python-ohjelmointi.github.io/stats-mock/api/courses/` ja `https://python-ohjelmointi.github.io/stats-mock/api/courses/****/stats`.
-
-Nämä tiedostot ovat Helsingin yliopiston esimerkkidataa.
-
-
-<script src="scripts.js"></script>

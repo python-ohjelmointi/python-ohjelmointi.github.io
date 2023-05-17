@@ -15,7 +15,7 @@ Kurssin loppuarvosana muodostuu viikkotehtävien ja kokeiden arvosanojen peruste
 
 ---
 
-Kurssin aikana järjestetään kaksi koetta, joiden arvosanoista parempi huomioidaan kurssin arvostelussa. Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan. Jos kummastakaan kokeesta ei tule hyväksyttyä suoritusta, seuraava mahdollisuus kokeen suorittamiseksi on seuraavan lukukauden kurssikokeen yhteydessä.
+Kurssin aikana järjestetään kaksi koetta, joiden arvosanoista parempi huomioidaan kurssin arvostelussa. Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan. Jos kummastakaan kokeesta ei tule hyväksyttyä suoritusta, seuraava mahdollisuus kokeen suorittamiseksi on seuraavan lukukauden kokeiden yhteydessä.
 
 Kokeissa vaadittu minimipistemäärä hyväksyttyyn suoritukseen on 40 % eli 10 pistettä. [Tarkemmat ohjeet kokeen käytännön järjestelyihin liittyen löydät erilliseltä sivulta.](/koe/)
 
@@ -24,10 +24,6 @@ Voitte halutessanne kokeilla arvosanalaskurilla, minkä loppuarvosanan eri osasu
 {: .esim }
 Jos saat esimerkiksi kokeesta arvosanaksi 5 ja tehtävistä 4, muodostuu loppuarvosanaksi 4,5, joka pyöristetään ylöspäin 5:een. Vastaavasti jos saat tehtävistä arvosanaksi 4 ja kokeesta arvosanan 3, pyöristyy tulos myös ylöspäin 4:ään. Pyöristykset tehdään vasta kurssin lopussa, eli voit saada esim. kokeesta arvosanaksi 4.1 ja tehtävistä 4.9.
 
-
-## Viikkotehtävien DL
-
-Mooc.fi:n eri osioiden tehtävillä ei ole tällä kurssilla erillisiä määräaikoja, vaan kaikkien tehtävien yhteinen DL on kurssin lopussa.
 
 
 ## Viikkotehtävien arviointi
@@ -43,3 +39,9 @@ Helsingin yliopiston arvostelusta poiketen Haaga-Helian toteutuksella ei yksitt�
 Näet omat tehtäväpisteesi TMC-palvelusta kirjautumalla TMC-tunnuksillasi osoitteeseen [https://tmc.mooc.fi/org/haaga-helia/](https://tmc.mooc.fi/org/haaga-helia/). Tehtäväpisteet ovat myös näkyvillä VS Code:n TMC-laajennoksessa "My Courses"-näkymässä [tämän kuvan mukaisesti](/img/points-gained-tmc-plugin.png):
 
 ![My courses](/img/points-gained-tmc-plugin.png)
+
+
+## Viikkotehtävien DL
+
+Mooc.fi:n eri osioiden tehtävillä ei ole tällä kurssilla erillisiä määräaikoja, vaan kaikkien tehtävien yhteinen DL on kurssin lopussa.
+

@@ -7,7 +7,10 @@ nav_order: 0
 # Python-ohjelmointi, kesä 2023
 {: .no_toc }
 
-Tämän kurssin opettajina toimivat Teemu Havulinna ja Kasper Valtakari (etunimi.sukunimi@haaga-helia.fi). Kurssin kehittämisessä on mukana myös Heikki Raatikainen.
+Tervetuloa Python-kurssille! Löydät tältä etusivulta koosteen kurssin käytännön järjestelyistä. Tarkemmat ohjeet tiedotukseen, tukikanaviin, tehtäviin ja muihin aiheisiin on jaettu valikkoon omille alasivuilleen.
+{: .fs-6 }
+
+Kurssin opettajina toimivat Teemu Havulinna ja Kasper Valtakari (`etunimi.sukunimi@haaga-helia.fi`). Kurssin kehittämisessä on mukana myös Heikki Raatikainen.
 {: .fs-5 }
 
 ---
@@ -20,9 +23,9 @@ Tämän kurssin opettajina toimivat Teemu Havulinna ja Kasper Valtakari (etunimi
 
 ---
 
-## Kurssin toteutustapa
+## 🎓 Kurssin toteutustapa
 
-Kurssi toteutetaan täysin virtuaalisesti, eli se ei sisällä oppitunteja kampuksella eikä videoyhteydellä. Oppituntien sijaan saatavillasi on videoita ja tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista. Kurssin tehtäviin on saatavissa apua kurssin Teams-kanavalla.
+Kesän 2023 kurssi toteutetaan täysin virtuaalisesti, eli se ei sisällä oppitunteja kampuksella eikä videoyhteydellä. Oppituntien sijaan saatavillasi on videoita ja tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista. Kurssin tehtäviin on saatavissa apua kurssin Teams-kanavalla.
 
 > *"VIRTUAL on itsenäistä opiskelua toteutuksen aukioloaikana. Virtuaalitoteutuksissa ei ole lukujärjestykseen merkittyä pakollista opetusta tai muuta tapaamista verkossa, vaan opiskelijat suorittavat tehtäviä toteutussuunnitelman aikataulun ja määräaikojen mukaan. Samaan aikaan opiskelevat voivat olla yhteydessä toisiinsa ja virtuaaliopiskelun ohjaajaan keskustelualueen kautta."*
 >
@@ -58,20 +61,19 @@ Saatuasi jatkokurssin suoritettua HY:n puolella voit hakea opintojakson sisälly
 
 ## 🔗 Tärkeät linkit
 
-**Tämä kurssi**
+Tämä kurssi:
 
-
-* [Oppituntien videot (OneDrive)](https://haagahelia.sharepoint.com/:f:/r/teams/Python-ohjelmointi711/Jaetut%20asiakirjat/General?csf=1&web=1&e=TE7Tas)
+<!--* [Oppituntien videot (OneDrive)](https://haagahelia.sharepoint.com/:f:/r/teams/Python-ohjelmointi711/Jaetut%20asiakirjat/General?csf=1&web=1&e=TE7Tas)-->
 * [Opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/SOF004AS2A)
 * [Oma pistetilanne (TMC-palvelussa)](https://tmc.mooc.fi/org/haaga-helia/)
-* [Sekalaisia vinkkejä työkaluihin liittyen](/vinkit)
+* [Vinkkejä kurssin työkaluihin liittyen](/vinkit)
 * Oppituntien esimerkkikoodit:
     * [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/)
     * [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/)
     * [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/)
 
 
-**Mooc.fi**
+Mooc.fi:
 
 * [Materiaalit ja tehtävät (https://ohjelmointi-23.mooc.fi/)](https://ohjelmointi-23.mooc.fi/)
 * [HY:n Discordiin liittyminen](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc)
@@ -93,19 +95,13 @@ Kukin kokelas saa käyttää kokeeseen 2,5 tuntia. Aika alkaa siitä, kun avaat 
 
 Kurssin koe järjestetään kahteen kertaan ja molemmilla kerroilla koealue on mooc.fi:n osat 1-4. Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
 
-Koe järjestetään [Viope](https://hh.viope.com/)-nimisessä järjestelmässä ja kokeeseen ei tarvitse ilmoittautua etukäteen. [Tarkempia ohjeita kokeeseen liittyen löydät tältä erilliseltä sivulta.](./koe)
+{: .huom }
+> Kokeiden ajankohdat ovat kesällä 2023 seuraavat:
+>
+> * **torstai 8.6.2023 klo 11-21**
+> * **torstai 31.8.2023 klo 11-21**
 
-Järjestämme kokeen "itsepalveluperiaatteella" klo 11-21 välillä. Kukin kokelas saa käyttää kokeeseen valitsemanaan aikana annetulla aikavälillä korkeintaan 2,5 tuntia. Aika alkaa siitä, kun avaat kokeen ensimmäisen kerran ja ajan laskeminen päättyy viimeiseen tehtävän tallentamiseen tai lähettämiseen. Ole mahdollisissa ongelmatilanteissa yhteydessä opettajaan ensisijaisesti Teamsin välityksellä.
-
-* [Tarkempia ohjeita kokeeseen liittyen.](/koe)
-* [Viope](https://hh.viope.com/)
-* Mikäli sinulla on erityisopettajan lausunto kokeen lisäajasta, voit käyttää myös saamasi lisäajan. Jos lausunnossa ei ole eritelty lisäajan kestoa, koeaikasi on 3 tuntia 15 minuuttia.
-
-Kokeiden ajankohdat ovat kesällä 2023 seuraavat:
-
-* **torstai 8.6.2023 klo 11-21**
-* **torstai 31.8.2023 klo 11-21**
-
+Kokeet järjestetään [Viope](https://hh.viope.com/)-nimisessä järjestelmässä ja kokeeseen ei tarvitse ilmoittautua etukäteen. [Tarkempia ohjeita kokeisiin liittyen löydät tältä erilliseltä sivulta.](./koe/)
 
 
 ## ⚖️ Lisenssit ja tekijänoikeudet
@@ -130,11 +126,3 @@ Kokeiden ajankohdat ovat kesällä 2023 seuraavat:
 > Some software incorporated into Python is under different licenses. The licenses are listed with code falling under that license. See [Licenses and Acknowledgements for Incorporated Software](https://docs.python.org/3/license.html#otherlicenses) for an incomplete list of these licenses.
 >
 > *[https://docs.python.org/3/license.html](https://docs.python.org/3/license.html)*
-
------
-
-<small><a href="https://github.com/python-ohjelmointi/python-ohjelmointi.github.io/edit/main/readme.md">Ehdota muutosta tälle sivulle.</a></small>
-
-<script src="/tocbot/tocbot.min.js"></script>
-<script src="/scripts.js"></script>
-<link rel="stylesheet" href="/tocbot/tocbot.css" />
