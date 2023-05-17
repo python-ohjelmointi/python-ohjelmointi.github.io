@@ -317,7 +317,7 @@ Jätäthän kurssista vielä [opintojaksopalautetta!](https://mynet.haaga-helia.
 
 Kurssin suoritukset arvioidaan tutkintosäännön mukaisesti aikataulussa 29.3. ja 17.5. järjestettävien kokeiden perusteella. Näitä koesuorituksia on kuitenkin mahdollista korottaa. Pidämme kesäkuun alussa ja elokuun lopussa kokeet, joissa on mahdollista korottaa jo kirjattua arvosanaa. Kokeiden päivämäärät kesällä 2023 ovat:
 
-* torstai 9.6.2023
+* torstai 8.6.2023
 * torstai 31.8.2023
 
 Kukin kokelas saa käyttää kokeeseen 2,5 tuntia. Aika alkaa siitä, kun avaat kokeen ensimmäisen kerran. Tarkemmat tiedot uusintakokeista löydät kurssin Teams-kanavalta ennen koetta.
