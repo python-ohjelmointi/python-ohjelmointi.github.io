@@ -1,6 +1,16 @@
-[🔙 Takaisin etusivulle](./)
+---
+title: 💻 Mooc.fi ja TMC
+layout: default
+nav_order: 2
+---
 
-# Mooc.fi-rekisteröityminen
+# Järjestelmiin liittyminen
+
+Suoritamme mooc.fi:ssä **ohjelmoinnin perusteet** -osiota (osat 1-7), emmekä etene ohjelmoinnin jatkokurssille.
+
+Haaga-Helian kurssin suorittamiseksi sinun tulee vaihtaa kurssitoteutukseksi [mooc.fi:n profiilisivulla](https://ohjelmointi-23.mooc.fi/profile) juuri Haaga-Helian toteutus seuraavan kuvan mukaisesti:
+
+## Mooc.fi-rekisteröityminen
 
 Kurssin harjoitusten suorittamiseksi sinun tulee rekisteröityä Helsingin yliopiston MOOC-kurssille osoitteessa [https://ohjelmointi-23.mooc.fi/](https://ohjelmointi-23.mooc.fi/). Sen lisäksi sinun tulee valita profiilisi asetuksista Haaga-Helian kurssi, jotta saat ratkaisemistasi tehtävistä pisteet.
 

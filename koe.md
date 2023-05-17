@@ -1,5 +1,5 @@
 ---
-title: Kokeet
+title: ✅ Kokeet
 layout: default
 nav_order: 5
 ---
@@ -8,10 +8,10 @@ nav_order: 5
 {: .no_toc }
 
 Tällä sivulla on oleellista tietoa kokeisiin valmistautumiseen sekä järjestelyihin ja käytäntöihin liittyen, joten luethan sen kokonaan, vaikka sivu on ~~tuskaisen~~ pitkä.
-{: .fs-5 }
+{: .fs-6 }
 
 Tällä sivulla esitetyt käytännöt pätevät kaikissa kokeissa, ellei toisin mainita.
-{: .fs-5 }
+{: .fs-6 }
 
 ---
 
@@ -23,7 +23,7 @@ Tällä sivulla esitetyt käytännöt pätevät kaikissa kokeissa, ellei toisin 
 
 ## Kokeen aikataulu
 
-Koe järjestetään [kurssin etusivulla](./) ja Teamsissa ilmoitetulla aikataululla itsepalveluperiaatteella. Kokeeseen ei tarvitse erikseen ilmoittautua.
+Koe järjestetään kurssin kotisivulla sekä Teamsissa ilmoitetulla aikataululla itsepalveluperiaatteella. Kokeeseen ei tarvitse erikseen ilmoittautua.
 
 Kukin kokelas saa käyttää kokeeseen annetulla aikavälillä korkeintaan 2,5 tuntia, joka alkaa siitä, kun avaat kokeen ensimmäisen kerran. Mikäli sinulla on erityisopettajan lausunto kokeen lisäajasta, voit käyttää lisäksi erityisopettajan suositteleman lisäajan. Jos lausunnossa ei ole eritelty lisäajan kestoa, koeaikasi on 3 tuntia 15 minuuttia.
 
@@ -99,7 +99,7 @@ Tehtävän vastauksen generointi tekoälyn avulla on kokeessa kiellettyä. Et sa
 Ohjelmasi ei saa vilpillisesti harhauttaa tehtävän tarkastimia siten, että se tuottaa oikean vastauksen tehtävässä käytettäville testisyötteille toteuttamatta tehtävänannossa kuvailtua logiikkaa. Tällaiset ratkaisut hylätään, ja tahalliseksi katsottava vilppi voi johtaa myös koko kokeen hylkäykseen.
 
 
-# Kokeen tulokset ja palautteet
+## Kokeen tulokset ja palautteet
 
 Kokeen manuaalisen arvioinnin jälkeen näet saamasi pisteet Viopen kohdasta "Oma nurkka" (my corner). "Oma nurkka" on ainoa paikka, jossa näkyy manuaalisessa arvioinnissa annetut varsinaiset pisteet:
 

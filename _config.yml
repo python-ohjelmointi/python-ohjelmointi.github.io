@@ -24,3 +24,9 @@ callouts:
   warning:
     title: Warning
     color: red
+  esim:
+    title: Esimerkki
+    color: green
+  huom:
+    title: 💡 Huomio!
+    color: green

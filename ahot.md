@@ -8,6 +8,9 @@ parent: ''
 # AHOT-tehtävä: Jankon betoni
 
 Olet saanut toimeksiannon Jankon betoni -nimiseltä betonialan yritykseltä. Tehtävänäsi on kirjoittaa Python-ohjelma, joka valitsee yrityksen tilauskirjasta tilauksia siten, että yrityksen voitto on yhden päivän ajalta mahdollisimman suuri.
+{: .fs-6 }
+
+---
 
 Tilauskirja on saatavilla CSV-muodossa oheisessa [tilauskirja.csv](/tilauskirja.csv)-tiedostossa. Jokaiseen tilauskirjan riviin kuuluu kyseisen tilauksen toimittamiseen kuluva kesto (minuutteina), siihen liittyvät kulut (euroina) sekä tulot (euroina) pilkuilla eroteltuna. Kunkin yksittäisen tilauksen kate voidaan laskea vähentämällä tuloista kulut, ja tavoitteena on maksimoida päivän kate.
 
