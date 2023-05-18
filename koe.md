@@ -51,6 +51,13 @@ Kokeessa on viisi tehtävää, joista kukin on viiden pisteen arvoinen. Tehtäv�
 
 Huomioimme keskeneräisten tehtävien arvioinnissa sellaiset osat, jotka osoittavat selvää osaamista tehtävän aiheen tiimoilta, eli pyrkikää vastaamaan kaikkiin tehtäviin parhaanne mukaan, vaikka ette niitä saisikaan tehtyä kokonaan oikein. Muistakaa myös lähettää tehtävät arvioitavaksi tai tallentaa ne keskeneräisinä, jotta pystymme arvioimaan ne.
 
+{: .huom }
+Kuten viikkoharjoitusten kanssa, voit myös kokeessa suorittaa koodisi useaan kertaan ja tehdä muutoksia, kunnes ratkaisusi on hyväksytty. Viikkoharjoituksista poiketen voit myös tallentaa ratkaisun keskeneräisenä.
+
+
+{: .vinkki }
+Vaikka Viope mahdollistaa periaatteessa ohjelman koodaamisen suoraan sivulla olevaan tekstikenttään, suosittelemme vahvasti välttämään tätä ratkaisutapaa. Tekstikentässä ei ole minkäänlaista avustustoimintoa, joka huomauttaisi virheellisestä syntaksista. Tekstikenttä on myös erittäin altis tilanteille, joissa koodin sisennyksissä "sarkaimet" (tab `↹`) ja välilyönnit sekoittuvat, [joten koodin suoritus epäonnistuu](https://peps.python.org/pep-0008/#tabs-or-spaces).
+
 
 ## Luova ongelmanratkaisu
 
@@ -61,6 +68,7 @@ Moniin tehtäviin löytyy lukuisia erilaisia ratkaisutapoja. Ennen tehtävän ra
 
 Tehtävien automaattisessa arvioinnissa on tärkeää, että ohjelmasi tulostaa esimerkiksi numerot kuten ne on tehtävän esimerkkisuorituksessa esitetty. Oletuksena ratkaisussa ei tarvitse pyöristää tai muuten muotoilla numeroita, ellei tehtävänannossa erikseen sitä pyydetä. Liukuluvut tulostetaan siis "oletusesityksellä", eli niiden desimaaliosan pituus voi vaihdella. Oletuksena tehtävissä ei myöskään pidä taivuttaa tekstejä eri yksikköön tai monikkoon ("1 tuote" ja "2 tuotetta"), ellei sitä erikseen tehtävässä pyydetä.
 
+{: .vinkki }
 Tehtävissä ei tarvitse myöskään varautua virheellisiin syötteisiin tai muihin poikkeustilanteisiin, ellei sitä erikseen pyydetä.
 
 
