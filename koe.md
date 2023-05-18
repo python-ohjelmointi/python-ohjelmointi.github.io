@@ -76,7 +76,7 @@ Tehtävissä ei tarvitse myöskään varautua virheellisiin syötteisiin tai mui
 
 Olemme tehneet Viopen käytön ja kokeeseen valmistautumisen tueksi erillisen harjoituskokeen, jonka voitte halutessanne tehdä itsenäisesti oman aikataulunne mukaan. Harjoituskoe löytyy Viopen etusivun alaosasta ([https://hh.viope.com](https://hh.viope.com)) nimellä "Python-harjoituskoe".
 
-Harjoituskokeessa tehtäviä, jotka on lainattu kurssin viikkotehtävistä. Kokeen tehtävät tulevat olemaan tyyliltään ja luonteeltaan näiden tehtävien mukaisia, mutta mahdollisesti astetta haastavampia.
+Harjoituskokeessa on pääasiassa tehtäviä, jotka on lainattu kurssin viikkotehtävistä. Kokeen tehtävät tulevat olemaan tyyliltään ja luonteeltaan näiden tehtävien mukaisia, mutta mahdollisesti astetta haastavampia.
 
 
 ## Kokeeseen osallistuminen
