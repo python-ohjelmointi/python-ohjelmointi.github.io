@@ -34,6 +34,12 @@ Vaihda suoritettavaksi kurssiksi "Haaga-Helia: Python-ohjelmointi 2022-2023" seu
 
 Muista myös tallentaa profiilisi muutokset profiilisivun alaosan "Tallenna" painikkeella.
 
+
+## Kyselyt ja kertauskyselyt
+
+Tämän kurssin tehtävät koostuvat ainoastaan mooc.fi:n **ohjelmointitehtävistä**. **Kyselyihin ja kertauskyselyihin** antamanne vastaukset ja niistä saamanne pisteet eivät tallennu samaan järjestelmään ohjelmointitehtävien kanssa, eikä niitä huomioida kurssin arvioinnissa. Suosittelemme silti niihin vastaamista oman osaamisen vahvistamiseksi.
+
+
 ## TestMyCode-laajennos
 
 Tehtävien osasta 4 alkaen ratkaisut palautetaan VS Code:n TMC-laajennuksen avulla, eikä tehtäviä voi palauttaa mooc.fi-sivuston kautta.
@@ -46,8 +52,3 @@ Varmista lisäksi, että liityt myös VS Codessa oikealle kurssille tämän kuva
 
 {: .huom }
 Haaga-Helian kurssin valitseminen profiiliisi on erittäin tärkeää, koska vain silloin näemme suorituksesi tällä kurssilla.
-
-
-## Kyselyt ja kertauskyselyt
-
-Tämän kurssin tehtävät koostuvat ainoastaan mooc.fi:n **ohjelmointitehtävistä**. **Kyselyihin ja kertauskyselyihin** antamanne vastaukset ja niistä saamanne pisteet eivät tallennu samaan järjestelmään ohjelmointitehtävien kanssa, eikä niitä huomioida kurssin arvioinnissa. Suosittelemme silti niihin vastaamista oman osaamisen vahvistamiseksi.

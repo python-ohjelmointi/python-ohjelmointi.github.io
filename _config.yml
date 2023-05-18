@@ -9,6 +9,9 @@ aux_links:
 
 permalink: /:title/
 
+plugins:
+  - jekyll-target-blank
+
 callouts:
   highlight:
     color: yellow

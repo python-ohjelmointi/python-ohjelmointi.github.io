@@ -8,7 +8,7 @@ nav_order: 0
 {: .no_toc }
 
 Tervetuloa Python-kurssille! Löydät tältä etusivulta koosteen kurssin käytännön järjestelyistä. Tarkemmat ohjeet tiedotukseen, tukikanaviin, tehtäviin ja muihin aiheisiin on jaettu valikkoon omille alasivuilleen.
-{: .fs-6 }
+{: .fs-5 }
 
 Kurssin opettajina toimivat Teemu Havulinna ja Kasper Valtakari (`etunimi.sukunimi@haaga-helia.fi`). Kurssin kehittämisessä on mukana myös Heikki Raatikainen.
 {: .fs-5 }

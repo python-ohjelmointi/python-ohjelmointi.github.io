@@ -73,7 +73,7 @@ Harjoituskokeessa tehtäviä, jotka on lainattu kurssin viikkotehtävistä. Koke
 
 ## Kokeeseen osallistuminen
 
-Liittykää [Viopen etusivulla](https://hh.viope.com/) kurssille nimeltä "Python-ohjelmointi, kevät 2023". Voitte liittyä kurssille jo etukäteen, vaikka koetehtävät aukeavat ajastetusti vasta kokeen alkuhetkellä. Päivitä tarvittaessa Viopen näkymä selaimessasi kokeen alkaessa, jotta pääset siirtymään tehtäviin.
+Liittykää [Viopen etusivulla](https://hh.viope.com/) kurssille nimeltä "Python-ohjelmointi, kesä 2023". Voitte liittyä kurssille jo etukäteen, vaikka koetehtävät aukeavat ajastetusti vasta kokeen alkuhetkellä. Päivitä tarvittaessa Viopen näkymä selaimessasi kokeen alkaessa, jotta pääset siirtymään tehtäviin.
 
 Seuratkaa kokeen aikana kelloa tai laittakaa itsellenne muistutus, jotta varmasti ehditte lähettää ja tallentaa kaikki tehtävät ennen kokeen päättymistä.
 
