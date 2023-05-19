@@ -2,6 +2,7 @@
 title: 📈 Arviointi
 layout: default
 nav_order: 3
+has_children: true
 ---
 
 # Kurssin arviointi
@@ -19,7 +20,7 @@ Kurssin aikana järjestetään kaksi koetta, joiden arvosanoista parempi huomioi
 
 Kokeissa vaadittu minimipistemäärä hyväksyttyyn suoritukseen on 40 % eli 10 pistettä. [Tarkemmat ohjeet kokeen käytännön järjestelyihin liittyen löydät erilliseltä sivulta.](/koe/)
 
-Voitte halutessanne kokeilla arvosanalaskurilla, minkä loppuarvosanan eri osasuoritukset tuottavat: [https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri](https://replit.com/@Havulinna/Python-kurssin-arvosanalaskuri).
+Voitte halutessanne kokeilla [kurssin arvosanalaskurilla](/arvosanalaskuri/), minkä loppuarvosanan eri osasuoritukset tuottavat.
 
 {: .esim }
 Jos saat esimerkiksi kokeesta arvosanaksi 5 ja tehtävistä 4, muodostuu loppuarvosanaksi 4,5, joka pyöristetään ylöspäin 5:een. Vastaavasti jos saat tehtävistä arvosanaksi 4 ja kokeesta arvosanan 3, pyöristyy tulos myös ylöspäin 4:ään. Pyöristykset tehdään vasta kurssin lopussa, eli voit saada esim. kokeesta arvosanaksi 4.1 ja tehtävistä 4.9.
