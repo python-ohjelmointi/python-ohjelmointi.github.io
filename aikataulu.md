@@ -101,7 +101,7 @@ Tässä kokeessa koealue on mooc.fi:n osat 1-4. Järjestämme kokeen "itsepalvel
 Koe järjestetään [Viope](https://hh.viope.com/)-nimisessä järjestelmässä ja kokeeseen ei tarvitse ilmoittautua etukäteen. Kukin kokelas saa käyttää kokeeseen valitsemanaan aikana annetulla aikavälillä korkeintaan 2,5 tuntia. Aika alkaa siitä, kun avaat kokeen ensimmäisen kerran. Ole mahdollisissa ongelmatilanteissa yhteydessä opettajaan ensisijaisesti Teamsin välityksellä.
 
 * [Viope](https://hh.viope.com/)
-* [Tarkempia ohjeita kokeeseen liittyen.](./koe)
+* [Tarkempia ohjeita kokeeseen liittyen.](/koe)
 * Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
 * Mikäli sinulla on erityisopettajan lausunto kokeen lisäajasta, voit käyttää myös saamasi lisäajan. Jos lausunnossa ei ole eritelty lisäajan kestoa, koeaikasi on 3 tuntia 15 minuuttia.
 -->
@@ -163,7 +163,8 @@ Mooc.fi:n esimerkkien lisäksi suosittelemme perehtymään itsenäisesti siihen,
 
 ## Viikko 13: Soveltavat aiheet (mooc.fi osa 7)
 
-> 🔐 Huom! Saatat törmätä tämän osan "Kurssien tilastot" -tehtävässä hankaliin SSL-virheisiin. Mooc.fi:ssä on annettu vinkkejä ongelman kiertämiseksi, mutta kyseisessä tehtävässä voi olla helpointa käyttää [vaihtoehtoista palvelinta, jolla on eri tahon myöntämä sertifikaatti](/vinkit/#ssl-virheet-tehtävässä-kurssien-tilastot).
+{: .huom }
+🔐 Saatat törmätä tämän osan "Kurssien tilastot" -tehtävässä hankaliin SSL-virheisiin. Mooc.fi:ssä on annettu vinkkejä ongelman kiertämiseksi, mutta kyseisessä tehtävässä voi olla helpointa käyttää [vaihtoehtoista palvelinta, jolla on eri tahon myöntämä sertifikaatti](/vinkit/#ssl-virheet-tehtävässä-kurssien-tilastot).
 
 * Moduulit
 * Satunnaisuus
@@ -184,7 +185,7 @@ Koe järjestetään ensimmäisen kokeen tavoin [Viope](https://hh.viope.com/)-ni
 Jos osallistuit jo edelliseen kokeeseen, saat halutessasi osallistua myös tähän ja korottaa arvosanaasi.
 
 * [Viope](https://hh.viope.com/)
-* [Tarkempia ohjeita kokeeseen liittyen.](./koe)
+* [Tarkempia ohjeita kokeeseen liittyen.](/koe)
 * Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
 * Mikäli sinulla on erityisopettajan lausunto kokeen lisäajasta, voit käyttää myös saamasi lisäajan. Jos lausunnossa ei ole eritelty lisäajan kestoa, koeaikasi on 3 tuntia 15 minuuttia.
 * **Kaikkien Mooc.fi-tehtävien DL on kokeen alussa.**
