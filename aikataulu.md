@@ -163,7 +163,7 @@ Mooc.fi:n esimerkkien lisäksi suosittelemme perehtymään itsenäisesti siihen,
 
 ## Viikko 13: Soveltavat aiheet (mooc.fi osa 7)
 
-> 🔐 Huom! Saatat törmätä tämän osan "Kurssien tilastot" -tehtävässä hankaliin SSL-virheisiin. Mooc.fi:ssä on annettu vinkkejä ongelman kiertämiseksi, mutta kyseisessä tehtävässä voi olla helpointa käyttää [vaihtoehtoista palvelinta, jolla on eri tahon myöntämä sertifikaatti](./vinkit#ssl-virheet-tehtävässä-kurssien-tilastot).
+> 🔐 Huom! Saatat törmätä tämän osan "Kurssien tilastot" -tehtävässä hankaliin SSL-virheisiin. Mooc.fi:ssä on annettu vinkkejä ongelman kiertämiseksi, mutta kyseisessä tehtävässä voi olla helpointa käyttää [vaihtoehtoista palvelinta, jolla on eri tahon myöntämä sertifikaatti](/vinkit/#ssl-virheet-tehtävässä-kurssien-tilastot).
 
 * Moduulit
 * Satunnaisuus

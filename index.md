@@ -101,7 +101,7 @@ Kurssin koe järjestetään kahteen kertaan ja molemmilla kerroilla koealue on m
 > * **torstai 8.6.2023 klo 11-21**
 > * **torstai 31.8.2023 klo 11-21**
 
-Kokeet järjestetään [Viope](https://hh.viope.com/)-nimisessä järjestelmässä ja kokeeseen ei tarvitse ilmoittautua etukäteen. [Tarkempia ohjeita kokeisiin liittyen löydät tältä erilliseltä sivulta.](./koe/)
+Kokeet järjestetään [Viope](https://hh.viope.com/)-nimisessä järjestelmässä ja kokeeseen ei tarvitse ilmoittautua etukäteen. [Tarkempia ohjeita kokeisiin liittyen löydät tältä erilliseltä sivulta.](/koe/)
 
 
 ## ⚖️ Lisenssit ja tekijänoikeudet
