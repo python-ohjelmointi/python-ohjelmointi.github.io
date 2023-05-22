@@ -9,7 +9,7 @@ nav_order: 2
 Kurssin harjoitusympäristönä ja pääasiallisena oppimateriaalina hyödynnetään Helsingin yliopiston ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-23.mooc.fi/](https://ohjelmointi-23.mooc.fi/).
 {: .fs-5 }
 
-Suoritamme mooc.fi:ssä **ohjelmoinnin perusteet** -osiota, emmekä etene ohjelmoinnin jatkokurssille. Kätevimmin löydät tehtävät listattuna mooc.fi:n [kaikki tehtävät -sivulla](https://ohjelmointi-23.mooc.fi/kaikki-tehtavat). Tämän kurssin arvioinnissa huomioidaan ainoastaan ohjelmointitehtävät, ei kyselyitä.
+Suoritamme mooc.fi:ssä **ohjelmoinnin perusteet** -osiota, emmekä etene ohjelmoinnin jatkokurssille. Kätevimmin löydät tehtävät listattuna mooc.fi:n [kaikki tehtävät -sivulla](https://ohjelmointi-23.mooc.fi/kaikki-tehtavat). Tämän kurssin arvioinnissa huomioidaan ainoastaan **ohjelmointitehtävät**, ei kyselyitä.
 {: .fs-5 }
 
 Tehtävillä ei ole erillisiä määräaikoja, vaan arvioinnissa huomioidaan ne tehtäväpisteet, jotka on kertynyt tehtävistä kurssin loppuun mennessä. Kurssin jälkeen tehtäviä voi edelleen ratkoa, mutta ne eivät enää vaikuta arviointiin.
@@ -55,3 +55,10 @@ Varmista lisäksi, että liityt myös VS Codessa oikealle kurssille tämän kuva
 
 {: .huom }
 Haaga-Helian kurssin valitseminen profiiliisi on erittäin tärkeää, koska vain silloin näemme suorituksesi tällä kurssilla.
+
+
+## Tehtävien arviointi
+
+Kurssin läpäisemiseksi tehtäväpisteistä tulee olla suoritettuna kurssin päättyessä vähintään 25 %. Helsingin yliopiston arvostelusta poiketen Haaga-Helian toteutuksella ei yksittäisiin osioihin liittyviä minimipistemääriä. Pisteitä ei siis tarkastella osiokohtaisesti, vaan 25 % kokonaisuudesta riittää.
+
+Tehtävien tarkemmat arviointiperusteet on esitetty [arviointi](/arviointi/#viikkotehtävien-arviointi)-sivulla.

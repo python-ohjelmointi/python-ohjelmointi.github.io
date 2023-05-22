@@ -23,7 +23,7 @@ Kokeissa vaadittu minimipistemäärä hyväksyttyyn suoritukseen on 40 % eli 10 
 Voitte halutessanne kokeilla [kurssin arvosanalaskurilla](/arvosanalaskuri/), minkä loppuarvosanan eri osasuoritukset tuottavat.
 
 {: .esim }
-Jos saat esimerkiksi kokeesta arvosanaksi 5 ja tehtävistä 4, muodostuu loppuarvosanaksi 4,5, joka pyöristetään ylöspäin 5:een. Vastaavasti jos saat tehtävistä arvosanaksi 4 ja kokeesta arvosanan 3, pyöristyy tulos myös ylöspäin 4:ään. Pyöristykset tehdään vasta kurssin lopussa, eli voit saada esim. kokeesta arvosanaksi 4.1 ja tehtävistä 4.9.
+Jos saat esimerkiksi kokeesta arvosanaksi 5 ja tehtävistä 4, muodostuu loppuarvosanaksi 4,5, joka pyöristetään ylöspäin 5:een. Vastaavasti jos saat tehtävistä arvosanaksi 4 ja kokeesta arvosanan 3, pyöristyy tulos myös ylöspäin 4:ään. Pyöristykset tehdään vasta kurssin lopussa, eli voit saada esim. kokeesta arvosanaksi 4,1 ja tehtävistä 4,9.
 
 
 
