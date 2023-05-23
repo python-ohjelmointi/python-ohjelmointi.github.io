@@ -59,6 +59,21 @@ Haaga-Helian omassa tarjonnassa ei ole tällä hetkellä Python-ohjelmoinnin jat
 Saatuasi jatkokurssin suoritettua HY:n puolella voit hakea opintojakson sisällyttämistä tutkintoosi. Lisätietoja löydät sivulta [https://www.haaga-helia.fi/fi/osaamisen-tunnistaminen-ja-work-study](https://www.haaga-helia.fi/fi/osaamisen-tunnistaminen-ja-work-study) kohdasta "hyväksiluku".
 
 
+
+## ✅ Kokeet
+
+Kurssin koe järjestetään kahteen kertaan ja molemmilla kerroilla koealue on mooc.fi:n osat 1-4. Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
+
+{: .huom }
+> Kokeiden ajankohdat ovat kesällä 2023 seuraavat:
+>
+> * **torstai 8.6.2023 klo 11-21**
+> * **torstai 31.8.2023 klo 11-21**
+
+Kokeet järjestetään [Viope](https://hh.viope.com/)-nimisessä järjestelmässä ja kokeeseen ei tarvitse ilmoittautua etukäteen. [Tarkempia ohjeita kokeisiin liittyen löydät tältä erilliseltä sivulta.](/koe/)
+
+
+
 ## 🔗 Tärkeät linkit
 
 Tämä kurssi:
@@ -89,19 +104,6 @@ Kurssin suoritukset arvioidaan tutkintosäännön mukaisesti aikataulussa 29.3. 
 * torstai 31.8.2023
 
 Kukin kokelas saa käyttää kokeeseen 2,5 tuntia. Aika alkaa siitä, kun avaat kokeen ensimmäisen kerran. Tarkemmat tiedot uusintakokeista löydät kurssin Teams-kanavalta ennen koetta.-->
-
-
-## ✅ Kokeet
-
-Kurssin koe järjestetään kahteen kertaan ja molemmilla kerroilla koealue on mooc.fi:n osat 1-4. Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
-
-{: .huom }
-> Kokeiden ajankohdat ovat kesällä 2023 seuraavat:
->
-> * **torstai 8.6.2023 klo 11-21**
-> * **torstai 31.8.2023 klo 11-21**
-
-Kokeet järjestetään [Viope](https://hh.viope.com/)-nimisessä järjestelmässä ja kokeeseen ei tarvitse ilmoittautua etukäteen. [Tarkempia ohjeita kokeisiin liittyen löydät tältä erilliseltä sivulta.](/koe/)
 
 
 ## ⚖️ Lisenssit ja tekijänoikeudet

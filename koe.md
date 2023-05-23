@@ -24,11 +24,13 @@ Tällä sivulla on oleellista tietoa kokeisiin valmistautumiseen sekä järjeste
 
 ## Kokeen aikataulu
 
-Koe järjestetään kurssin kotisivulla sekä Teamsissa ilmoitetulla aikataululla itsepalveluperiaatteella. Kokeeseen ei tarvitse erikseen ilmoittautua.
+Koe järjestetään [kurssin etusivulla](/) sekä Teamsissa ilmoitettuina aikoina itsepalveluperiaatteella. Kokeeseen ei tarvitse erikseen ilmoittautua.
 
-Kukin kokelas saa käyttää kokeeseen annetulla aikavälillä korkeintaan 2,5 tuntia, joka alkaa siitä, kun avaat kokeen ensimmäisen kerran. Mikäli sinulla on erityisopettajan lausunto kokeen lisäajasta, voit käyttää lisäksi erityisopettajan suositteleman lisäajan. Jos lausunnossa ei ole eritelty lisäajan kestoa, koeaikasi on 3 tuntia 15 minuuttia.
+Kokeen aikataulu on joustava, eli esimerkiksi klo 11-21. Saat itse valita, mihin aikaan suoritat kokeen kokeen voimassaoloaikana. Saat käyttää kokeeseen 2,5 tuntia, joka alkaa siitä, kun avaat kokeen ensimmäisen kerran. Ajan laskeminen päättyy viimeiseen tehtävän tallennukseen tai lähettämiseen. Koejärjestelmä näyttää kokeen aikana kokeen sulkeutumiseen jäljellä olevan ajan, mutta joudut itse ottamaan aikaa omasta suorituksestasi.
 
-Kokeen ilmoitettu päättymisaika on se hetki jolloin koe "menee kiinni", eikä viimeinen aloitusaika. Jos aloitat kokeen esim. puoli tuntia ennen ilmoitettua päättymisaikaa, koeaikasi on vain puoli tuntia.
+Mikäli sinulla on erityisopettajan lausunto kokeen lisäajasta, voit käyttää lisäksi erityisopettajan suositteleman lisäajan. Jos lausunnossa ei ole eritelty lisäajan kestoa, koeaikasi on 3 tuntia 15 minuuttia.
+
+Kokeen ilmoitettu päättymisaika on se hetki jolloin koe "menee kiinni", eikä viimeinen aloitusaika. Jos aloitat siis kokeen esim. puoli tuntia ennen ilmoitettua päättymisaikaa, koeaikasi on vain puoli tuntia.
 
 
 ## Viope-oppimisalusta
