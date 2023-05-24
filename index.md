@@ -32,6 +32,12 @@ Kesän 2023 kurssi toteutetaan täysin virtuaalisesti, eli se ei sisällä oppit
 > [https://mynet.haaga-helia.fi/group/pakki/lukkarikone](https://mynet.haaga-helia.fi/group/pakki/lukkarikone)
 
 
+## 📺 Vapaaehtoinen aloitustapaaminen
+
+Kurssilla järjestettiin vapaaehtoinen Teams-aloitustapaamisen maanantaina 22.5. klo 13-14:30. Tapaamisessa käytiin läpi kurssin suorittamisen käytännön asiat, kuten tehtäväjärjestelmän, koejärjestelyt sekä aikataulun.
+
+[Voit katsoa tapaamisen tallenteen tästä.](https://haagahelia.sharepoint.com/:v:/r/teams/Python-ohjelmointikes2023/Jaetut%20asiakirjat/General/Recordings/Vapaaehtoinen%20aloitustapaaminen%20ma%2022.5.%20klo%2013-20230522_130121-Meeting%20Recording.mp4?csf=1&web=1&e=qPdsh0) Tallenteen katsominen edellyttää, että olet jäsenenä kurssin Teams-ryhmässä.
+
 ## ✔️ Kurssin osallistumisen vahvistaminen
 
 Kurssin osallistumisen vahvistaminen edellyttää kurssin järjestelmiin\* liittymistä ja ohjelmointitehtävien suorittamista aktiivisesti\*\* ensimmäisten kahden viikon aikana. Tehtäviin on saatavissa vinkkejä ja tukea kurssin tukikanavilla.
