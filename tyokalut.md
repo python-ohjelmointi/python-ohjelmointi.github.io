@@ -17,8 +17,21 @@ Asenna itsellesi Python 3 -ohjelmointiympäristö Pythonin omalta kotisivulta [h
 
 Käyttöjärjestelmästä riippuen sinulla voi olla myös pakettienhallintaohjelma tai sovelluskauppa, jonka avulla voit asentaa Pythonin.
 
-{: .huom }
 Käyttöjärjestelmässäsi saattaa olla valmiiksi asennettuna Pythonin vanhempi versio. Voit käyttää myös vanhempia versioita, kunhan ne ovat edelleen Python Software Foundationin tukemia: [https://devguide.python.org/versions/#versions](https://devguide.python.org/versions/#versions).
+
+## Järjestelmän PATH-ympäristömuuttuja
+
+Suosittelemme asentamaan Pythonin niin, että sen asennushakemisto lisätään käyttöjärjetelmän PATH-ympäristömuuttujaan. Näin Python voidaan käynnistää mistä vain hakemistosta suoraan `python`- tai `python3`-komennolla ja myös VS Code sekä TMC-laajennos löytävät Python-työkalusi.
+
+{: .highlight }
+> *"PATH is an environment variable on Unix-like operating systems, DOS, OS/2, and Microsoft Windows, specifying a set of directories where executable programs are located. In general, each executing process or user session has its own PATH setting."*
+>
+> [https://en.wikipedia.org/wiki/PATH_(variable)](https://en.wikipedia.org/wiki/PATH_(variable))
+
+Windows-asennusohjelmassa PATH-muuttujan asettaminen onnistuu yksinkertaisesti lisäämällä rasti asennusohjelmassa ruutuun "Add python.exe to PATH":
+
+![Add python.exe to PATH](/img/installer-path.png)
+
 
 
 ## VS Code

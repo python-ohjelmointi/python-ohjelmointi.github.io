@@ -24,6 +24,22 @@ Tapa 2:
 ![Tiedoston lähettäminen TMC:n paste-palveluun](/img/tmc-paste2.png)
 
 
+## "An invalid Python interpreter is selected" tai "Exited(9009)"
+
+Mikäli VS Code varoittaa ongelmasta Python-tulkin kanssa tai TMC-laajennos kaatuu "Runtime Error"-virheeseen koodilla 9009, eivät VS Code ja TMC löydä Python-asennustasi.
+
+Tämä johtuu tyypillisesti siitä, että Python ei joko ole asennettuna tai vaihtoehtoisesti Python-komentoa ei löydy käyttöjärjestelmän PATH-muuttujasta:
+
+{: .highlight }
+> *"PATH is an environment variable on Unix-like operating systems, DOS, OS/2, and Microsoft Windows, specifying a set of directories where executable programs are located. In general, each executing process or user session has its own PATH setting."*
+>
+> [https://en.wikipedia.org/wiki/PATH_(variable)](https://en.wikipedia.org/wiki/PATH_(variable))
+
+Windows-asennusohjelmassa PATH-muuttujan asettaminen onnistuu yksinkertaisesti lisäämällä rasti asennusohjelmassa ruutuun "Add python.exe to PATH":
+
+![Add python.exe to PATH](/img/installer-path.png)
+
+
 ## Ohjelmasi ei TMC:n mukaan tulosta mitään tai kysy syötteitä
 
 > Tehtävissä, joissa ei erikseen pyydetä funktioiden toteuttamista, mitään koodia ei tule sijoittaa `if __name__ == "__main__"`-lohkoon.
