@@ -1,7 +1,7 @@
 ---
 title: 📚 Oppimateriaalit
 layout: default
-nav_order: 0.2
+nav_order: 2
 ---
 
 # Oppimateriaalit

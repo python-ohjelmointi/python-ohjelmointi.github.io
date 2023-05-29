@@ -2,7 +2,8 @@
 title: Ahot-tehtävä
 layout: default
 nav_order: 1
-parent: ''
+nav_exclude: true
+search_exclude: true
 ---
 
 # AHOT-tehtävä: Jankon betoni

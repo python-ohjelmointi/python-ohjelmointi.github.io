@@ -1,7 +1,7 @@
 ---
 title: ðŸ’¬ Tiedotus- ja tukikanavat
 layout: default
-nav_order: 1
+nav_order: 3
 ---
 
 # Tiedotus- ja tukikanavat
@@ -23,6 +23,7 @@ Kurssin ohjaajat ja muut opiskelijat auttavat ongelmatilanteissa MS Teams -ryhmÃ
 
 ## Discord
 
+{: .highlight }
 > *"Discord is a voice, video, and text chat app that's used by tens of millions of people ages 13+ to talk and hang out with their communities and friends. People use Discord daily to talk about many things, ranging from art projects and family trips to homework and mental health support. It's a home for communities of any size, but it's most widely used by small and active groups of people who talk regularly."*
 >
 > What is Discord? [https://discord.com/safety/360044149331-what-is-discord](https://discord.com/safety/360044149331-what-is-discord)

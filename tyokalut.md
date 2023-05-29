@@ -1,7 +1,7 @@
 ---
 title: 💾 Kurssin työkalut
 layout: default
-nav_order: 2.1
+nav_order: 5
 ---
 
 # Kurssin työkalut

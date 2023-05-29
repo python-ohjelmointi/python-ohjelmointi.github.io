@@ -1,7 +1,7 @@
 ---
 title: 📅 Aikataulu
 layout: default
-nav_order: 0.1
+nav_order: 1
 ---
 
 # Suositeltu aikataulu
@@ -14,6 +14,7 @@ Kurssin arvioinnissa huomioidaan ne tehtäväpisteet, jotka on kertynyt tehtävi
 
 ---
 
+{: .highlight }
 Alla on kurssin suositeltu suoritusaikataulu. Helsingin yliopiston opintojakson etenemisvauhti on huomattavasti meidän vauhtiamme nopeampi ja voit myös edetä heidän tahdissaan.
 
 

@@ -1,7 +1,7 @@
 ---
 title: 📈 Arviointi
 layout: default
-nav_order: 3
+nav_order: 6
 has_children: true
 ---
 
