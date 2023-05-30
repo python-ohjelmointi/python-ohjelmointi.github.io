@@ -1,7 +1,7 @@
 title: HH / Python
 description: Haaga-Helia / Python-ohjelmointi (SOF004AS2A)
 theme: just-the-docs
-
+repository: python-ohjelmointi/python-ohjelmointi.github.io
 url: https://python-ohjelmointi.github.io/
 
 aux_links:
@@ -36,3 +36,9 @@ callouts:
   vinkki:
     title: Vinkki
     color: green
+
+gh_edit_link: true
+gh_edit_link_text: "📝 Muokkaa sivua GitHubissa"
+gh_edit_repository: "https://github.com/python-ohjelmointi/python-ohjelmointi.github.io"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
