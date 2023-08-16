@@ -15,7 +15,7 @@ Kurssin arvioinnissa huomioidaan ne tehtäväpisteet, jotka on kertynyt tehtävi
 ---
 
 {: .highlight }
-Alla on kurssin suositeltu suoritusaikataulu. Helsingin yliopiston opintojakson etenemisvauhti on huomattavasti meidän vauhtiamme nopeampi ja voit myös edetä heidän tahdissaan.
+Alla on kurssin suositeltu suoritusaikataulu kahden periodin pituisille toteutuksille. Helsingin yliopiston opintojakson etenemisvauhti on huomattavasti meidän vauhtiamme nopeampi ja voit myös edetä heidän tahdissaan. Virtuaalitoteutuksilla määrittelet itse oman etenemistahtisi.
 
 
 ## Viikko 1: Ohjelmoinnin aloitus (mooc.fi osa 1)

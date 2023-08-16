@@ -4,13 +4,13 @@ layout: default
 nav_order: 0
 ---
 
-# Python-ohjelmointi, kesä 2023
+# Python-ohjelmointi
 {: .no_toc }
 
 Tervetuloa Python-kurssille! Löydät tältä etusivulta koosteen kurssin käytännön järjestelyistä. Tarkemmat ohjeet tiedotukseen, tukikanaviin, tehtäviin ja muihin aiheisiin on jaettu valikkoon omille alasivuilleen.
 {: .fs-5 }
 
-Kurssin opettajina toimivat Teemu Havulinna ja Kasper Valtakari (`etunimi.sukunimi@haaga-helia.fi`). Kurssin kehittämisessä on mukana myös Heikki Raatikainen.
+Online-kurssin opettajina toimivat Teemu Havulinna ja Kasper Valtakari. Virtuaalikurssia opettaa Heikki Raatikainen. Kurssin yleisiä asioita koskien tavoitat opettajasi parhaiten kurssin Teams-kanavan kautta. Yksilöllisten viestien osalta käytä Teams-yksityisviestejä tai sähköpostia.
 {: .fs-5 }
 
 ---
@@ -23,7 +23,11 @@ Kurssin opettajina toimivat Teemu Havulinna ja Kasper Valtakari (`etunimi.sukuni
 
 ---
 
-## 🎓 Kurssin toteutustapa
+## 🎓 Toteutukset
+
+Tätä samaa kurssisivustoa hyödynnetään useilla rinnakkaisilla toteutuksilla, joilla on hieman toisistaan poikkeavat käytännön järjestelyt. Oppimistavoitteet, materiaalit, tehtävät, kokeet ja arviointikriteerit ovat kuitenkin näille rinnakkaisille toteutuksille yhteiset.
+
+### 🍀 Kesätoteutus 2023 *SOF004AS2A-3005* (22.5.2023 - 31.8.2023)
 
 Kesän 2023 kurssi toteutetaan täysin virtuaalisesti, eli se ei sisällä oppitunteja kampuksella eikä videoyhteydellä. Oppituntien sijaan saatavillasi on videoita ja tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista. Kurssin tehtäviin on saatavissa apua kurssin Teams-kanavalla.
 
@@ -31,12 +35,24 @@ Kesän 2023 kurssi toteutetaan täysin virtuaalisesti, eli se ei sisällä oppit
 >
 > [https://mynet.haaga-helia.fi/group/pakki/lukkarikone](https://mynet.haaga-helia.fi/group/pakki/lukkarikone)
 
+Kesällä järjestettiin vapaaehtoinen Teams-aloitustapaaminen maanantaina 22.5. klo 13-14:30. Tapaamisessa käytiin läpi kurssin suorittamisen käytännön asiat, kuten tehtäväjärjestelmä, koejärjestelyt sekä aikataulu. [Voit katsoa tapaamisen tallenteen tästä.](https://haagahelia.sharepoint.com/:v:/r/teams/Python-ohjelmointikes2023/Jaetut%20asiakirjat/General/Recordings/Vapaaehtoinen%20aloitustapaaminen%20ma%2022.5.%20klo%2013-20230522_130121-Meeting%20Recording.mp4?csf=1&web=1&e=qPdsh0) Tallenteen katsominen edellyttää, että olet jäsenenä kurssin Teams-ryhmässä.
 
-## 📺 Vapaaehtoinen aloitustapaaminen
 
-Kurssilla järjestettiin vapaaehtoinen Teams-aloitustapaaminen maanantaina 22.5. klo 13-14:30. Tapaamisessa käytiin läpi kurssin suorittamisen käytännön asiat, kuten tehtäväjärjestelmä, koejärjestelyt sekä aikataulu.
+### 🍂 Syksyn 2023 online-toteutus *SOF004AS2A-3007* (21.8.2023 - 15.12.2023)
 
-[Voit katsoa tapaamisen tallenteen tästä.](https://haagahelia.sharepoint.com/:v:/r/teams/Python-ohjelmointikes2023/Jaetut%20asiakirjat/General/Recordings/Vapaaehtoinen%20aloitustapaaminen%20ma%2022.5.%20klo%2013-20230522_130121-Meeting%20Recording.mp4?csf=1&web=1&e=qPdsh0) Tallenteen katsominen edellyttää, että olet jäsenenä kurssin Teams-ryhmässä.
+Syksyn 2023 kurssi toteutetaan online-toteuksena, jolla on viikoittaiset tapaamiset tiistaisin klo 14-16.45. Tapaamiset järjestetään kurssin Teams-ryhmässä, joka toimii myös toteutuksen tiedoitus- ja ohjauskanavana.
+
+> *"ONLINE – Verkkototeutus, jossa opettaja ja opiskelijat ovat yhteydessä vain tieto- ja viestintätekniikan välityksellä. Online-toteutuksessa on kalenteriin merkittyä verkko-opetusta tai toteutussuunnitelmassa mainittua läsnäoloa verkossa (esim. luentoja tai ryhmätöitä) ja materiaali ja tehtävät löytyvät verkosta."*
+>
+> [https://mynet.haaga-helia.fi/group/pakki/lukkarikone](https://mynet.haaga-helia.fi/group/pakki/lukkarikone)
+
+
+### ⛄ Loppusyksyn 2023 virtual-toteutus *SOF004AS2A-3013* (23.10.2023 - 15.12.2023)
+
+> *"VIRTUAL on itsenäistä opiskelua toteutuksen aukioloaikana. Virtuaalitoteutuksissa ei ole lukujärjestykseen merkittyä pakollista opetusta tai muuta tapaamista verkossa, vaan opiskelijat suorittavat tehtäviä toteutussuunnitelman aikataulun ja määräaikojen mukaan. Samaan aikaan opiskelevat voivat olla yhteydessä toisiinsa ja virtuaaliopiskelun ohjaajaan keskustelualueen kautta."*
+>
+> [https://mynet.haaga-helia.fi/group/pakki/lukkarikone](https://mynet.haaga-helia.fi/group/pakki/lukkarikone)
+
 
 ## ✔️ Kurssin osallistumisen vahvistaminen
 
@@ -75,6 +91,11 @@ Kurssin koe järjestetään kahteen kertaan ja molemmilla kerroilla koealue on m
 >
 > * **torstai 8.6.2023 klo 11-21**
 > * **torstai 31.8.2023 klo 11-21**
+>
+> Syyslukukauden kokeet järjestetään seuraavasti:
+>
+> * **tiistai 24.10. klo 11-21**
+> * **tiistai 12.12. klo 11-21**
 
 Kokeet järjestetään [Viope](https://hh.viope.com/)-nimisessä järjestelmässä ja kokeeseen ei tarvitse ilmoittautua etukäteen. [Tarkempia ohjeita kokeisiin liittyen löydät tältä erilliseltä sivulta.](/koe/)
 

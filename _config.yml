@@ -38,7 +38,7 @@ callouts:
     color: green
 
 gh_edit_link: true
-gh_edit_link_text: "📝 Muokkaa sivua GitHubissa"
+gh_edit_link_text: "📝 Muokkaa tätä sivua GitHubissa"
 gh_edit_repository: "https://github.com/python-ohjelmointi/python-ohjelmointi.github.io"
 gh_edit_branch: "main"
 gh_edit_view_mode: "tree"
