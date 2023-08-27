@@ -14,7 +14,7 @@ Kurssin koe järjestetään kahteen kertaan ja molemmilla kerroilla koealue on m
 {: .huom }
 Tällä sivulla on oleellista tietoa kokeisiin valmistautumiseen sekä järjestelyihin ja käytäntöihin liittyen, joten luethan sen kokonaan, vaikka sivu pitkä.
 
-*\* Osien 5-7 osaamisesta voi olla apua kokeessa, mutta niiden osaamista ei vaadita tehtävien ratkaisemiseksi.*
+*\* Osien 5-7 osaamisesta voi olla apua kokeessa, mutta niiden osaamista ei vaadita koetehtävien ratkaisemiseksi.*
 {: .fs-1 }
 
 ---

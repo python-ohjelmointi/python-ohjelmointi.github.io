@@ -84,7 +84,11 @@ Saatuasi jatkokurssin suoritettua HY:n puolella voit hakea opintojakson sisälly
 
 ## ✅ Kokeet
 
-Kurssin koe järjestetään kahteen kertaan ja molemmilla kerroilla koealue on mooc.fi:n osat 1-4. Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
+Kurssin koe järjestetään kahteen kertaan ja molemmilla kerroilla koealue on mooc.fi:n osat 1-4*. Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
+
+*\* Osien 5-7 osaamisesta voi olla apua kokeessa, mutta niiden osaamista ei vaadita koetehtävien ratkaisemiseksi.*
+{: .fs-1 }
+
 
 {: .huom }
 > Kokeiden ajankohdat ovat kesällä 2023 seuraavat:
