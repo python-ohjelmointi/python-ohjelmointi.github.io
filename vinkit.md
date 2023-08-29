@@ -24,6 +24,13 @@ Tapa 2:
 ![Tiedoston lähettäminen TMC:n paste-palveluun](/img/tmc-paste2.png)
 
 
+## Tehtävästä puuttuu `src`-hakemisto
+
+Jos avaat VS Code:n TMC-pluginin avulla tehtävän, jonka olet jo aikaisemmin ratkaissut mooc.fi:ssä, saattaa tehtävähakemistosta puuttua `src`-hakemisto sekä sen sisältämät tiedostot. Ongelma voi korjaantua klikkaamalla tehtävää hiiren kakkospainikkeella ja valitsemalla "Download old submission". Voit myös valita, haluatko tehdä nykyisestä versiosta kopion TMC-palvelimelle, mikä tuskin on tarpeen hakemiston puuttumisen vuoksi.
+
+![Download old submission](./img/download-old-submission.jpg)
+
+
 ## "An invalid Python interpreter is selected" tai "Exited(9009)"
 
 Mikäli VS Code varoittaa ongelmasta Python-tulkin kanssa tai TMC-laajennos kaatuu "Runtime Error"-virheeseen koodilla 9009, eivät VS Code ja TMC löydä Python-asennustasi.
