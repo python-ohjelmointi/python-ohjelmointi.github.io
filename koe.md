@@ -57,7 +57,7 @@ Kokeessa on viisi tehtävää, joista kukin on viiden pisteen arvoinen. Tehtäv�
 Huomioimme keskeneräisten tehtävien arvioinnissa sellaiset osat, jotka osoittavat selvää osaamista tehtävän aiheen tiimoilta, eli pyrkikää vastaamaan kaikkiin tehtäviin parhaanne mukaan, vaikka ette niitä saisikaan tehtyä kokonaan oikein. Muistakaa myös lähettää tehtävät arvioitavaksi tai tallentaa ne keskeneräisinä, jotta pystymme arvioimaan ne.
 
 {: .huom }
-Kuten viikkoharjoitusten kanssa, voit myös kokeessa suorittaa koodisi useaan kertaan ja tehdä muutoksia, kunnes ratkaisusi on hyväksytty. Viikkoharjoituksista poiketen voit myös tallentaa ratkaisun keskeneräisenä.
+Kuten viikkoharjoitusten kanssa, voit myös kokeessa suorittaa koodisi useaan kertaan ja tehdä muutoksia, kunnes ratkaisusi on hyväksytty. Hyväksytty ratkaisu tulee vielä erikseen lähettää, minkä jälkeen ratkaisuun ei voi tehdä enää muutoksia. Viikkoharjoituksista poiketen voit myös tallentaa ratkaisun keskeneräisenä.
 
 
 {: .vinkki }
