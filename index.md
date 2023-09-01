@@ -27,16 +27,6 @@ Online-kurssin opettajina toimivat Teemu Havulinna ja Kasper Valtakari. Virtuaal
 
 Tätä samaa kurssisivustoa hyödynnetään useilla rinnakkaisilla toteutuksilla, joilla on hieman toisistaan poikkeavat käytännön järjestelyt. Oppimistavoitteet, materiaalit, tehtävät, kokeet ja arviointikriteerit ovat kuitenkin näille rinnakkaisille toteutuksille yhteiset.
 
-### 🍀 Kesätoteutus 2023 *SOF004AS2A-3005* (22.5.2023 - 31.8.2023)
-
-Kesän 2023 kurssi toteutetaan täysin virtuaalisesti, eli se ei sisällä oppitunteja kampuksella eikä videoyhteydellä. Oppituntien sijaan saatavillasi on videoita ja tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista. Kurssin tehtäviin on saatavissa apua kurssin Teams-kanavalla.
-
-> *"VIRTUAL on itsenäistä opiskelua toteutuksen aukioloaikana. Virtuaalitoteutuksissa ei ole lukujärjestykseen merkittyä pakollista opetusta tai muuta tapaamista verkossa, vaan opiskelijat suorittavat tehtäviä toteutussuunnitelman aikataulun ja määräaikojen mukaan. Samaan aikaan opiskelevat voivat olla yhteydessä toisiinsa ja virtuaaliopiskelun ohjaajaan keskustelualueen kautta."*
->
-> [https://mynet.haaga-helia.fi/group/pakki/lukkarikone](https://mynet.haaga-helia.fi/group/pakki/lukkarikone)
-
-Kesällä järjestettiin vapaaehtoinen Teams-aloitustapaaminen maanantaina 22.5. klo 13-14:30. Tapaamisessa käytiin läpi kurssin suorittamisen käytännön asiat, kuten tehtäväjärjestelmä, koejärjestelyt sekä aikataulu. [Voit katsoa tapaamisen tallenteen tästä.](https://haagahelia.sharepoint.com/:v:/r/teams/Python-ohjelmointikes2023/Jaetut%20asiakirjat/General/Recordings/Vapaaehtoinen%20aloitustapaaminen%20ma%2022.5.%20klo%2013-20230522_130121-Meeting%20Recording.mp4?csf=1&web=1&e=qPdsh0) Tallenteen katsominen edellyttää, että olet jäsenenä kurssin Teams-ryhmässä.
-
 
 ### 🍂 Syksyn 2023 online-toteutus *SOF004AS2A-3007* (21.8.2023 - 15.12.2023)
 
@@ -91,11 +81,6 @@ Kurssin koe järjestetään kahteen kertaan ja molemmilla kerroilla koealue on m
 
 
 {: .huom }
-> Kokeiden ajankohdat ovat kesällä 2023 seuraavat:
->
-> * **torstai 8.6.2023 klo 11-21**
-> * **torstai 31.8.2023 klo 11-21**
->
 > Syyslukukauden kokeet järjestetään seuraavasti:
 >
 > * **tiistai 24.10. klo 11-21**
@@ -104,12 +89,10 @@ Kurssin koe järjestetään kahteen kertaan ja molemmilla kerroilla koealue on m
 Kokeet järjestetään [Viope](https://hh.viope.com/)-nimisessä järjestelmässä ja kokeeseen ei tarvitse ilmoittautua etukäteen. [Tarkempia ohjeita kokeisiin liittyen löydät tältä erilliseltä sivulta.](/koe/)
 
 
-
 ## 🔗 Tärkeät linkit
 
 Tämä kurssi:
 
-<!--* [Oppituntien videot (OneDrive)](https://haagahelia.sharepoint.com/:f:/r/teams/Python-ohjelmointi711/Jaetut%20asiakirjat/General?csf=1&web=1&e=TE7Tas)-->
 * [Opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/SOF004AS2A)
 * [Oma pistetilanne (TMC-palvelussa)](https://tmc.mooc.fi/org/haaga-helia/)
 * [Vinkkejä kurssin työkaluihin liittyen](/vinkit)
@@ -117,7 +100,7 @@ Tämä kurssi:
     * [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/)
     * [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/)
     * [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/)
-
+    * [syksy 2023](https://github.com/python-ohjelmointi/esimerkit-s23/)
 
 Mooc.fi:
 
@@ -125,16 +108,6 @@ Mooc.fi:
 * [HY:n Discordiin liittyminen](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc)
 * [TestMyCode -laajennuksen asentaminen VS Codeen](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen)
 * [TMC-laajennuksen käyttäminen](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen)
-
-
-<!--### Uusintakokeet
-
-Kurssin suoritukset arvioidaan tutkintosäännön mukaisesti aikataulussa 29.3. ja 17.5. järjestettävien kokeiden perusteella. Näitä koesuorituksia on kuitenkin mahdollista korottaa. Pidämme kesäkuun alussa ja elokuun lopussa kokeet, joissa on mahdollista korottaa jo kirjattua arvosanaa. Kokeiden päivämäärät kesällä 2023 ovat:
-
-* torstai 8.6.2023
-* torstai 31.8.2023
-
-Kukin kokelas saa käyttää kokeeseen 2,5 tuntia. Aika alkaa siitä, kun avaat kokeen ensimmäisen kerran. Tarkemmat tiedot uusintakokeista löydät kurssin Teams-kanavalta ennen koetta.-->
 
 
 ## ⚖️ Lisenssit ja tekijänoikeudet
