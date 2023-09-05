@@ -24,7 +24,7 @@ Alla on kurssin suositeltu suoritusaikataulu kahden periodin pituisille toteutuk
 * Ohjelmoinnin aloittaminen
 * Tietoa käyttäjältä
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-1)
-* 📁 Esimerkkiarkisto: [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa01), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa01), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
+* 📁 Esimerkkiarkisto: [syksy 2023](https://github.com/python-ohjelmointi/esimerkit-s23/tree/main/osa01), [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa01), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa01), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
 
 
 ## Viikko 2: Muuttujat ja ehdot (mooc.fi osa 1)
@@ -33,7 +33,7 @@ Alla on kurssin suositeltu suoritusaikataulu kahden periodin pituisille toteutuk
 * Laskentaa luvuilla
 * Ehtorakenne
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-1)
-* 📁 Esimerkkiarkisto: [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa01), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa01), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
+* 📁 Esimerkkiarkisto: [syksy 2023](https://github.com/python-ohjelmointi/esimerkit-s23/tree/main/osa01), [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa01), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa01), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa01)
 
 
 ## Viikko 3: Terminologia, ehtolauseet (mooc.fi osa 2)
@@ -41,7 +41,7 @@ Alla on kurssin suositeltu suoritusaikataulu kahden periodin pituisille toteutuk
 * Ohjelmoinnin termejä
 * Lisää ehtolauseita
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-2)
-* 📁 Esimerkkiarkisto: [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa02), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa02), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
+* 📁 Esimerkkiarkisto: [syksy 2023](https://github.com/python-ohjelmointi/esimerkit-s23/tree/main/osa02), [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa02), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa02), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
 
 
 ## Viikko 4: Toistorakenteet (mooc.fi osa 2)
@@ -49,7 +49,7 @@ Alla on kurssin suositeltu suoritusaikataulu kahden periodin pituisille toteutuk
 * Ehtojen yhdistäminen
 * Yksinkertainen silmukka
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-2)
-* 📁 Esimerkkiarkisto: [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa02), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa02), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
+* 📁 Esimerkkiarkisto: [syksy 2023](https://github.com/python-ohjelmointi/esimerkit-s23/tree/main/osa02), [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa02), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa02), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa02)
 
 
 ## Viikko 5: Merkkijonot (mooc.fi osa 3)

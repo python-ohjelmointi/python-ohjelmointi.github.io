@@ -8,13 +8,13 @@ nav_order: 8
 {: .no_toc }
 
 
-Kurssin koe järjestetään kahteen kertaan ja molemmilla kerroilla koealue on mooc.fi:n osat 1-4*. Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
+Kurssin koe järjestetään kaksi kertaa lukukaudessa ja molemmilla kerroilla koealue on mooc.fi:n osat 1-4*. Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
 {: .fs-6 }
 
 {: .huom }
 Tällä sivulla on oleellista tietoa kokeisiin valmistautumiseen sekä järjestelyihin ja käytäntöihin liittyen, joten luethan sen kokonaan, vaikka sivu pitkä.
 
-*\* Osien 5-7 osaamisesta voi olla apua kokeessa, mutta niiden osaamista ei vaadita koetehtävien ratkaisemiseksi.*
+*\* Kokeessa mitataan osaamista osista 1-4. Osien 5-7 osaaminen huomioidaan kurssin arvioinnissa niistä kertyvien tehtäväpisteiden muodossa. Myöhempien osien osaamisesta voi olla apua kokeessa, mutta niiden osaamista ei vaadita koetehtävien ratkaisemiseksi.*
 {: .fs-1 }
 
 ---
