@@ -89,6 +89,13 @@ Kurssin koe järjestetään kahteen kertaan ja molemmilla kerroilla koealue on m
 Kokeet järjestetään [Viope](https://hh.viope.com/)-nimisessä järjestelmässä ja kokeeseen ei tarvitse ilmoittautua etukäteen. [Tarkempia ohjeita kokeisiin liittyen löydät tältä erilliseltä sivulta.](/koe/)
 
 
+### Uusintakokeet
+
+Voit käydä uusimassa kurssin kokeen oman kurssitoteutuksesi jälkeen osallistumalla seuraavan lukukauden kokeeseen. Kokeiden aikataulu ja ajankohtaiset ohjeet löytyvät tältä sivustolta. Huomaa, että Viope-kokeen nimi vaihtuu lukukausittain, eli uusinta tehdään käynnissä olevan toteutuksen "nimellä" (kesä, syksy tai kevät).
+
+Uusintaan osallistumisen jälkeen on hyvä vielä laittaa erikseen Teams- tai sähköpostiviesti opettajallesi, jotta huomioimme koesuorituksen edellisen toteutuksen uusintana emmekä käynnissä olevan kurssin suorituksena.
+
+
 ## 🔗 Tärkeät linkit
 
 Tämä kurssi:

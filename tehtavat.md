@@ -38,6 +38,30 @@ Vaihda suoritettavaksi kurssiksi "Haaga-Helia: Python-ohjelmointi 2022-2023" seu
 Muista myös tallentaa profiilisi muutokset profiilisivun alaosan "Tallenna" painikkeella.
 
 
+## Tehtävien pelisäännöt
+
+Tehtäviä ratkoessasi saat ja suosittelemme sinua käyttämään tavanomaisia tietolähteitä, kuten Google, Stack Overflow ja mooc.fi. Discordissa, GitHubissa ja Teamsissa jaettujen koodinpätkien tutkiminen on myös sallittua ja suositeltavaa. **Koodin suora kopiointi omiin ratkaisuihin on kuitenkin kiellettyä**.
+
+**Tehtävän vastauksen generointi tekoälyn avulla on kiellettyä.** Et saa siis käyttää esim. ChatGPT:tä tai GitHub Copilot:ia ratkaistaksesi tehtävän sellaisenaan. Saat kuitenkin hyödyntää näitä palveluita yksittäisten ongelmien ratkaisemiseksi.
+
+**Ohjelmasi ei saa vilpillisesti harhauttaa tehtävän tarkastimia** siten, että se tuottaa oikean vastauksen tehtävässä käytettäville testisyötteille toteuttamatta tehtävänannossa kuvailtua logiikkaa.
+
+{: .esim }
+> 🆗 Saat tutkia toisen julkaisemaa koodia ja antaa hänelle vinkkejä tehtävän ratkaisemiseksi.
+>
+> 🆗 Saat tutkia toisen julkaisemaa koodia ymmärtääksesi mahdollisia tapoja ratkaista tehtävää.
+>
+> 🆗 Saat hyödyntää hakukoneita tai tekoälyä selvittääksesi esimerkiksi, miten listalta voidaan poimia tietyn ehdon täyttävät arvot tai kuinka tietyt numerot voidaan käydä läpi suurimmasta pienimpään.
+>
+> ⛔ Et saa generoida tekoälyn avulla kokonaista ohjelmaa, joka kysyy käyttäjältä tehtävänannossa esitetyt kysymykset ja tulostaa vaaditut tulosteet.
+>
+> ⛔ Et saa suoraan kopioida toisen tai tekoälyn tuottamaa koodia osaksi omaa ratkaisuasi.
+>
+> ⛔ Et saa toteuttaa ohjelmaa siten, että se toimii pelkästään esimerkkisuorituksessa esitetyillä arvoilla ilman, että se toteuttaa tehtävänannossa esitettyä logiikkaa.
+
+
+
+
 ## Kyselyt ja kertauskyselyt
 
 Tämän kurssin tehtävät koostuvat ainoastaan mooc.fi:n **ohjelmointitehtävistä**. **Kyselyihin ja kertauskyselyihin** antamanne vastaukset ja niistä saamanne pisteet eivät tallennu samaan järjestelmään ohjelmointitehtävien kanssa, eikä niitä huomioida kurssin arvioinnissa. Suosittelemme silti niihin vastaamista oman osaamisen vahvistamiseksi.
