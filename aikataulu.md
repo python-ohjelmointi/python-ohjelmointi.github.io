@@ -58,17 +58,16 @@ Alla on kurssin suositeltu suoritusaikataulu kahden periodin pituisille toteutuk
 * Merkkijonojen käsittely
 * [Merkkijonot Pythonin dokumentaatiossa](https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str)
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-3)
-* 📁 Esimerkkiarkisto: [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa03), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa03), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
+* 📁 Esimerkkiarkisto: [syksy 2023](https://github.com/python-ohjelmointi/esimerkit-s23/tree/main/osa03), [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa03), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa03), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
 
 ## Viikko 6: Toisto ja funktiot (mooc.fi osa 3)
 
-* [For-toistorakenne](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
 * [Omat funktiot](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
 * Mitä `if __name__ == '__main__':` tekee? (katso [selitys](https://stackoverflow.com/a/419185) ja [Pythonin dokumentaatio](https://docs.python.org/3/tutorial/modules.html#executing-modules-as-scripts))
 * Mitä vaihtoehtoja `__name__ == '__main__'`-vertailulle on?
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-3)
-* 📁 Esimerkkiarkisto: [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa03), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa03), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
+* 📁 Esimerkkiarkisto: [syksy 2023](https://github.com/python-ohjelmointi/esimerkit-s23/tree/main/osa03), [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa03), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa03), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa03)
 
 
 ## Viikko 7: TMC, funktiot ja listat (mooc.fi osa 4)
@@ -82,7 +81,7 @@ Alla on kurssin suositeltu suoritusaikataulu kahden periodin pituisille toteutuk
 * Lisää funktioista
 * Listat
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-4)
-* 📁 Esimerkkiarkisto: [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa04), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa04), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
+* 📁 Esimerkkiarkisto: [syksy 2023](https://github.com/python-ohjelmointi/esimerkit-s23/tree/main/osa04), [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa04), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa04), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
 
 
 ## Viikko 8: Listojen läpikäynti (mooc.fi osa 4)
@@ -90,9 +89,10 @@ Alla on kurssin suositeltu suoritusaikataulu kahden periodin pituisille toteutuk
 * Silmukat ja iterointi
 * Tulostuksen muotoilu
 * Lisää merkkijonoista ja listoista
+* [For-toistorakenne Pythonin tutoriaalissa](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-4)
 * [Doctest-työkalu](https://docs.python.org/3/library/doctest.html)
-* 📁 Esimerkkiarkisto: [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa04), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa04), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
+* 📁 Esimerkkiarkisto: [syksy 2023](https://github.com/python-ohjelmointi/esimerkit-s23/tree/main/osa04), [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa04), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa04), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa04)
 
 
 <!--## 29.3. Koe klo 11-21
