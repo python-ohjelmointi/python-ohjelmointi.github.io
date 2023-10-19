@@ -86,7 +86,7 @@ Harjoituskokeessa on pääasiassa tehtäviä, jotka on lainattu kurssin viikkote
 
 ## Kokeeseen osallistuminen
 
-Liittykää [Viopen etusivulla](https://hh.viope.com/) kurssille nimeltä "Python-ohjelmointi, kesä 2023" (kesän kokeet) tai "Python-ohjelmointi, syksy 2023" (syksyn kokeet).
+Liittykää [Viopen etusivulla](https://hh.viope.com/) kurssille nimeltä "Python-ohjelmointi, syksy 2023 (mooc.fi osat 1-4)".
 
 Voitte liittyä kurssille jo etukäteen, vaikka koetehtävät aukeavat ajastetusti vasta kokeen alkuhetkellä. Päivitä tarvittaessa Viopen näkymä selaimessasi kokeen alkaessa, jotta pääset siirtymään tehtäviin.
 
