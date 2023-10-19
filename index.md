@@ -85,6 +85,8 @@ Kurssin koe järjestetään kahteen kertaan ja molemmilla kerroilla koealue on m
 >
 > * **tiistai 24.10. klo 11-21**
 > * **tiistai 12.12. klo 11-21**
+>
+> Syksyn kokeet löytyvät [Viope-järjestelmästä](https://hh.viope.com/) nimellä "Python-ohjelmointi, syksy 2023 (mooc.fi osat 1-4)".
 
 Kokeet järjestetään [Viope](https://hh.viope.com/)-nimisessä järjestelmässä ja kokeeseen ei tarvitse ilmoittautua etukäteen. [Tarkempia ohjeita kokeisiin liittyen löydät tältä erilliseltä sivulta.](/koe/)
 
