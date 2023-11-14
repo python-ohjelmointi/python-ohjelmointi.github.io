@@ -125,7 +125,7 @@ Viikkon toinen aihe on data-analytiikan vierailijaluento. Tiedot vierailun järj
 * [namedtuple](https://docs.python.org/3/library/collections.html#collections.namedtuple)
 * Milloin käytän eri kokoelmatyyppejä?!
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-5)
-* 📁 Esimerkkiarkisto: [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa05), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa05), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa05)
+* 📁 Esimerkkiarkisto: [syksy 2023](https://github.com/python-ohjelmointi/esimerkit-s23/tree/main/osa05), [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa05), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa05), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa05)
 
 
 ## Viikko 10: Kokoelmat ja viittaukset (mooc.fi osa 5)
@@ -135,7 +135,7 @@ Kurssin sudoku-tehtävien myötä saatte itsellenne toimivan sudoku-tarkastuslog
 
 Edellisellä Viikkolla aloitettu aihe jatkuu.
 
-* 📁 Esimerkkiarkisto: [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa05), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa05), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa05)
+* 📁 Esimerkkiarkisto: [syksy 2023](https://github.com/python-ohjelmointi/esimerkit-s23/tree/main/osa05), [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa05), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa05), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa05)
 
 
 ## Viikko 11: Tiedostojen lukeminen ja kirjoittaminen (mooc.fi osa 6)
@@ -150,7 +150,7 @@ Mooc.fi:n esimerkkien lisäksi suosittelemme perehtymään itsenäisesti siihen,
     * [Python 3's pathlib Module: Taming the File System (realpython.com)](https://realpython.com/python-pathlib/)
 * [Eri merkistöjen käsittely](https://codereview.doctor/features/python/best-practice/file-open-read-encoding)
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-6)
-* 📁 Esimerkkiarkisto: [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa06), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa06), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
+* 📁 Esimerkkiarkisto: [syksy 2023](https://github.com/python-ohjelmointi/esimerkit-s23/tree/main/osa06), [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa06), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa06), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
 
 
 ## Viikko 12: Virhetilanteisiin varautuminen (mooc.fi osa 6) <!-- ja testaaminen -->
@@ -159,7 +159,7 @@ Mooc.fi:n esimerkkien lisäksi suosittelemme perehtymään itsenäisesti siihen,
 * Virhetilanteisiin varautuminen
 * Paikalliset ja globaalit muuttujat
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-6)
-* 📁 Esimerkkiarkisto: [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa06), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa06), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
+* 📁 Esimerkkiarkisto: [syksy 2023](https://github.com/python-ohjelmointi/esimerkit-s23/tree/main/osa06), [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa06), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa06), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa06)
 
 
 ## Viikko 13: Soveltavat aiheet (mooc.fi osa 7)
@@ -174,7 +174,7 @@ Mooc.fi:n esimerkkien lisäksi suosittelemme perehtymään itsenäisesti siihen,
 * Oman moduulin tekeminen
 * Lisää Pythonista
 * [Materiaalit (mooc.fi)](https://ohjelmointi-23.mooc.fi/osa-7)
-* 📁 Esimerkkiarkisto: [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa07), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa07), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa07)
+* 📁 Esimerkkiarkisto: [syksy 2023](https://github.com/python-ohjelmointi/esimerkit-s23/tree/main/osa07), [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/tree/master/osa07), [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/blob/main/osa07), [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/blob/main/osa07)
 
 
 <!--### 17.5. Koe klo 11-21 <del>ja viikkotehtävien DL klo 11</del>\*
