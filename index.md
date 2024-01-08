@@ -28,9 +28,9 @@ Online-kurssin opettajina toimivat Teemu Havulinna sekä Kasper Valtakari ja vir
 Tätä samaa kurssisivustoa hyödynnetään useilla rinnakkaisilla toteutuksilla, joilla on yhteiset tehtävät, oppimateriaalit ja käytännön järjestelyt.
 
 
-### 🍂 Kevään 2024 online-toteutukset *SOF004AS2A-3009* *SOF004AS2A-3010* (15.01.2024 - 17.05.2024)
+### Kevään 2024 online-toteutukset *SOF004AS2A-3009* ja *SOF004AS2A-3010* (15.01.2024 - 17.05.2024)
 
-Kevään 2024 kurssi toteutetaan online-toteuksena, jolla on viikoittaiset tapaamiset maanantaisin klo 11-13.45. Tapaamiset järjestetään kurssin Teams-ryhmässä, joka toimii myös toteutuksen tiedoitus- ja ohjauskanavana.
+Toteutusten viikoittaiset tapaamiset järjestetään Teams-ryhmässä maanantaisin klo 11-13.45.
 
 > *"ONLINE – Verkkototeutus, jossa opettaja ja opiskelijat ovat yhteydessä vain tieto- ja viestintätekniikan välityksellä. Online-toteutuksessa on kalenteriin merkittyä verkko-opetusta tai toteutussuunnitelmassa mainittua läsnäoloa verkossa (esim. luentoja tai ryhmätöitä) ja materiaali ja tehtävät löytyvät verkosta."*
 >
