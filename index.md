@@ -10,7 +10,7 @@ nav_order: 0
 Tervetuloa Python-kurssille! Löydät tältä etusivulta koosteen kurssin käytännön järjestelyistä. Tarkemmat ohjeet tiedotukseen, tukikanaviin, tehtäviin ja muihin aiheisiin on jaettu valikkoon omille alasivuilleen.
 {: .fs-5 }
 
-Online-kurssin opettajina toimivat Teemu Havulinna ja Kasper Valtakari. Virtuaalikurssia opettaa Heikki Raatikainen. Kurssin yleisiä asioita koskien tavoitat opettajasi parhaiten kurssin Teams-kanavan kautta. Yksilöllisten viestien osalta käytä Teams-yksityisviestejä tai sähköpostia.
+Online-kurssin opettajina toimivat Teemu Havulinna sekä Kasper Valtakari ja virtuaalikurssia opettaa Heikki Raatikainen. Kurssin yleisiä asioita koskien tavoitat opettajasi parhaiten kurssin Teams-kanavan kautta. Yksilöllisten viestien osalta käytä Teams-yksityisviestejä tai sähköpostia.
 {: .fs-5 }
 
 ---
@@ -25,19 +25,21 @@ Online-kurssin opettajina toimivat Teemu Havulinna ja Kasper Valtakari. Virtuaal
 
 ## 🎓 Toteutukset
 
-Tätä samaa kurssisivustoa hyödynnetään useilla rinnakkaisilla toteutuksilla, joilla on hieman toisistaan poikkeavat käytännön järjestelyt. Oppimistavoitteet, materiaalit, tehtävät, kokeet ja arviointikriteerit ovat kuitenkin näille rinnakkaisille toteutuksille yhteiset.
+Tätä samaa kurssisivustoa hyödynnetään useilla rinnakkaisilla toteutuksilla, joilla on yhteiset tehtävät, oppimateriaalit ja käytännön järjestelyt.
 
 
-### 🍂 Syksyn 2023 online-toteutus *SOF004AS2A-3007* (21.8.2023 - 15.12.2023)
+### 🍂 Kevään 2024 online-toteutukset *SOF004AS2A-3009* *SOF004AS2A-3010* (15.01.2024 - 17.05.2024)
 
-Syksyn 2023 kurssi toteutetaan online-toteuksena, jolla on viikoittaiset tapaamiset tiistaisin klo 14-16.45. Tapaamiset järjestetään kurssin Teams-ryhmässä, joka toimii myös toteutuksen tiedoitus- ja ohjauskanavana.
+Kevään 2024 kurssi toteutetaan online-toteuksena, jolla on viikoittaiset tapaamiset maanantaisin klo 11-13.45. Tapaamiset järjestetään kurssin Teams-ryhmässä, joka toimii myös toteutuksen tiedoitus- ja ohjauskanavana.
 
 > *"ONLINE – Verkkototeutus, jossa opettaja ja opiskelijat ovat yhteydessä vain tieto- ja viestintätekniikan välityksellä. Online-toteutuksessa on kalenteriin merkittyä verkko-opetusta tai toteutussuunnitelmassa mainittua läsnäoloa verkossa (esim. luentoja tai ryhmätöitä) ja materiaali ja tehtävät löytyvät verkosta."*
 >
 > [https://mynet.haaga-helia.fi/group/pakki/lukkarikone](https://mynet.haaga-helia.fi/group/pakki/lukkarikone)
 
 
-### ⛄ Loppusyksyn 2023 virtual-toteutus *SOF004AS2A-3013* (23.10.2023 - 15.12.2023)
+### Kevään 2024 virtual-toteutus *SOF004AS2A-3015* (15.01.2024 - 17.05.2024)
+
+Kevään 2024 virtuaalitoteutuksen osallistujat ovat tervetulleita Teams-ryhmässä järjestettäviin viikoittaisiin tapaamisiin.
 
 > *"VIRTUAL on itsenäistä opiskelua toteutuksen aukioloaikana. Virtuaalitoteutuksissa ei ole lukujärjestykseen merkittyä pakollista opetusta tai muuta tapaamista verkossa, vaan opiskelijat suorittavat tehtäviä toteutussuunnitelman aikataulun ja määräaikojen mukaan. Samaan aikaan opiskelevat voivat olla yhteydessä toisiinsa ja virtuaaliopiskelun ohjaajaan keskustelualueen kautta."*
 >
@@ -66,7 +68,7 @@ Kurssin keskeyttäminen ei ole Haaga-Helian linjauksia noudattaen mahdollista en
 
 ### 🧙‍♂️ Ohjelmoinnin jatkokurssi
 
-Haaga-Helian omassa tarjonnassa ei ole tällä hetkellä Python-ohjelmoinnin jatkokurssia, mutta sellainen on mahdollista suorittaa itsenäisesti Helsingin yliopiston mooc.fi-palvelussa.
+Haaga-Helian omassa tarjonnassa ei ole tällä hetkellä Python-ohjelmoinnin jatkokurssia, mutta sellainen on mahdollista suorittaa itsenäisesti Helsingin yliopiston [mooc.fi-palvelussa](https://www.mooc.fi/).
 
 Saatuasi jatkokurssin suoritettua HY:n puolella voit hakea opintojakson sisällyttämistä tutkintoosi. Lisätietoja löydät sivulta [https://www.haaga-helia.fi/fi/osaamisen-tunnistaminen-ja-work-study](https://www.haaga-helia.fi/fi/osaamisen-tunnistaminen-ja-work-study) kohdasta "hyväksiluku".
 
@@ -74,28 +76,18 @@ Saatuasi jatkokurssin suoritettua HY:n puolella voit hakea opintojakson sisälly
 
 ## ✅ Kokeet
 
-Kurssin koe järjestetään kahteen kertaan ja molemmilla kerroilla koealue on mooc.fi:n osat 1-4*. Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan.
-
-*\* Osien 5-7 osaamisesta voi olla apua kokeessa, mutta niiden osaamista ei vaadita koetehtävien ratkaisemiseksi.*
-{: .fs-1 }
-
-
 {: .huom }
-> Syyslukukauden kokeet järjestetään seuraavasti:
+> Kurssin koe järjestetään keväällä 2024 seuraavasti:
 >
-> * **tiistai 24.10. klo 11-21**
-> * **tiistai 12.12. klo 11-21**
->
-> Syksyn kokeet löytyvät [Viope-järjestelmästä](https://hh.viope.com/) nimellä "Python-ohjelmointi, syksy 2023 (mooc.fi osat 1-4)".
+> * Online-toteutukset: **maanantaina 13.5. klo 11-13:30**
+> * Virtual-toteutus: **maanantaina 13.5.**
 
-Kokeet järjestetään [Viope](https://hh.viope.com/)-nimisessä järjestelmässä ja kokeeseen ei tarvitse ilmoittautua etukäteen. [Tarkempia ohjeita kokeisiin liittyen löydät tältä erilliseltä sivulta.](/koe/)
+[Tarkempia ohjeita kokeisiin liittyen löydät tältä erilliseltä sivulta.](/koe/)
 
 
 ### Uusintakokeet
 
-Voit käydä uusimassa kurssin kokeen oman kurssitoteutuksesi jälkeen osallistumalla seuraavan lukukauden kokeeseen. Kokeiden aikataulu ja ajankohtaiset ohjeet löytyvät tältä sivustolta. Huomaa, että Viope-kokeen nimi vaihtuu lukukausittain, eli uusinta tehdään käynnissä olevan toteutuksen "nimellä" (kesä, syksy tai kevät).
-
-Uusintaan osallistumisen jälkeen on hyvä vielä laittaa erikseen Teams- tai sähköpostiviesti opettajallesi, jotta huomioimme koesuorituksen edellisen toteutuksen uusintana emmekä käynnissä olevan kurssin suorituksena.
+Voit käydä uusimassa kurssin kokeen oman kurssitoteutuksesi jälkeen osallistumalla seuraavan lukukauden kokeeseen. Kokeiden aikataulu ja ajankohtaiset ohjeet löytyvät tältä sivustolta.
 
 
 ## 🔗 Tärkeät linkit
