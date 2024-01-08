@@ -16,15 +16,9 @@ Kurssin loppuarvosana muodostuu viikkotehtävien ja kokeiden arvosanojen peruste
 
 ---
 
-Kurssin aikana järjestetään kaksi koetta, joiden arvosanoista parempi huomioidaan kurssin arvostelussa. Voit halutessasi osallistua vain yhteen kokeeseen tai käydä tekemässä kokeen kaksi kertaa, jolloin parempi arvosana jää voimaan. Jos kummastakaan kokeesta ei tule hyväksyttyä suoritusta, seuraava mahdollisuus kokeen suorittamiseksi on seuraavan lukukauden kokeiden yhteydessä.
+## Kokeen arviointi
 
 Kokeissa vaadittu minimipistemäärä hyväksyttyyn suoritukseen on 40 % eli 10 pistettä. [Tarkemmat ohjeet kokeen käytännön järjestelyihin liittyen löydät erilliseltä sivulta.](/koe/)
-
-Voitte halutessanne kokeilla [kurssin arvosanalaskurilla](/arvosanalaskuri/), minkä loppuarvosanan eri osasuoritukset tuottavat.
-
-{: .esim }
-Jos saat esimerkiksi kokeesta arvosanaksi 5 ja tehtävistä 4, muodostuu loppuarvosanaksi 4,5, joka pyöristetään ylöspäin 5:een. Vastaavasti jos saat tehtävistä arvosanaksi 4 ja kokeesta arvosanan 3, pyöristyy tulos myös ylöspäin 4:ään. Pyöristykset tehdään vasta kurssin lopussa, eli voit saada esim. kokeesta arvosanaksi 4,1 ja tehtävistä 4,9.
-
 
 
 ## Viikkotehtävien arviointi
@@ -33,6 +27,14 @@ Kurssin suorittamiseksi sinun tulee saada vähintään 25 % viikkotehtävien pis
 
 {: .huom }
 Helsingin yliopiston arvostelusta poiketen Haaga-Helian toteutuksella ei yksittäisiin osioihin liittyviä minimipistemääriä. Pisteitä ei siis tarkastella osiokohtaisesti, vaan 25 % kokonaisuudesta riittää.
+
+
+## Arvosanalaskuri
+
+Voitte halutessanne kokeilla [kurssin arvosanalaskurilla](/arvosanalaskuri/), minkä loppuarvosanan eri osasuoritukset tuottavat.
+
+{: .esim }
+Jos saat esimerkiksi kokeesta arvosanaksi 5 ja tehtävistä 4, muodostuu loppuarvosanaksi 4,5, joka pyöristetään ylöspäin 5:een. Vastaavasti jos saat tehtävistä arvosanaksi 4 ja kokeesta arvosanan 3, pyöristyy tulos myös ylöspäin 4:ään. Pyöristykset tehdään vasta kurssin lopussa, eli voit saada esim. kokeesta arvosanaksi 4,1 ja tehtävistä 4,9.
 
 
 ## Mistä näen omat tehtäväpisteeni?

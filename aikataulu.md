@@ -6,7 +6,7 @@ nav_order: 1
 
 # Suositeltu aikataulu
 
-Kurssin tehtävillä ei ole yksittäisiä määräaikoja, vaan kukin osallistuja voi edetä omaan tahtiinsa. Kurssilla järjestetään kaksi koetta, joiden päivämäärät löytyvät etusivulta.
+Kurssin tehtävillä ei ole yksittäisiä määräaikoja, vaan kukin osallistuja voi edetä omaan tahtiinsa. Kurssin kokeiden päivämäärät löytyvät etusivulta.
 {: .fs-6 }
 
 Kurssin arvioinnissa huomioidaan ne tehtäväpisteet, jotka on kertynyt tehtävistä kurssin loppuun mennessä. Kurssin jälkeen tehtäviä voi edelleen ratkoa, mutta ne eivät enää vaikuta arviointiin.
