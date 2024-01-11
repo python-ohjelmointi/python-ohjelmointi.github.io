@@ -36,4 +36,4 @@ VS Code on todella tehokas ja monipuolinen työkalu, jolla alkuun pääseminen v
 
 ## Videotallenteet ja koodiesimerkit
 
-Helsingin yliopiston videotallenteet löytyvät [mooc.fi:stä](https://ohjelmointi-23.mooc.fi/#luentotallenteet). Lisäksi löydät erinomaisia [Python-videoita YouTubesta](https://www.youtube.com/results?search_query=python), esim. [Harvardin CS50-kurssin soittolistalta](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V).
+Helsingin yliopiston videotallenteet löytyvät [mooc.fi:stä](https://ohjelmointi-24.mooc.fi/#luentotallenteet). Lisäksi löydät erinomaisia [Python-videoita YouTubesta](https://www.youtube.com/results?search_query=python), esim. [Harvardin CS50-kurssin soittolistalta](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V).

@@ -13,6 +13,10 @@ Tervetuloa Python-kurssille! Löydät tältä etusivulta koosteen kurssin käyt�
 Online-kurssin opettajina toimivat Teemu Havulinna sekä Kasper Valtakari ja virtuaalikurssia opettaa Heikki Raatikainen. Kurssin yleisiä asioita koskien tavoitat opettajasi parhaiten kurssin Teams-kanavan kautta. Yksilöllisten viestien osalta käytä Teams-yksityisviestejä tai sähköpostia.
 {: .fs-5 }
 
+
+{: .huom }
+📣 **Kurssin alkuvalmistelut ovat tällä hetkellä kesken ja tällä kurssisivustolla on syksyn 2023 toteutusta koskevaa informaatiota. Sivu päivitetään viimeistään kurssin aloituspäivänä 15.1.2024.**
+
 ---
 
 ## Tällä sivulla:
@@ -52,7 +56,7 @@ Kurssin osallistumisen vahvistaminen edellyttää kurssin järjestelmiin\* liitt
 
 Menettelyn ei ole tarkoitus karsia ketään pois kurssilta, vaan varmistaa, että työskentely kurssin parissa lähtee kaikilla hyvin käyntiin.
 
-<small>* Teams ja [ohjelmointi-23.mooc.fi](https://ohjelmointi-23.mooc.fi/)</small>
+<small>* Teams ja [ohjelmointi-24.mooc.fi](https://ohjelmointi-24.mooc.fi/)</small>
 
 <small>** mooc.fi:n osa 1:n ensimmäisen sivun tehtävien (5 kpl) tekeminen tulkitaan aktiiviseksi suorittamiseksi</small>
 
@@ -87,7 +91,10 @@ Saatuasi jatkokurssin suoritettua HY:n puolella voit hakea opintojakson sisälly
 
 ### Uusintakokeet
 
-Voit käydä uusimassa kurssin kokeen oman kurssitoteutuksesi jälkeen osallistumalla seuraavan lukukauden kokeeseen. Kokeiden aikataulu ja ajankohtaiset ohjeet löytyvät tältä sivustolta.
+Voit käydä uusimassa kurssin kokeen oman kurssitoteutuksesi jälkeen osallistumalla seuraavan lukukauden kokeeseen.
+
+{: .huom }
+**Syksyn 2023 uusintakoe** järjestetään itsepalveluperiaatteella Viope-järjestelmässä maanantaina 11.3.2024. Koe löytyy [Viopen etusivulta](https://hh.viope.com) kohdasta *"Python-ohjelmointi, syksy 2023 (mooc.fi osat 1-4)"*. Syksyn -23 uusinnassa noudatetaan vuoden -23 toteutuksessa voimassa olleita koejärjestelyjä, [joihin voit perehtyä tämän sivuston versiohistoriassa](https://github.com/python-ohjelmointi/python-ohjelmointi.github.io/blob/baf0cadcab678dc25393e3870a4c970db2f25510/koe.md).
 
 
 ## 🔗 Tärkeät linkit
@@ -105,7 +112,7 @@ Tämä kurssi:
 
 Mooc.fi:
 
-* [Materiaalit ja tehtävät (https://ohjelmointi-23.mooc.fi/)](https://ohjelmointi-23.mooc.fi/)
+* [Materiaalit ja tehtävät (https://ohjelmointi-24.mooc.fi/)](https://ohjelmointi-24.mooc.fi/)
 * [HY:n Discordiin liittyminen](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc)
 * [TestMyCode -laajennuksen asentaminen VS Codeen](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen)
 * [TMC-laajennuksen käyttäminen](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen)
@@ -121,7 +128,7 @@ Mooc.fi:
 >
 > Kurssin materiaali on lisensoitu [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fi) -lisenssillä.
 >
-> *[https://ohjelmointi-23.mooc.fi/credits](https://ohjelmointi-23.mooc.fi/credits)*
+> *[https://ohjelmointi-24.mooc.fi/credits](https://ohjelmointi-24.mooc.fi/credits)*
 
 
 ### Python ja Pythonin dokumentaatio

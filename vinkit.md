@@ -51,7 +51,7 @@ Windows-asennusohjelmassa PATH-muuttujan asettaminen onnistuu yksinkertaisesti l
 
 > Tehtävissä, joissa ei erikseen pyydetä funktioiden toteuttamista, mitään koodia ei tule sijoittaa `if __name__ == "__main__"`-lohkoon.
 >
-> [mooc.fi](https://ohjelmointi-23.mooc.fi/osa-6/1-tiedostojen-lukeminen)
+> [mooc.fi](https://ohjelmointi-24.mooc.fi/osa-6/1-tiedostojen-lukeminen)
 
 
 ## Testi jää jumiin ja saat virheen "test timed out"
@@ -75,7 +75,7 @@ Mikäli testit epäonnistuvat, saat todennäköisesti tarkemman virheilmoituksen
 
 ## SSL-virheet tehtävässä "Kurssien tilastot"
 
-Tehtävässä [kurssien tilastot](https://ohjelmointi-23.mooc.fi/osa-7/4-datan-kasittely#netissa-olevan-tiedoston-hakeminen) moni opiskelija törmää SSL-sertifikaattivirheeseen. Tämä johtuu studies.cs.helsinki.fi-palvelimen sertifikaatista.
+Tehtävässä [kurssien tilastot](https://ohjelmointi-24.mooc.fi/osa-7/4-datan-kasittely#netissa-olevan-tiedoston-hakeminen) moni opiskelija törmää SSL-sertifikaattivirheeseen. Tämä johtuu studies.cs.helsinki.fi-palvelimen sertifikaatista.
 
 Voitte kiertää sertifikaattiongelmia vaihtamalla domainin <del>studies.cs.helsinki.fi</del> tilalle **python-ohjelmointi.github.io**. Muuten osoitteet ovat samat ja tehtävä toteutetaan aivan samalla tavalla kuin ohjeistettu. Käyttäkää siis vain näitä osoitteita: `https://python-ohjelmointi.github.io/stats-mock/api/courses/` ja `https://python-ohjelmointi.github.io/stats-mock/api/courses/****/stats`.
 

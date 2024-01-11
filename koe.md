@@ -18,25 +18,13 @@ Tällä sivulla on oleellista tietoa kokeisiin valmistautumiseen sekä järjeste
 * Sisällysluettelo
 {:toc}
 
+
 ## Kokeen aikataulu
 
 Koe järjestetään [kurssin etusivulla](/) sekä Teamsissa ilmoitettuina aikoina. Kokeeseen ei tarvitse erikseen ilmoittautua.
 
-<!--Kokeen aikataulu on joustava, eli esimerkiksi klo 11-21. Saat itse valita, mihin aikaan suoritat kokeen kokeen voimassaoloaikana. Saat käyttää kokeeseen 2,5 tuntia, joka alkaa siitä, kun avaat kokeen ensimmäisen kerran. Ajan laskeminen päättyy viimeiseen tehtävän tallennukseen tai lähettämiseen. Koejärjestelmä näyttää kokeen aikana kokeen sulkeutumiseen jäljellä olevan ajan, mutta joudut itse ottamaan aikaa omasta suorituksestasi.-->
+Kokeen kesto on 2,5 tuntia. Mikäli sinulla on erityisopettajan lausunto kokeen lisäajasta, voit käyttää lisäksi erityisopettajan suositteleman lisäajan. Jos lausunnossa ei ole eritelty lisäajan kestoa, koeaikasi on 3 tuntia 15 minuuttia.
 
-Mikäli sinulla on erityisopettajan lausunto kokeen lisäajasta, voit käyttää lisäksi erityisopettajan suositteleman lisäajan. Jos lausunnossa ei ole eritelty lisäajan kestoa, koeaikasi on 3 tuntia 15 minuuttia.
-
-<!--Kokeen ilmoitettu päättymisaika on se hetki jolloin koe "menee kiinni", eikä viimeinen aloitusaika. Jos aloitat siis kokeen esim. puoli tuntia ennen ilmoitettua päättymisaikaa, koeaikasi on vain puoli tuntia.-->
-
-
-<!--## Viope-oppimisalusta
-
-Koe järjestetään hyödyntäen [Viope](https://hh.viope.com/)-oppimisalustaa, joka arvioi tehtävät automaattisesti melko samankaltaisesti, kuin miten mooc.fi ja TMC toimivat. Suurelle osalle Viope on myös tuttu aikaisemmilta tai rinnakkaisilta kursseilta. Jos sinulla on jo olemassa Viope-tunnukset, käytä niitä kokeessa. Mikäli sinulla ei ole tunnuksia, rekisteröidy osoitteessa [https://hh.viope.com](https://hh.viope.com). Valitse kirjautumisruudun vasemmasta laidasta kohta "ilmoittaudu kurssille" ja valitse kurssiksi "Python-harjoituskoe". Voit harjoitella harjoituskokeessa tehtäviin vastaamista.
-
-Löydätte Viopesta koepäivänä sekä kokeen tehtävänannot että tekstikentät, joihin liitätte omat ratkaisunne. Viope suorittaa koodinne ja antaa siitä pisteet, mikäli tulos vastaa tehtävänantoa. Mikäli vastausta ei hyväksytä, voitte kokeilla uudelleen rajoittamattoman määrän kertoja. Kun Viope hyväksyy ratkaisunne, muistakaa painaa "lähetä/submit" -painiketta, jotta tehtävä tallentuu. Toiminta selkenee varmasti viimeistään kokeilemalla harjoituskoetta, josta lisätietoja alempana tässä ohjeessa.
-
-Viopen kanssa on ehdottoman suositeltavaa, että koodaatte ja kokeilette oman ratkaisunne ensin VS Codessa ja liitätte ratkaisun tehtäväsivulle vasta koodin toimiessa omalla koneellanne. Viopen tekstikenttä ei osaa huomauttaa koodissa mahdollisesti olevista syntaksivirheistä ja siihen koodatessa syntyy helposti sisennyksiin liittyviä vaikeasti havaittavia "tabs vs. spaces"-ongelmia.
--->
 
 ## Kokeen arvostelu
 
