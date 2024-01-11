@@ -94,7 +94,7 @@ Saatuasi jatkokurssin suoritettua HY:n puolella voit hakea opintojakson sisälly
 Voit käydä uusimassa kurssin kokeen oman kurssitoteutuksesi jälkeen osallistumalla seuraavan lukukauden kokeeseen.
 
 {: .huom }
-**Syksyn 2023 uusintakoe** järjestetään itsepalveluperiaatteella Viope-järjestelmässä maanantaina 11.3.2024. Koe löytyy [Viopen etusivulta](https://hh.viope.com) kohdasta *"Python-ohjelmointi, syksy 2023 (mooc.fi osat 1-4)"*. Syksyn -23 uusinnassa noudatetaan vuoden -23 toteutuksessa voimassa olleita koejärjestelyjä, [joihin voit perehtyä tämän sivuston versiohistoriassa](https://github.com/python-ohjelmointi/python-ohjelmointi.github.io/blob/baf0cadcab678dc25393e3870a4c970db2f25510/koe.md).
+**Syksyn 2023 toteutusten osalta** uusintakoe järjestetään itsepalveluperiaatteella Viope-järjestelmässä maanantaina 11.3.2024 klo 11-21. Koe löytyy [Viopen etusivulta](https://hh.viope.com) kohdasta *"Python-ohjelmointi, syksy 2023 (mooc.fi osat 1-4)"*. Syksyn -23 uusinnassa noudatetaan vuoden -23 toteutuksessa voimassa olleita koejärjestelyjä, [joihin voit perehtyä tämän sivuston versiohistoriassa](https://github.com/python-ohjelmointi/python-ohjelmointi.github.io/blob/baf0cadcab678dc25393e3870a4c970db2f25510/koe.md).
 
 
 ## 🔗 Tärkeät linkit
