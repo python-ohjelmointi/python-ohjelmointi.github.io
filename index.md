@@ -15,7 +15,9 @@ Online-kurssin opettajina toimivat Teemu Havulinna sekä Kasper Valtakari ja vir
 
 
 {: .huom }
-📣 **Kurssin alkuvalmistelut ovat tällä hetkellä kesken ja tällä kurssisivustolla on syksyn 2023 toteutusta koskevaa informaatiota. Sivu päivitetään viimeistään kurssin aloituspäivänä 15.1.2024.**
+> 📣 **Tämän kurssin alkaessa ohjelmointi-24.mooc.fi-sivustolla ei ole mahdollisuutta asettaa kurssiksi tätä Haaga-Helian toteutusta.** Mooc.fi-sivulle mahdollisesti lähettämäsi ratkaisut eivät siis tallennu Haaga-Helian vaan Helsingin yliopiston rekisteriin.
+>
+> Toistaiseksi tehtävänannot löytyvät mooc.fi-sivustolta, mutta tehtävien palauttamisessa käytetään [**VS Code:n TMC-laajennosta**](/tehtavat/#testmycode-laajennos). Tämä ei ole iso asia, koska joka tapauksessa osasta 4 alkaen tehtävät palautetaan joka tapauksessa kyseisen laajennoksen avulla.
 
 ---
 
