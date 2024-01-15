@@ -14,12 +14,12 @@ Online-kurssin opettajina toimivat Teemu Havulinna sekä Kasper Valtakari ja vir
 {: .fs-5 }
 
 
-{: .huom }
+{: .important }
 > 📣 **Tämän kurssin alkaessa ohjelmointi-24.mooc.fi-sivustolla ei ole mahdollisuutta asettaa kurssiksi tätä Haaga-Helian toteutusta.** Mooc.fi-sivulle mahdollisesti lähettämäsi ratkaisut eivät siis tallennu Haaga-Helian vaan Helsingin yliopiston rekisteriin.
 >
 > Toistaiseksi tehtävänannot löytyvät mooc.fi-sivustolta, mutta tehtävien palauttamisessa käytetään [**VS Code:n TMC-laajennosta**](/tehtavat/#testmycode-laajennos). Laajennoksessa Haaga-Helian toteutuksen valinta onnistuu [tämän ohjesivun mukaisesti](/tehtavat/#testmycode-laajennos).
-
-Tämä ei ole iso asia, koska joka tapauksessa osasta 4 alkaen tehtävät palautetaan joka tapauksessa kyseisen laajennoksen avulla.
+>
+> Tämä ei ole iso asia, koska joka tapauksessa osasta 4 alkaen tehtävät palautetaan joka tapauksessa kyseisen laajennoksen avulla.
 
 ---
 
