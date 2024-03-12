@@ -47,4 +47,4 @@ Asenna itsellesi osoitteesta [https://code.visualstudio.com/download](https://co
 Suosittelemme perehtymään myös [Getting Started -dokumentaatioon](https://code.visualstudio.com/docs) sekä [Introductory Videos -videoihin](https://code.visualstudio.com/docs/getstarted/introvideos).
 
 {: .huom }
-VS Code on kurssilla käytännössä pakollinen, koska siihen on saatavilla tehtävien automaattisessa arvioinnissa käytettävä TMC-lisäosa. Lisäosa tulee ajankohtaiseksi tehtäväkierroksella 4 ja sen asennusohjeet löydät sivulta [https://www.mooc.fi/installation/vscode/#TestMyCode-asentaminen](https://www.mooc.fi/installation/vscode/#TestMyCode-asentaminen).
+VS Code on kurssilla käytännössä pakollinen, koska siihen on saatavilla tehtävien automaattisessa arvioinnissa käytettävä TMC-laajennos. Laajennoksen asennusohjeet löydät sivulta [https://www.mooc.fi/installation/vscode/#TestMyCode-asentaminen](https://www.mooc.fi/installation/vscode/#TestMyCode-asentaminen).
