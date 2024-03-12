@@ -15,11 +15,11 @@ Online-kurssin opettajina toimivat Teemu Havulinna sekä Kasper Valtakari ja vir
 
 
 {: .important }
-> 📣 **Tämän kurssin alkaessa ohjelmointi-24.mooc.fi-sivustolla ei ole mahdollisuutta asettaa kurssiksi tätä Haaga-Helian toteutusta.** Mooc.fi-sivulle mahdollisesti lähettämäsi ratkaisut eivät siis tallennu Haaga-Helian vaan Helsingin yliopiston rekisteriin.
+> 📣 **ohjelmointi-24.mooc.fi-sivustolla ei ole mahdollisuutta asettaa kurssiksi Haaga-Helian toteutusta.** Mooc.fi-sivulle mahdollisesti lähettämäsi ratkaisut eivät siis tallennu Haaga-Helian vaan Helsingin yliopiston rekisteriin.
 >
-> Toistaiseksi tehtävänannot löytyvät mooc.fi-sivustolta, mutta tehtävien palauttamisessa käytetään [**VS Code:n TMC-laajennosta**](/tehtavat/#testmycode-laajennos). Laajennoksessa Haaga-Helian toteutuksen valinta onnistuu [tämän ohjesivun mukaisesti](/tehtavat/#testmycode-laajennos).
+> Tehtävien palauttamisessa käytetäänkin mooc-sivuston sijasta [**VS Code:n TMC-laajennosta**](/tehtavat/#testmycode-laajennos). Laajennoksessa Haaga-Helian toteutuksen valinta onnistuu [tämän ohjesivun mukaisesti](/tehtavat/#testmycode-laajennos). Tehtävänannot löytyvät mooc.fi-sivustolta: [https://ohjelmointi-24.mooc.fi/kaikki-tehtavat/](https://ohjelmointi-24.mooc.fi/kaikki-tehtavat/).
 >
-> Tämä ei ole iso asia, koska joka tapauksessa osasta 4 alkaen tehtävät palautetaan joka tapauksessa kyseisen laajennoksen avulla.
+> Tämä ei ole iso asia, koska osasta 4 alkaen tehtävät palautetaan joka tapauksessa TMC-laajennoksen avulla.
 
 ---
 
@@ -48,6 +48,15 @@ Toteutusten viikoittaiset tapaamiset järjestetään Teams-ryhmässä maanantais
 ### Kevään 2024 virtual-toteutus *SOF004AS2A-3015* (15.01.2024 - 17.05.2024)
 
 Kevään 2024 virtuaalitoteutuksen osallistujat ovat tervetulleita Teams-ryhmässä järjestettäviin viikoittaisiin tapaamisiin.
+
+> *"VIRTUAL on itsenäistä opiskelua toteutuksen aukioloaikana. Virtuaalitoteutuksissa ei ole lukujärjestykseen merkittyä pakollista opetusta tai muuta tapaamista verkossa, vaan opiskelijat suorittavat tehtäviä toteutussuunnitelman aikataulun ja määräaikojen mukaan. Samaan aikaan opiskelevat voivat olla yhteydessä toisiinsa ja virtuaaliopiskelun ohjaajaan keskustelualueen kautta."*
+>
+> [https://mynet.haaga-helia.fi/group/pakki/lukkarikone](https://mynet.haaga-helia.fi/group/pakki/lukkarikone)
+
+
+### Kesän 2024 virtual-toteutus *SOF004AS2A-3011* (20.5.2024 - 30.8.2024)
+
+Kesän 2024 kurssi toteutetaan täysin virtuaalisesti, eli se **ei sisällä oppitunteja kampuksella eikä videoyhteydellä**. Oppituntien sijaan saatavillasi on videoita ja tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista. Kurssin tehtäviin on saatavissa apua kurssin Teams-kanavalla.
 
 > *"VIRTUAL on itsenäistä opiskelua toteutuksen aukioloaikana. Virtuaalitoteutuksissa ei ole lukujärjestykseen merkittyä pakollista opetusta tai muuta tapaamista verkossa, vaan opiskelijat suorittavat tehtäviä toteutussuunnitelman aikataulun ja määräaikojen mukaan. Samaan aikaan opiskelevat voivat olla yhteydessä toisiinsa ja virtuaaliopiskelun ohjaajaan keskustelualueen kautta."*
 >
@@ -95,10 +104,7 @@ Saatuasi jatkokurssin suoritettua HY:n puolella voit hakea opintojakson sisälly
 
 ### Uusintakokeet
 
-Voit käydä uusimassa kurssin kokeen oman kurssitoteutuksesi jälkeen osallistumalla seuraavan lukukauden kokeeseen.
-
-{: .huom }
-**Syksyn 2023 toteutusten osalta** uusintakoe järjestetään itsepalveluperiaatteella Viope-järjestelmässä maanantaina 11.3.2024 klo 11-21. Kokeeseen ei tarvitse erikseen ilmoittautua. Koe löytyy [Viopen etusivulta](https://hh.viope.com) kohdasta *"Python-ohjelmointi, syksy 2023 (mooc.fi osat 1-4)"*. Syksyn -23 uusinnassa noudatetaan vuoden -23 toteutuksessa voimassa olleita koejärjestelyjä, [joihin voit perehtyä tämän sivuston versiohistoriassa](https://github.com/python-ohjelmointi/python-ohjelmointi.github.io/blob/baf0cadcab678dc25393e3870a4c970db2f25510/koe.md).
+Voit käydä uusimassa kurssin kokeen oman kurssitoteutuksesi jälkeen osallistumalla seuraavien lukukausien kokeisiin. Kokeiden aikataulu ja järjestelyt selviävät tältä sivustolta. Ilmoittaudu kokeeseen kaksi viikkoa ennen koepäivää lähettämällä sähköpostiviesti oman kurssitoteutuksesi opettajalle, jotta saat pääsyn kokeessa käytettäviin järjestelmiin ja jotta ratkaisusi huomioidaan aikaisemman suorituksen täydentämisenä.
 
 
 ## 🔗 Tärkeät linkit
