@@ -7,7 +7,7 @@ nav_order: 0
 # Python-ohjelmointi
 {: .no_toc }
 
-Tervetuloa Python-kurssille! Löydät tältä sivustolta tiedot kurssin tiedotukseen, tukikanaviin, tehtäviin ja muihin aiheisiin liittyen. Kurssilla hyödynnetään Helsingin yliopiston mooc-kurssin oppimateriaaleja ja tehtäviä, mutta meillä on mooc-kurssista poikkeavat [aikataulut](./aikataulu.md), [käytännön järjestelyt](./tehtavat.md) sekä [arviointikriteerit](./arviointi.md).
+Tervetuloa Python-kurssille! Löydät tältä sivustolta tiedot kurssin tiedotukseen, tukikanaviin, tehtäviin ja muihin aiheisiin liittyen. Kurssilla hyödynnetään Helsingin yliopiston mooc-kurssin oppimateriaaleja ja tehtäviä, mutta meillä on mooc-kurssista poikkeavat [aikataulut](/aikataulu/), [käytännön järjestelyt](./tehtavat/), [kokeet](/koe/) sekä [arviointikriteerit](/arviointi/).
 {: .fs-5 }
 
 Kurssin opettajina toimivat Teemu Havulinna, Kasper Valtakari ja Heikki Raatikainen. Kurssin yleisiä asioita koskien tavoitat opettajasi parhaiten kurssin Teams-kanavan kautta. Yksilöllisten viestien osalta käytä Teams-yksityisviestejä tai sähköpostia.
