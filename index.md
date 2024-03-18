@@ -7,10 +7,10 @@ nav_order: 0
 # Python-ohjelmointi
 {: .no_toc }
 
-Tervetuloa Python-kurssille! Löydät tältä etusivulta koosteen kurssin käytännön järjestelyistä. Tarkemmat ohjeet tiedotukseen, tukikanaviin, tehtäviin ja muihin aiheisiin on jaettu valikkoon omille alasivuilleen.
+Tervetuloa Python-kurssille! Löydät tältä sivustolta tiedot kurssin tiedotukseen, tukikanaviin, tehtäviin ja muihin aiheisiin liittyen. Kurssilla hyödynnetään Helsingin yliopiston mooc-kurssin oppimateriaaleja ja tehtäviä, mutta meillä on mooc-kurssista poikkeavat [aikataulut](./aikataulu.md), [käytännön järjestelyt](./tehtavat.md) sekä [arviointikriteerit](./arviointi.md).
 {: .fs-5 }
 
-Online-kurssin opettajina toimivat Teemu Havulinna sekä Kasper Valtakari ja virtuaalikurssia opettaa Heikki Raatikainen. Kurssin yleisiä asioita koskien tavoitat opettajasi parhaiten kurssin Teams-kanavan kautta. Yksilöllisten viestien osalta käytä Teams-yksityisviestejä tai sähköpostia.
+Kurssin opettajina toimivat Teemu Havulinna, Kasper Valtakari ja Heikki Raatikainen. Kurssin yleisiä asioita koskien tavoitat opettajasi parhaiten kurssin Teams-kanavan kautta. Yksilöllisten viestien osalta käytä Teams-yksityisviestejä tai sähköpostia.
 {: .fs-5 }
 
 
@@ -19,7 +19,7 @@ Online-kurssin opettajina toimivat Teemu Havulinna sekä Kasper Valtakari ja vir
 >
 > Tehtävien palauttamisessa käytetäänkin mooc-sivuston sijasta [**VS Code:n TMC-laajennosta**](/tehtavat/#testmycode-laajennos). Laajennoksessa Haaga-Helian toteutuksen valinta onnistuu [tämän ohjesivun mukaisesti](/tehtavat/#testmycode-laajennos). Tehtävänannot löytyvät mooc.fi-sivustolta: [https://ohjelmointi-24.mooc.fi/kaikki-tehtavat/](https://ohjelmointi-24.mooc.fi/kaikki-tehtavat/).
 >
-> Tämä ei ole iso asia, koska osasta 4 alkaen tehtävät palautetaan joka tapauksessa TMC-laajennoksen avulla.
+> Tämä ei ole iso asia, koska osasta 4 alkaen tehtävät palautetaan myös mooc-kurssilla TMC-laajennoksen avulla.
 
 ---
 
