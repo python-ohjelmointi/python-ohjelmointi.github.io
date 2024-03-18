@@ -1,5 +1,5 @@
 ---
-title: 🗳 Opintojaksopalaute
+title: ❓ Opintojaksopalaute
 layout: default
 nav_order: 10
 ---
