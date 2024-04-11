@@ -104,7 +104,9 @@ Saatuasi jatkokurssin suoritettua HY:n puolella voit hakea opintojakson sisälly
 
 ### Uusintakokeet
 
-Voit käydä uusimassa kurssin kokeen oman kurssitoteutuksesi jälkeen osallistumalla seuraavien lukukausien kokeisiin. Kokeiden aikataulu ja järjestelyt selviävät tältä sivustolta. Ilmoittaudu kokeeseen kaksi viikkoa ennen koepäivää lähettämällä sähköpostiviesti oman kurssitoteutuksesi opettajalle, jotta saat pääsyn kokeessa käytettäviin järjestelmiin ja jotta ratkaisusi huomioidaan aikaisemman suorituksen täydentämisenä.
+Voit käydä uusimassa kurssin kokeen oman kurssitoteutuksesi jälkeen osallistumalla seuraavien lukukausien kokeisiin. Kokeiden aikataulu ja järjestelyt selviävät tältä sivustolta.
+
+**Ilmoittaudu uusintakokeeseen kaksi viikkoa ennen koepäivää** lähettämällä sähköpostiviesti oman kurssitoteutuksesi opettajalle, jotta saat pääsyn kokeessa käytettäviin järjestelmiin ja jotta ratkaisusi huomioidaan aikaisemman suorituksen täydentämisenä.
 
 
 ## 🔗 Tärkeät linkit

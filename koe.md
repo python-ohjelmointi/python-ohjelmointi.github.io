@@ -7,7 +7,7 @@ nav_order: 8
 # Kokeet
 {: .no_toc }
 
-Koe järjestetään [kurssin etusivulla](/) sekä Teamsissa ilmoitettuina aikoina. Normaaliin kurssikokeeseen ei tarvitse erikseen ilmoittautua, mutta **mikäli olet uusimassa kurssia, ilmoittaudu aikaisemman toteutuksesi opettajalla viimeistään viikkoa ennen koetta sähköpostitse.**
+Koe järjestetään [kurssin etusivulla](/) sekä Teamsissa ilmoitettuina aikoina. Normaaliin kurssikokeeseen ei tarvitse erikseen ilmoittautua, mutta **mikäli olet uusimassa kurssia, ilmoittaudu aikaisemman toteutuksesi opettajalla viimeistään kaksi viikkoa ennen koetta sähköpostitse.**
 
 {: .huom }
 Tällä sivulla on oleellista tietoa kokeisiin valmistautumiseen sekä järjestelyihin ja käytäntöihin liittyen, joten luethan sen kokonaan, vaikka sivu pitkä.
