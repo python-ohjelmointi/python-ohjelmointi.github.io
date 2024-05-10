@@ -44,7 +44,7 @@ Hyväksyttyyn suoritukseen eli arvosanaan kokeessa edellytetään vähintään 4
 
 ## Kokeen tehtävät ja luova ongelmanratkaisu
 
-Kokeen tehtävät vastaavat tyyliltään kurssin viikkotehtäviä. Tehtävänannot sisältävät esimerkkisuorituksia sekä automaattisia testejä, joiden avulla voit kokeilla ratkaisujesi toimivuutta.
+Kokeen tehtävät vastaavat tyyliltään kurssin viikkotehtäviä. Tehtävänannot sisältävät esimerkkisuorituksia sekä automaattisia testejä, joiden avulla voit kokeilla ratkaisujesi toimivuutta. Automaattisen arvioinnin vuoksi on välttämätöntä, että toteuttamiesi funktioiden nimet ja parametriarvot vastaavat täysin tehtävänantoja. Ohjelmasi ei saa kysyä syötteitä eikä tehdä tulosteita, ellei niitä ole tehtävänannossa mainittu.
 
 Moniin tehtäviin löytyy lukuisia erilaisia ratkaisutapoja. Ennen tehtävän ratkaisua pohdi, voidaanko se ratkaista esimerkiksi listoilla, sanakirjoilla tai kenties jopa ilman kokoelmaa. Jos ratkaisusi kasvaa sadan rivin pituiseksi, löytyisi tehtävään todennäköisesti myös helpompi ratkaisutapa.
 
@@ -70,6 +70,8 @@ Harjoituskokeessa kukin tehtävä koostuu yhdestä Python-tiedostosta. Tehtävä
 
 Kokeessa saa käyttää kurssin tavanomaisia tietolähteitä, kuten Google, Stack Overflow ja mooc.fi. Saat lisäksi tutkia kurssin esimerkkikoodeja ja omia kurssilla kirjoittamiasi koodeja, mutta **koodin suora kopiointi kokeen vastauksiin on kiellettyä**.
 
+**Kokeen ratkaisuissa on sallittua käyttää ainoastaan [Pythonin standardikirjastoa](https://docs.python.org/3/library/index.html).** Erikseen esimerkiksi pip-komennolla asennettavat paketit ja kirjastot, kuten NumPy tai pandas, eivät ole sallittuja. Lisäksi suosittelemme, että käytät kokeessa ainoastaan [Pythonin ylläpidettyjä versioita](https://devguide.python.org/versions/), joita käytetään myös ratkaisujesi automaattisessa arvioinnissa.
+
 **Kaikki viestintä ja kokeesta keskusteleminen on kiellettyä**.
 
 **Tehtävän vastauksen generointi tekoälyn avulla on kokeessa kiellettyä.** Et saa siis käyttää esim. ChatGPT:tä tai Copilot:ia ratkaistaksesi koetehtävän sellaisenaan. Saat kuitenkin hyödyntää näitä palveluita yksittäisten osaongelmien ratkaisemiseksi.
@@ -80,5 +82,7 @@ Kokeessa saa käyttää kurssin tavanomaisia tietolähteitä, kuten Google, Stac
 > 🆗 Saat hyödyntää hakukoneita tai tekoälyä selvittääksesi esimerkiksi, miten listalta voidaan poimia tietyn ehdon täyttävät arvot tai kuinka tietyt numerot voidaan käydä läpi suurimmasta pienimpään.
 >
 > ⛔ Et saa generoida tekoälyn avulla kokonaista ohjelmaa, joka kysyy käyttäjältä tehtävänannossa esitetyt kysymykset ja tulostaa vaaditut tulosteet.
+>
+> ⛔ Et saa asentaa tai käyttää Pythonin standardikirjaston ulkopuolisia paketteja, kuten NumPy tai pandas.
 >
 > ⛔ Et saa toteuttaa ohjelmaa siten, että se toimii pelkästään esimerkkisuorituksessa esitetyillä arvoilla ilman, että se toteuttaa tehtävänannossa esitettyä logiikkaa.
