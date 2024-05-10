@@ -7,7 +7,9 @@ nav_order: 8
 # Kokeet
 {: .no_toc }
 
-Koe järjestetään [kurssin etusivulla](/) sekä Teamsissa ilmoitettuina aikoina. Normaaliin kurssikokeeseen ei tarvitse erikseen ilmoittautua, mutta **mikäli olet uusimassa kurssia, ilmoittaudu aikaisemman toteutuksesi opettajalla viimeistään kaksi viikkoa ennen koetta sähköpostitse.**
+Koe järjestetään kevään ja kesän 2024 osalta etänä itsepalveluperiaatteella. Kukin osallistuja aloittaa kokeen itselleen sopivana ajankohtana ja huolehtii kokeensa ajanotosta itse. Kokeen tehtäväksiannot löytyvät Teamsin kautta kokeen alkaessa ja ratkaisut palautetaan Teamsiin arvioitavaksi.
+
+Normaaliin kurssikokeeseen ei tarvitse erikseen ilmoittautua, mutta **mikäli olet uusimassa kurssia, ilmoittaudu aikaisemman toteutuksesi opettajalla viimeistään kaksi viikkoa ennen koetta sähköpostitse.**
 
 {: .huom }
 Tällä sivulla on oleellista tietoa kokeisiin valmistautumiseen sekä järjestelyihin ja käytäntöihin liittyen, joten luethan sen kokonaan, vaikka sivu pitkä.
@@ -28,9 +30,9 @@ Kurssin kokeessa koealueena on koko teoriasisältö, eli mooc.fi:n osat 1-7. Kok
 
 ## Kokeen aikataulu
 
-Kokeen kesto on 2,5 tuntia. Mikäli sinulla on erityisopettajan lausunto kokeen lisäajasta, voit käyttää lisäksi erityisopettajan suositteleman lisäajan. Jos lausunnossa ei ole eritelty lisäajan kestoa, koeaikasi on 3 tuntia 15 minuuttia.
+Kokeen kesto on 2,5 tuntia. Koe alkaa siitä, kun avaat sen ensimmäisen kerran. Ajan laskeminen päättyy, kun lähetät ratkaisusi. Käyttämäsi aika ei näy automaattisesti järjestelmissä, joten joudut itse ottamaan aikaa omasta suorituksestasi. **Seuraa kokeen aikana kelloa tai laita itsellesi muistutus, jotta varmasti ehdit palauttaa ratkaisusi ennen kokeen päättymistä.**
 
-Koe alkaa siitä, kun avaat sen ensimmäisen kerran. Ajan laskeminen päättyy, kun lähetät ratkaisusi. Käyttämäsi aika ei näy automaattisesti järjestelmissä, joten joudut itse ottamaan aikaa omasta suorituksestasi. **Seuraa kokeen aikana kelloa tai laita itsellesi muistutus, jotta varmasti ehdit palauttaa ratkaisusi ennen kokeen päättymistä.**
+Mikäli sinulla on erityisopettajan lausunto kokeen lisäajasta, voit käyttää lisäksi erityisopettajan suositteleman lisäajan. Jos lausunnossa ei ole eritelty lisäajan kestoa, koeaikasi on 3 tuntia 15 minuuttia.
 
 Kokeen ilmoitettu päättymisaika on se hetki jolloin koe "menee kiinni", eikä viimeinen aloitusaika. Jos aloitat siis kokeen esim. puoli tuntia ennen ilmoitettua päättymisaikaa, koeaikasi on vain puoli tuntia.
 
@@ -49,7 +51,7 @@ Moniin tehtäviin löytyy lukuisia erilaisia ratkaisutapoja. Ennen tehtävän ra
 
 ## Pyöristykset, virheelliset syötteet yms.
 
-Tehtävien automaattisessa arvioinnissa on tärkeää, että ohjelmasi tulostaa esimerkiksi numerot kuten ne on tehtävän esimerkkisuorituksessa esitetty. Oletuksena ratkaisussa ei tarvitse pyöristää tai muuten muotoilla numeroita, ellei tehtävänannossa erikseen sitä pyydetä. Liukuluvut tulostetaan siis tyypillisesti "oletusesityksellä", eli niiden desimaaliosan pituus voi vaihdella. Oletuksena tehtävissä ei myöskään pidä taivuttaa tekstejä eri yksikköön tai monikkoon ("1 tuote" ja "2 tuotetta"), ellei sitä erikseen tehtävässä pyydetä.
+Tehtävien automaattisessa arvioinnissa on tärkeää, että ohjelmasi tulostaa esimerkiksi numerot kuten ne on tehtävän esimerkkisuorituksessa esitetty. Oletuksena tehtävissä ei tarvitse pyöristää tai muuten muotoilla numeroita, ellei tehtävänannossa erikseen sitä pyydetä. Liukuluvut tulostetaan siis tyypillisesti "oletusesityksellä", eli niiden desimaaliosan pituus voi vaihdella. Oletuksena tehtävissä ei myöskään pidä taivuttaa tekstejä eri yksikköön tai monikkoon ("1 tuote" ja "2 tuotetta"), ellei sitä erikseen tehtävässä pyydetä.
 
 {: .vinkki }
 Tehtävissä ei tarvitse myöskään varautua virheellisiin syötteisiin tai muihin poikkeustilanteisiin, ellei sitä erikseen pyydetä.
