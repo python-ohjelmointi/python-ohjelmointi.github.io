@@ -36,24 +36,6 @@ Kurssin opettajina toimivat Teemu Havulinna, Kasper Valtakari ja Heikki Raatikai
 Tätä samaa kurssisivustoa hyödynnetään useilla rinnakkaisilla toteutuksilla, joilla on yhteiset tehtävät, oppimateriaalit ja käytännön järjestelyt.
 
 
-### Kevään 2024 online-toteutukset *SOF004AS2A-3009* ja *SOF004AS2A-3010* (15.01.2024 - 17.05.2024)
-
-Toteutusten viikoittaiset tapaamiset järjestetään Teams-ryhmässä maanantaisin klo 11-13.45.
-
-> *"ONLINE – Verkkototeutus, jossa opettaja ja opiskelijat ovat yhteydessä vain tieto- ja viestintätekniikan välityksellä. Online-toteutuksessa on kalenteriin merkittyä verkko-opetusta tai toteutussuunnitelmassa mainittua läsnäoloa verkossa (esim. luentoja tai ryhmätöitä) ja materiaali ja tehtävät löytyvät verkosta."*
->
-> [https://mynet.haaga-helia.fi/group/pakki/lukkarikone](https://mynet.haaga-helia.fi/group/pakki/lukkarikone)
-
-
-### Kevään 2024 virtual-toteutus *SOF004AS2A-3015* (15.01.2024 - 17.05.2024)
-
-Kevään 2024 virtuaalitoteutuksen osallistujat ovat tervetulleita Teams-ryhmässä järjestettäviin viikoittaisiin tapaamisiin.
-
-> *"VIRTUAL on itsenäistä opiskelua toteutuksen aukioloaikana. Virtuaalitoteutuksissa ei ole lukujärjestykseen merkittyä pakollista opetusta tai muuta tapaamista verkossa, vaan opiskelijat suorittavat tehtäviä toteutussuunnitelman aikataulun ja määräaikojen mukaan. Samaan aikaan opiskelevat voivat olla yhteydessä toisiinsa ja virtuaaliopiskelun ohjaajaan keskustelualueen kautta."*
->
-> [https://mynet.haaga-helia.fi/group/pakki/lukkarikone](https://mynet.haaga-helia.fi/group/pakki/lukkarikone)
-
-
 ### Kesän 2024 virtual-toteutus *SOF004AS2A-3011* (20.5.2024 - 30.8.2024)
 
 Kesän 2024 kurssi toteutetaan täysin virtuaalisesti, eli se **ei sisällä oppitunteja kampuksella eikä videoyhteydellä**. Oppituntien sijaan saatavillasi on videoita ja tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista. Kurssin tehtäviin on saatavissa apua kurssin Teams-kanavalla.
