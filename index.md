@@ -94,12 +94,11 @@ Saatuasi jatkokurssin suoritettua HY:n puolella voit hakea opintojakson sisälly
 ## ✅ Kokeet
 
 {: .huom }
-> Kurssin koe järjestetään keväällä 2024 seuraavasti:
+> Kurssin koe järjestetään kesällä 2024 seuraavasti:
 >
-> * Online-toteutukset: **maanantaina 13.5. klo 11-21**
-> * Virtual-toteutus: **maanantaina 13.5. klo 11-21**
+> * **Perjantaina 30.8. klo 10-21**
 >
-> Yllä olevat kokeet järjestetään **etänä** itsepalveluperiaatteella. Tarkemmat tiedot kokeeseen ja kokeiden aikatauluihin liittyen löydät erilliseltä [kokeet-sivulta](./koe/).
+> Kokeet järjestetään **etänä** itsepalveluperiaatteella. Tarkemmat tiedot kokeeseen ja kokeiden aikatauluihin liittyen löydät erilliseltä [kokeet-sivulta](./koe/).
 
 
 ### Uusintakokeet
