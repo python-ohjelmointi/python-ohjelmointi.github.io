@@ -23,7 +23,7 @@ Kurssin loppuarvosana muodostuu viikkotehtävien ja kokeiden arvosanojen peruste
 
 ## Kokeen arviointi
 
-Kokeissa vaadittu minimipistemäärä hyväksyttyyn suoritukseen on 40 % eli 10 pistettä. [Tarkemmat ohjeet kokeen käytännön järjestelyihin liittyen löydät erilliseltä sivulta.](/koe/)
+Kokeissa vaadittu minimipistemäärä hyväksyttyyn suoritukseen on 40 % kokonaispisteistä. [Tarkemmat ohjeet kokeen käytännön järjestelyihin liittyen löydät erilliseltä sivulta.](/koe/)
 
 
 ## Viikkotehtävien arviointi
