@@ -20,6 +20,9 @@ Alla on kurssin suositeltu suoritusaikataulu kahden periodin pituisille toteutuk
 
 ## Viikko 1: Ohjelmoinnin aloitus (mooc.fi osa 1)
 
+> Lue Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen) sekä ["ohjelmoinnin aloittaminen"](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen). Varmista lisäksi, että liityt myös VS Codessa oikealle kurssille [kurssin tehtävät -sivun mukaisesti](/tehtavat/).
+
+
 * Ohjelmistojen asennus
 * Ohjelmoinnin aloittaminen
 * Tietoa käyttäjältä
@@ -71,11 +74,6 @@ Alla on kurssin suositeltu suoritusaikataulu kahden periodin pituisille toteutuk
 
 
 ## Viikko 7: TMC, funktiot ja listat (mooc.fi osa 4)
-
-{: .huom }
-> Osasta 4 alkaen tehtävät palautetaan VS Code:n TMC-laajennuksen avulla, eikä tehtäviä voi palauttaa enää verkkoselaimen kautta.
->
-> Lue Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen) sekä ["ohjelmoinnin aloittaminen"](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen). Varmista lisäksi, että liityt myös VS Codessa oikealle kurssille [kurssin tehtävät -sivun mukaisesti](/tehtavat/).
 
 * Visual Studio Code -editori, Python-tulkki ja debuggeri
 * Lisää funktioista
