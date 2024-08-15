@@ -44,7 +44,7 @@ Hyväksyttyyn suoritukseen eli arvosanaan kokeessa edellytetään vähintään 4
 
 ## Kokeen tehtävät ja luova ongelmanratkaisu
 
-Kokeen tehtävät vastaavat tyyliltään kurssin viikkotehtäviä. Tehtävänannot sisältävät esimerkkisuorituksia sekä automaattisia testejä, joiden avulla voit kokeilla ratkaisujesi toimivuutta. Automaattisen arvioinnin vuoksi on välttämätöntä, että toteuttamiesi funktioiden nimet ja parametriarvot vastaavat täysin tehtävänantoja. Ohjelmasi ei saa kysyä syötteitä eikä tehdä tulosteita, ellei niitä ole tehtävänannossa mainittu.
+Kokeen tehtävät vastaavat tyyliltään kurssin tavanomaisia ohjelmointitehtäviä. Tehtävänannot sisältävät esimerkkisuorituksia sekä automaattisia testejä, joiden avulla voit kokeilla ratkaisujesi toimivuutta. Automaattisen arvioinnin vuoksi on välttämätöntä, että toteuttamiesi funktioiden nimet ja parametriarvot vastaavat täysin tehtävänantoja. Ohjelmasi ei saa kysyä syötteitä eikä tehdä tulosteita, ellei niitä ole tehtävänannossa mainittu.
 
 Moniin tehtäviin löytyy lukuisia erilaisia ratkaisutapoja. Ennen tehtävän ratkaisua pohdi, voidaanko se ratkaista esimerkiksi listoilla, sanakirjoilla tai kenties jopa ilman kokoelmaa. Jos ratkaisusi kasvaa sadan rivin pituiseksi, löytyisi tehtävään todennäköisesti myös helpompi ratkaisutapa.
 

@@ -1,10 +1,10 @@
 ---
-title: 📥 Kurssin tehtävät
+title: 📥 Ohjelmointitehtävät
 layout: default
 nav_order: 4
 ---
 
-# Kurssin tehtävät
+# Kurssin ohjelmointitehtävät
 
 Kurssin harjoitusympäristönä ja pääasiallisena oppimateriaalina hyödynnetään Helsingin yliopiston ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-24.mooc.fi/](https://ohjelmointi-24.mooc.fi/).
 {: .fs-5 }
@@ -55,11 +55,11 @@ Haaga-Helian kurssin valitseminen on erittäin tärkeää, koska vain silloin n�
 Tämän kurssin tehtävät koostuvat ainoastaan mooc.fi:n **ohjelmointitehtävistä**. **Kyselyihin ja kertauskyselyihin** antamanne vastaukset ja niistä saamanne pisteet eivät tallennu samaan järjestelmään ohjelmointitehtävien kanssa, eikä niitä huomioida kurssin arvioinnissa. Suosittelemme silti niihin vastaamista oman osaamisen vahvistamiseksi.
 
 
-## Tehtävien arviointi
+## Ohjelmointitehtävien arviointi
 
 Kurssin läpäisemiseksi tehtäväpisteistä tulee olla suoritettuna kurssin päättyessä vähintään 25 %. Helsingin yliopiston arvostelusta poiketen Haaga-Helian toteutuksella ei yksittäisiin osioihin liittyviä minimipistemääriä. Pisteitä ei siis tarkastella osiokohtaisesti, vaan 25 % kokonaisuudesta riittää.
 
-Tehtävien tarkemmat arviointiperusteet on esitetty [arviointi](/arviointi/#viikkotehtävien-arviointi)-sivulla.
+Tehtävien tarkemmat arviointiperusteet on esitetty [arviointi](/arviointi/)-sivulla.
 
 
 ## Tehtävien pelisäännöt

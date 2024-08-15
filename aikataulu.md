@@ -195,6 +195,6 @@ Jätäthän kurssista vielä [opintojaksopalautetta!](https://mynet.haaga-helia.
 
 -->
 
-## Viikkotehtävien DL
+## Ohjelmointitehtävien DL
 
-📣 Huom! Viikkotehtävien deadline on kurssin päättymispäivänä klo 23:59.
+📣 Huom! Ohjelmointitehtävien (TMC/mooc) deadline on kurssin päättymispäivänä klo 23:59.
