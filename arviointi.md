@@ -6,44 +6,53 @@ nav_order: 6
 
 # Kurssin arviointi
 
-## Virtuaalitoteutus SOF004AS2A-3011 (20.5.2024 - 30.8.2024)
+Osasuoritukset ja arviointikriteerit päivittyvät syksystä 2024 alkaen. Kiinnitä huomiota siihen, että luet alta juuri omaa toteutustasi koskevat tiedot.
+
+
+## Syksyn -24 toteutus SOF004AS2A-3016 (19.8.2024-13.12.2024)
+
+Arviointi perustuu seuraaviin tekijöihin:
+
+* Ohjelmointitehtävät 50 %
+* Koe 30 %
+* Aktiivisuustehtävät 20 %
+
+Aktiivisuustehtävien 20 % tarkoittaa käytännössä, että aktiivisuus vaikuttaa arvosanaasi yhdellä numerolla.
+
+**Minimisuoritukset**
+
+* Ohjelmointitehtävät - minimisuoritus 25 % tehtävistä
+* Koe - minimisuoritus 40 % koepisteistä
+* Aktiivisuustehtävät - minimisuoritus 50 % tehtäväpisteistä
+
+Kun kaikki kolme minimisuoritusta täyttyvät, opinto on suoritettu arvosanalla 1/5. Esimerkiksi jos aktiivisuus on alle 50 %, suoritus on hylätty.
+
+**Aktiivisuustehtävät**
+
+Monipuolisen blended-toteutustavan vuoksi läsnäoloaktiivisuutta seurataan Teamsissa julkaistavilla **aktiivisuustehtävillä**. Aktiivisuustehtävät toteutetaan viikko kerrallaan, joten seuraa Teamsissa tapahtuvaa viestintää sekä oppitunteja.
+
+**Taustatietoja**
+
+Syksystä 2024 alkaen Haaga-Helian ohjeistuksen mukaan läsnäolo opetuksessa vaikuttaa arviointiin. Voit lukea linjausten julkisista osista lisää Haaga-Helian verkkosivuilta: [artikkeli 1](https://www.haaga-helia.fi/fi/ajankohtaista/uutiset/lasnaolosta-arvioinnin-edellytys-opintojaksoille-lisaa-elamaa-kampuksille), [artikkeli 2](https://www.haaga-helia.fi/fi/ajankohtaista/uutiset/haaga-helia-tarjoaa-jatkossakin-joustavaa-opiskelua-paivitetty-145).
+
+> *"Opiskelija osoittaa aktiivisuutta esimerkiksi tuntikeskusteluissa, ryhmätöissä ja muissa annetuissa tehtävissä. Opettajat määrittävät, millaista aktiivisuutta kullakin opintojaksolla vaaditaan."*
+>
+> Haaga-Helia, 2024. [Haaga-Helia tarjoaa jatkossakin joustavaa opiskelua](https://www.haaga-helia.fi/fi/ajankohtaista/uutiset/haaga-helia-tarjoaa-jatkossakin-joustavaa-opiskelua-paivitetty-145)
+
+Läsnäoloa mitataan aktiivisuustehtävillä, eli reaaliaikaista läsnäoloa ei vaadita kuin kokeessa. Haaga-Helian läsnäolovaatimusten mukaisesti hyväksyttyyn suoritukseen vaaditaan vähintään 50 % aktiivisuuspisteistä. Täydelliseen suoritukseen tarvitaan vastaavasti vähintään 75 % saatavilla olevista aktiivisuuspisteistä.
+
+
+## Kesän -24 toteutus SOF004AS2A-3011 (20.5.2024 - 30.8.2024)
 
 Kesäkurssin 2024 loppuarvosana muodostuu viikkotehtävien ja kokeiden arvosanojen perusteella seuraavasti:
-{: .fs-6 }
 
 * Ohjelmointitehtävien painoarvo on 50 %
 * Kokeen painoarvo on 50 %
-{: .fs-6 }
-
 
 {: .esim }
 > Jos saat esimerkiksi kokeesta arvosanaksi 5 ja tehtävistä 4, muodostuu loppuarvosanaksi 4,5, joka pyöristetään ylöspäin 5:een.
 >
 > Vastaavasti jos saat tehtävistä arvosanaksi 4 ja kokeesta arvosanan 3, pyöristyy tulos myös ylöspäin 4:ään. Pyöristykset tehdään vasta kurssin lopussa, eli voit saada esim. kokeesta arvosanaksi 4,1 ja tehtävistä 4,9.
-
-
-## Contact blended -toteutus SOF004AS2A-3016 (19.8.2024-13.12.2024)
-
-Syksystä 2024 alkaen Haaga-Helian ohjeistuksen mukaan läsnäolo opetuksessa vaikuttaa arviointiin. Sisäisen ohjeistuksen mukaan *"Opintojaksojen contact-, online ja blended-toteutuksilla edellytämme läsnäoloa lukujärjestykseen merkityillä opetuskerroilla. Jos olet poissa opetuskerroilta yli 25 % arvosanasi laskee yhdellä numerolla. Jos olet poissa opetuskerroilta yli 50 %, opintojakso hylätään."* Voit lukea linjausten julkisista osista lisää Haaga-Helian verkkosivuilta: [artikkeli 1](https://www.haaga-helia.fi/fi/ajankohtaista/uutiset/lasnaolosta-arvioinnin-edellytys-opintojaksoille-lisaa-elamaa-kampuksille), [artikkeli 2](https://www.haaga-helia.fi/fi/ajankohtaista/uutiset/haaga-helia-tarjoaa-jatkossakin-joustavaa-opiskelua-paivitetty-145).
-
-Käytössä olevat järjestelmät eivät tue negatiivisia osasuorituksia ja sanktion uhalla läsnäolo voi tuntua epämotivoivalta. Siksi läsnäolokäytäntöä sovelletaan tällä toteutuksella niin, että aktiivisuutta arvioidaan positiivisesti ja aktiivisuuden vaikutus on loppuarvioinnissa yhden numeron suuruinen.
-
-Arviointi perustuu seuraaviin osatekijöihin:
-
-* Ohjelmointitehtävät 50 %
-* Koe 30 %
-* Aktiivisuus 20 %
-
-
-## Aktiivisuustehtävät
-
-Monipuolisen blended-toteutustavan vuoksi läsnäoloaktiivisuutta seurataan MS Teamsissa julkaistavilla **aktiivisuustehtävillä**. Aktiivisuustehtävät toteutetaan viikko kerrallaan, joten seuraa Teamsissa tapahtuvaa viestintää sekä oppitunteja.
-
-> *"Opiskelija osoittaa aktiivisuutta esimerkiksi tuntikeskusteluissa, ryhmätöissä ja muissa annetuissa tehtävissä. Opettajat määrittävät, millaista aktiivisuutta kullakin opintojaksolla vaaditaan."*
->
-> [Haaga-Helia, 2024. Haaga-Helia tarjoaa jatkossakin joustavaa opiskelua](https://www.haaga-helia.fi/fi/ajankohtaista/uutiset/haaga-helia-tarjoaa-jatkossakin-joustavaa-opiskelua-paivitetty-145).
-
-Haaga-Helian läsnäolovaatimusten mukaisesti hyväksyttyyn suoritukseen vaaditaan vähintään 50 % aktiivisuuspisteistä. Täydelliseen suoritukseen tarvitaan vastaavasti vähintään 75 % saatavilla olevista aktiivisuuspisteistä.
 
 
 ---
