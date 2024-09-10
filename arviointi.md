@@ -31,8 +31,9 @@ Kun kaikki kolme minimisuoritusta täyttyvät, opinto on suoritettu arvosanalla 
 
 Monipuolisen blended-toteutustavan vuoksi läsnäoloaktiivisuutta seurataan Teamsissa julkaistavilla **aktiivisuustehtävillä**. Aktiivisuustehtävät toteutetaan viikko kerrallaan, joten seuraa Teamsissa tapahtuvaa viestintää sekä oppitunteja. Aktiivisuustehtävien suhteen on voimassa seuraavat pelisäännöt:
 
+* Aktiivisuustehtäviä saa tehdä yksin tai yhdessä muiden kanssa.
 * Aktiivisuustehtävissä on sallittua käyttää mitä tahansa oppimateriaaleja sekä tekoälyä.
-* Aktiivisuustehtävissä esiintyviä koodiesimerkkejä saa (ja kannattaa) kopioida omaan koodieditoriin koodin toiminnan kokeilemiseksi.
+* Aktiivisuustehtävissä esiintyviä koodiesimerkkejä <del>saa</del> *kannattaa* kopioida omaan koodieditoriin koodin toiminnan kokeilemiseksi.
 * Aktiivisuustehtävistä saa käydä vapaasti keskustelua kurssin tapaamisissa ja Teams-kanavalla.
 
 **Taustatietoja**
