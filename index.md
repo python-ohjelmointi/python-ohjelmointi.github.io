@@ -32,31 +32,14 @@ Kurssin opettajina toimivat Teemu Havulinna, Kasper Valtakari ja Heikki Raatikai
 Tätä samaa kurssisivustoa hyödynnetään useilla rinnakkaisilla toteutuksilla, joilla on yhteiset tehtävät, oppimateriaalit ja käytännön järjestelyt.
 
 
-## Kesän 2024 virtual-toteutus *SOF004AS2A-3011* (20.5.2024 - 30.8.2024)
-
-Kesän 2024 kurssi toteutetaan täysin virtuaalisesti, eli se **ei sisällä oppitunteja kampuksella eikä videoyhteydellä**. Oppituntien sijaan saatavillasi on videoita ja tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista. Kurssin tehtäviin on saatavissa apua kurssin Teams-kanavalla.
-
-> *"VIRTUAL on itsenäistä opiskelua toteutuksen aukioloaikana. Virtuaalitoteutuksissa ei ole lukujärjestykseen merkittyä pakollista opetusta tai muuta tapaamista verkossa, vaan opiskelijat suorittavat tehtäviä toteutussuunnitelman aikataulun ja määräaikojen mukaan. Samaan aikaan opiskelevat voivat olla yhteydessä toisiinsa ja virtuaaliopiskelun ohjaajaan keskustelualueen kautta."*
->
-> [https://mynet.haaga-helia.fi/group/pakki/lukkarikone](https://mynet.haaga-helia.fi/group/pakki/lukkarikone)
-
-
-**Kesätoteutuksen koe**
-
-> Kesätoteutuksen koe järjestetään vuonna 2024 seuraavasti:
->
-> * **Perjantaina 30.8. klo 10-21**
->
-> Koe järjestetään **etänä** itsepalveluperiaatteella. Tarkemmat tiedot kokeeseen ja kokeiden aikatauluihin liittyen löydät erilliseltä [kokeet-sivulta](./koe/) sekä Teamsista kokeen lähestyessä.
-
-
 ## Syksyn 2024 toteutus *SOF004AS2A-3016* (19.8.2024-13.12.2024)
 
-Tämän toteutuksen viikoittaiset tapaamiset järjestetään kampuksella luokassa 2209 sekä Teams-ryhmässä perjantaisin klo 11-13.45. Tapaamisista tehdään myös pääsääntöisesti tallenteet itseopiskelun tukemiseksi.
+Syksyn -24 viikoittaiset tapaamiset järjestetään perjantaisin klo 11-13.45 "hybridimuotoisesti" kampuksella luokassa 2209 sekä Teams-ryhmässä. Tapaamisista tehdään myös pääsääntöisesti tallenteet itseopiskelun tukemiseksi.
 
-**Syksyn koe**
+**Koe**
 
-> Syksyn toteutuksen koe järjestetään **perjantaina 13.12.2024 klo 11-13:45**.
+{: .huom }
+> Syksyn -24 toteutuksen koe järjestetään **perjantaina 13.12.2024 klo 11-13:45**.
 >
 > Koe järjestetään **kampuksella** luokassa 2209. Tarkemmat tiedot kokeeseen ja kokeiden aikatauluihin liittyen löydät erilliseltä [kokeet-sivulta](./koe/) sekä Teamsista kokeen lähestyessä.
 
@@ -107,6 +90,7 @@ Tämä kurssi:
     * [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/)
     * [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/)
     * [syksy 2023](https://github.com/python-ohjelmointi/esimerkit-s23/)
+    * [syksy 2024](https://github.com/python-ohjelmointi/esimerkit-s24/)
 
 Mooc.fi:
 
