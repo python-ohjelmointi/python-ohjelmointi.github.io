@@ -30,11 +30,7 @@ Kurssin kokeessa koealueena on koko teoriasisältö, eli mooc.fi:n osat 1-7. Kok
 
 ## Kokeen aikataulu
 
-Kokeen kesto on 2,5 tuntia. Koe alkaa siitä, kun avaat sen ensimmäisen kerran. Ajan laskeminen päättyy, kun lähetät ratkaisusi. Käyttämäsi aika ei näy automaattisesti järjestelmissä, joten joudut itse ottamaan aikaa omasta suorituksestasi. **Seuraa kokeen aikana kelloa tai laita itsellesi muistutus, jotta varmasti ehdit palauttaa ratkaisusi ennen kokeen päättymistä.**
-
-Mikäli sinulla on erityisopettajan lausunto kokeen lisäajasta, voit käyttää lisäksi erityisopettajan suositteleman lisäajan. Jos lausunnossa ei ole eritelty lisäajan kestoa, koeaikasi on 3 tuntia 15 minuuttia.
-
-Kokeen ilmoitettu päättymisaika on se hetki jolloin koe "menee kiinni", eikä viimeinen aloitusaika. Jos aloitat siis kokeen esim. puoli tuntia ennen ilmoitettua päättymisaikaa, koeaikasi on vain puoli tuntia.
+Kokeen kesto on 2,5 tuntia. Mikäli sinulla on erityisopettajan lausunto kokeen lisäajasta, voit käyttää lisäksi erityisopettajan suositteleman lisäajan. Jos lausunnossa ei ole eritelty lisäajan kestoa, koeaikasi on 3 tuntia 15 minuuttia.
 
 
 ## Kokeen arvostelu
