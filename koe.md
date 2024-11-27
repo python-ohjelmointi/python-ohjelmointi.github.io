@@ -7,7 +7,7 @@ nav_order: 8
 # Kokeet
 {: .no_toc }
 
-Koe järjestetään kevään ja kesän 2024 osalta etänä itsepalveluperiaatteella. Kukin osallistuja aloittaa kokeen itselleen sopivana ajankohtana ja huolehtii kokeensa ajanotosta itse. Kokeen tehtäväksiannot löytyvät Teamsin kautta kokeen alkaessa ja ratkaisut palautetaan Teamsiin arvioitavaksi.
+Koe järjestetään syksyllä 2024 kampuksella. Kokeen tehtäväksiannot löytyvät Teamsin kautta kokeen alkaessa ja ratkaisut palautetaan Teamsiin arvioitavaksi.
 
 Normaaliin kurssikokeeseen ei tarvitse erikseen ilmoittautua, mutta **mikäli olet uusimassa kurssia, ilmoittaudu aikaisemman toteutuksesi opettajalla viimeistään kaksi viikkoa ennen koetta sähköpostitse.**
 
