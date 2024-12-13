@@ -55,7 +55,7 @@ Pythonilla arvosanan voi laskea seuraavasti:
 
 ```py
 # koepisteiden muuntaminen arvosanaksi, kun omat pisteet ylittävät minimin
-koearvosana = 1 + (omat_pisteet_prosentteina − 40) * 0.0666666667
+koearvosana = 1 + (omat_pisteet_prosentteina - 40) * 0.0666666667
 ```
 
 
@@ -72,7 +72,7 @@ Pythonilla arvosanan voi laskea seuraavasti:
 
 ```py
 # tehtäväpisteiden muuntaminen arvosanaksi, kun omat pisteet ylittävät minimin
-arvosana = 1 + (omat_pisteet_prosentteina − 25) * 0.05333
+arvosana = 1 + (omat_pisteet_prosentteina - 25) * 0.05333
 ```
 
 
