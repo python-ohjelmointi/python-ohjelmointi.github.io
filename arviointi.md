@@ -46,13 +46,39 @@ Läsnäoloa mitataan aktiivisuustehtävillä, eli reaaliaikaista läsnäoloa ei 
 
 Hyväksyttyyn suoritukseen eli arvosanaan kokeessa edellytetään vähintään 40 % kokonaispisteistä. Minimipisteet oikeuttavat arvosanaan 1, kun taas 100 % pisteistä oikeuttaa arvosanaan 5. Koearvosanaa ei pyöristetä, eli jokaisella saamallasi pisteellä on merkitystä kurssin loppuarvioinnissa. [Tarkemmat ohjeet kokeen käytännön järjestelyihin liittyen löydät erilliseltä sivulta.](/koe/)
 
+{: .esim }
+> ### Kokeen arvioinnin laskukaava
+> 
+> * Hyväksytty koesuoritus edellyttää, että saat vähintään 40 % kokeen pisteistä. Tämä oikeuttaa koearvosanaan 1.
+> * Jos saavutat 100 % pisteistä, saat kokeesta parhaan arvosanan, eli 5.
+> * Näiden rajojen (25 % ja 100 %) väliin jäävät arvosanat määräytyvät lineaarisesti: mitä enemmän pisteitä saat yli 40 %, sitä korkeampi arvosana.
+> 
+> Jokainen prosenttiyksikkö yli minimin (40 %) lisää arvosanaa tasaisesti. Arvosanojen välinen skaala on 4 (arvosanat 1–5), ja 60 % pisteistä jaetaan tasaisesti tälle skaalalle. Tämä tarkoittaa, että jokainen prosenttiyksikkö vastaa arvosanan nousua noin 0,0666666667.
+> 
+> Matemaattisesti arvosanan voi laskea seuraavasti:
+> 
+> **Koearvosana = 1 + (Omat pisteet prosentteina − 40) * 0,0666666667**
+
 
 ## Ohjelmointitehtävien arviointi (TMC/mooc.fi)
 
 Kurssin suorittamiseksi sinun tulee saada vähintään 25 % ohjelmointitehtävien pisteistä. Ohjelmointitehtävien arviointi lasketaan siten, että minimimäärä (25 %) oikeuttaa arvosanaan 1, kun taas 100 % pisteistä oikeuttaa arvosanaan 5.
 
-{: .huom }
 Helsingin yliopiston arvostelusta poiketen Haaga-Helian toteutuksella ei yksittäisiin osioihin liittyviä minimipistemääriä. Pisteitä ei siis tarkastella osiokohtaisesti, vaan 25 % kokonaisuudesta riittää.
+
+
+{: .esim }
+> ### Tehtävien arvioinnin laskukaava
+>
+> * Hyväksytty kurssisuoritus edellyttää, että saavutat vähintään 25 % ohjelmointitehtävien pisteistä. Tämä oikeuttaa tehtävien osalta arvosanaan 1.
+> * Jos saavutat 100 % pisteistä, saat tehtävien osalta parhaan arvosanan, eli 5.
+> * Näiden rajojen (25 % ja 100 %) väliin jäävät arvosanat määräytyvät lineaarisesti: mitä enemmän pisteitä saat yli 25 %, sitä korkeampi arvosana.
+>
+> Jokainen prosenttiyksikkö yli minimin (25 %) lisää arvosanaa tasaisesti. Arvosanojen välinen skaala on 4 (arvosanat 1–5), ja 75 % pisteistä jaetaan tasaisesti tälle skaalalle. Tämä tarkoittaa, että jokainen prosenttiyksikkö vastaa arvosanan nousua noin 0,05333.
+>
+> Matemaattisesti arvosanan voi laskea seuraavasti:
+>
+> **Tehtäväarvosana = 1 + (Omat pisteet prosentteina − 25) * 0,05333**
 
 
 ### Mistä näen ohjelmointitehtävien pistemäärän?
