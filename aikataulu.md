@@ -26,7 +26,7 @@ Alla on kurssin suositeltu suoritusaikataulu kahden periodin pituisille toteutuk
 * Ohjelmistojen asennus
 * Ohjelmoinnin aloittaminen
 * Tietoa käyttäjältä
-* [Materiaalit (mooc.fi)](https://ohjelmointi-24.mooc.fi/osa-1)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-25.mooc.fi/osa-1)
 
 
 
@@ -35,7 +35,7 @@ Alla on kurssin suositeltu suoritusaikataulu kahden periodin pituisille toteutuk
 * Lisää muuttujista
 * Laskentaa luvuilla
 * Ehtorakenne
-* [Materiaalit (mooc.fi)](https://ohjelmointi-24.mooc.fi/osa-1)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-25.mooc.fi/osa-1)
 
 
 
@@ -43,7 +43,7 @@ Alla on kurssin suositeltu suoritusaikataulu kahden periodin pituisille toteutuk
 
 * Ohjelmoinnin termejä
 * Lisää ehtolauseita
-* [Materiaalit (mooc.fi)](https://ohjelmointi-24.mooc.fi/osa-2)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-25.mooc.fi/osa-2)
 
 
 
@@ -51,7 +51,7 @@ Alla on kurssin suositeltu suoritusaikataulu kahden periodin pituisille toteutuk
 
 * Ehtojen yhdistäminen
 * Yksinkertainen silmukka
-* [Materiaalit (mooc.fi)](https://ohjelmointi-24.mooc.fi/osa-2)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-25.mooc.fi/osa-2)
 
 
 
@@ -60,7 +60,7 @@ Alla on kurssin suositeltu suoritusaikataulu kahden periodin pituisille toteutuk
 * Ehdot silmukoissa
 * Merkkijonojen käsittely
 * [Merkkijonot Pythonin dokumentaatiossa](https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str)
-* [Materiaalit (mooc.fi)](https://ohjelmointi-24.mooc.fi/osa-3)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-25.mooc.fi/osa-3)
 
 
 
@@ -69,7 +69,7 @@ Alla on kurssin suositeltu suoritusaikataulu kahden periodin pituisille toteutuk
 * [Omat funktiot](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
 * Mitä `if __name__ == '__main__':` tekee? (katso [selitys](https://stackoverflow.com/a/419185) ja [Pythonin dokumentaatio](https://docs.python.org/3/tutorial/modules.html#executing-modules-as-scripts))
 * Mitä vaihtoehtoja `__name__ == '__main__'`-vertailulle on?
-* [Materiaalit (mooc.fi)](https://ohjelmointi-24.mooc.fi/osa-3)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-25.mooc.fi/osa-3)
 
 
 
@@ -78,7 +78,7 @@ Alla on kurssin suositeltu suoritusaikataulu kahden periodin pituisille toteutuk
 * Visual Studio Code -editori, Python-tulkki ja debuggeri
 * Lisää funktioista
 * Listat
-* [Materiaalit (mooc.fi)](https://ohjelmointi-24.mooc.fi/osa-4)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-25.mooc.fi/osa-4)
 
 
 
@@ -88,7 +88,7 @@ Alla on kurssin suositeltu suoritusaikataulu kahden periodin pituisille toteutuk
 * Tulostuksen muotoilu
 * Lisää merkkijonoista ja listoista
 * [For-toistorakenne Pythonin tutoriaalissa](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
-* [Materiaalit (mooc.fi)](https://ohjelmointi-24.mooc.fi/osa-4)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-25.mooc.fi/osa-4)
 * [Doctest-työkalu](https://docs.python.org/3/library/doctest.html)
 
 
@@ -122,7 +122,7 @@ Viikkon toinen aihe on data-analytiikan vierailijaluento. Tiedot vierailun järj
 * Tuple
 * [namedtuple](https://docs.python.org/3/library/collections.html#collections.namedtuple)
 * Milloin käytän eri kokoelmatyyppejä?!
-* [Materiaalit (mooc.fi)](https://ohjelmointi-24.mooc.fi/osa-5)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-25.mooc.fi/osa-5)
 
 
 
@@ -147,7 +147,7 @@ Mooc.fi:n esimerkkien lisäksi suosittelemme perehtymään itsenäisesti siihen,
     * [pathlib - Object-oriented filesystem paths (docs.python.org)](https://docs.python.org/3/library/pathlib.html)
     * [Python 3's pathlib Module: Taming the File System (realpython.com)](https://realpython.com/python-pathlib/)
 * [Eri merkistöjen käsittely](https://codereview.doctor/features/python/best-practice/file-open-read-encoding)
-* [Materiaalit (mooc.fi)](https://ohjelmointi-24.mooc.fi/osa-6)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-25.mooc.fi/osa-6)
 
 
 
@@ -156,7 +156,7 @@ Mooc.fi:n esimerkkien lisäksi suosittelemme perehtymään itsenäisesti siihen,
 <!--* Oman koodin yksikkötestaaminen-->
 * Virhetilanteisiin varautuminen
 * Paikalliset ja globaalit muuttujat
-* [Materiaalit (mooc.fi)](https://ohjelmointi-24.mooc.fi/osa-6)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-25.mooc.fi/osa-6)
 
 
 
@@ -171,7 +171,7 @@ Mooc.fi:n esimerkkien lisäksi suosittelemme perehtymään itsenäisesti siihen,
 * Datan käsittely
 * Oman moduulin tekeminen
 * Lisää Pythonista
-* [Materiaalit (mooc.fi)](https://ohjelmointi-24.mooc.fi/osa-7)
+* [Materiaalit (mooc.fi)](https://ohjelmointi-25.mooc.fi/osa-7)
 
 
 

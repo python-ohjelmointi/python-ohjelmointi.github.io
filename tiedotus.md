@@ -6,7 +6,7 @@ nav_order: 3
 
 # Tiedotus- ja tukikanavat
 
-Kurssin tiedotuksessa ja tukikanavana käytämme omaa MS Teams -ryhmäämme, johon liittyminen on kurssin suorittamiseksi välttämätöntä. Toisena tukikanavana käytämme vapaaehtoisia [Helsingin yliopiston Discord-kanavia](https://ohjelmointi-24.mooc.fi/#tukivaylat).
+Kurssin tiedotuksessa ja tukikanavana käytämme omaa MS Teams -ryhmäämme, johon liittyminen on kurssin suorittamiseksi välttämätöntä. Toisena tukikanavana käytämme vapaaehtoisia [Helsingin yliopiston Discord-kanavia](https://ohjelmointi-25.mooc.fi/#tukivaylat).
 {: .fs-5 }
 
 Kurssin suuresta osallistuja- ja tehtävämäärästä johtuen emme tarjoa ohjausta yksittäisiin tehtäviin sähköpostitse. Et kuitenkaan jää tehtävien kanssa yksin, kun käytät edellä mainittuja Teams- ja Discord-kanavia.

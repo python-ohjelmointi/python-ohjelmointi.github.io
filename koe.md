@@ -7,7 +7,7 @@ nav_order: 8
 # Kokeet
 {: .no_toc }
 
-Koe järjestetään syksyllä 2024 kampuksella. Tarvitset mukaan oman kannettavan tietokoneen, jossa on valmiiksi asennettuna Python sekä valitsemasi koodieditori.
+Koe järjestetään keväällä 2025 kampuksella. Tarvitset mukaan oman kannettavan tietokoneen, jossa on valmiiksi asennettuna Python sekä valitsemasi koodieditori.
 
 Kokeen tehtäväksiannot löytyvät Teamsin kautta kokeen alkaessa ja ratkaisut palautetaan Teamsiin arvioitavaksi.
 

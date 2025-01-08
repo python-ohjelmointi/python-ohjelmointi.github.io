@@ -6,7 +6,7 @@ Kurssin tapaamisissa, tiedottamisessa ja ohjauksessa hyödynnetään MS Teams-ry
 
 Kurssista järjestetään samanaikaisesti useita rinnakkaisia toteutuksia eri toteutusmuodoissa. Olet tervetullut mukaan viikoittaisille Teams-tunneille tai voit opiskella täysin itsenäisesti oman valintasi mukaan.
 
-Tehtäviin on saatavissa apua oppituntien lisäksi kurssin omalla Teams-kanavalla sekä mooc.fi:n Discord-kanavilla ([https://ohjelmointi-24.mooc.fi/#tukivaylat](https://ohjelmointi-24.mooc.fi/#tukivaylat)).
+Tehtäviin on saatavissa apua oppituntien lisäksi kurssin omalla Teams-kanavalla sekä mooc.fi:n Discord-kanavilla ([https://ohjelmointi-25.mooc.fi/#tukivaylat](https://ohjelmointi-25.mooc.fi/#tukivaylat)).
 
 
 Menestystä Python-opintoihin!<br />

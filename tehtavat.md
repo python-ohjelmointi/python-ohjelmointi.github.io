@@ -6,10 +6,10 @@ nav_order: 4
 
 # Kurssin ohjelmointitehtävät
 
-Kurssin harjoitusympäristönä ja pääasiallisena oppimateriaalina hyödynnetään Helsingin yliopiston ohjelmoinnin perusteet -mooc-kurssia [https://ohjelmointi-24.mooc.fi/](https://ohjelmointi-24.mooc.fi/).
+Kurssin pääasiallisena oppimateriaalina hyödynnetään Helsingin yliopiston ohjelmoinnin perusteet -mooc-kurssia ja sen ohjelmointitehtäviä [https://ohjelmointi-25.mooc.fi/](https://ohjelmointi-25.mooc.fi/).
 {: .fs-5 }
 
-Suoritamme mooc.fi:ssä **ohjelmoinnin perusteet** -osiota (osat 1-7), emmekä etene ohjelmoinnin jatkokurssille. Kätevimmin löydät tehtävät listattuna mooc.fi:n [kaikki tehtävät -sivulla](https://ohjelmointi-24.mooc.fi/kaikki-tehtavat). Tämän kurssin arvioinnissa huomioidaan ainoastaan **ohjelmointitehtävät**, ei kyselyitä.
+Suoritamme mooc.fi:ssä **ohjelmoinnin perusteet** -osiota (osat 1-7), emmekä etene ohjelmoinnin jatkokurssille. Kätevimmin löydät tehtävät listattuna mooc.fi:n [kaikki tehtävät -sivulla](https://ohjelmointi-25.mooc.fi/kaikki-tehtavat). Tämän kurssin arvioinnissa huomioidaan ainoastaan **ohjelmointitehtävät**, ei kyselyitä.
 {: .fs-5 }
 
 Tehtävillä ei ole erillisiä määräaikoja, vaan arvioinnissa huomioidaan ne tehtäväpisteet, jotka on kertynyt tehtävistä kurssin loppuun mennessä. Kurssin jälkeen tehtäviä voi edelleen ratkoa, mutta ne eivät enää vaikuta arviointiin.
@@ -21,12 +21,14 @@ Tehtävillä ei ole erillisiä määräaikoja, vaan arvioinnissa huomioidaan ne 
 
 Kurssin harjoitusten suorittamiseksi sinun tulee rekisteröityä Helsingin yliopiston [TestMyCode-järjestelmään (https://tmc.mooc.fi/)](https://tmc.mooc.fi/), joka huolehtii tehtävien automaattisesta tarkastamisesta ja pitää kirjaa saamistasi tehtäväpisteistä. Jos olet jo aikaisemmin rekisteröitynyt mooc.fi:n kursseille, voit käyttää olemassa olevaa käyttäjätunnustasi.
 
+Käyttämälläsi sähköpostiosoitteella ei ole merkitystä, eli voit käyttää joko Haaga-Helian sähköpostiosoitettasi tai muuta osoitettasi.
+
 {: .huom }
 **Vaikka kurssilla hyödynnetään mooc.fi-sivuston tehtäviä, ei niitä voida palauttaa suoraan mooc.fi-sivustolle.** Mooc.fi-sivustolle mahdollisesti lähettämäsi ratkaisut eivät tallennu Haaga-Helian vaan Helsingin yliopiston rekisteriin.
 
 Tehtävien palauttamisessa mooc-sivuston sijasta [**VS Code:n TMC-laajennosta**](/tehtavat/#testmycode-laajennos). Laajennoksen kautta käytössäsi on samat tehtävät ja niille suoritetaan samat testit kuin mooc-sivustolla.
 
-TMC-laajennoksessa Haaga-Helian toteutuksen valinta onnistuu [tämän ohjesivun mukaisesti](/tehtavat/#testmycode-laajennos). Tehtävänannot löytyvät mooc.fi-sivustolta: [https://ohjelmointi-24.mooc.fi/kaikki-tehtavat/](https://ohjelmointi-24.mooc.fi/kaikki-tehtavat/).
+TMC-laajennoksessa Haaga-Helian toteutuksen valinta onnistuu [tämän ohjesivun mukaisesti](/tehtavat/#testmycode-laajennos). Tehtävänannot löytyvät mooc.fi-sivustolta: [https://ohjelmointi-25.mooc.fi/kaikki-tehtavat/](https://ohjelmointi-25.mooc.fi/kaikki-tehtavat/).
 
 
 ## TestMyCode-laajennos
