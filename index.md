@@ -32,16 +32,18 @@ Kurssin opettajina toimivat Teemu Havulinna, Heikki Raatikainen ja Kasper Valtak
 Tätä samaa kurssisivustoa hyödynnetään useilla toteutuksilla, joilla on yhteiset tehtävät, oppimateriaalit ja kokeet. Käytännön järjestelyt vaihtelevat hienoisesti, joten alta löydät omaa toteutustasi koskevat tarkennukset.
 
 
-## Kevään 2025 toteutukset *SOF004AS2A-3017* ja *SOF004AS2A-3018* (13.1.2025 - 16.5.2025)
+## Kesän 2025 toteutus *SOF004AS2A-3019* (19.5.-15.8.2025)
 
-Kevään 2025 viikoittaiset tapaamiset järjestetään maanantaisin klo 11-13.45 kampuksella luokassa 2206.
+Kurssi toteutetaan virtuaalisesti, eli se ei sisällä oppitunteja kampuksella eikä videoyhteydellä. Oppituntien sijaan saatavillasi on lukuisia videoita ja tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista.
+
+Halutessasi voit osallistua kurssin **aloitustapaamiseen** Teamsissa maanantaina 19.5.2025 klo 11. Tapaamisessa käymme läpi kurssin suorittamisen käytännön asiat, kuten osallistumisen vahvistamisen, tehtäväjärjestelmän, koejärjestelyt sekä aikataulun. Aloitustapaaminen on vapaaehtoinen ja se tallennetaan Teams-kanavalle. Kaikki aloitustapaamisessa käsiteltävät aiheet löytyvät myös tämän kotisivun kautta.
 
 **Koe**
 
 {: .huom }
-> Kevään 2025 koe järjestetään **maanantaina 12.5.2025 klo 11-13:45**.
+> Kesän 2025 koe järjestetään *itsepalveluperiaatteella* **perjantaina 15.8.2025 klo 10-21**. Koeaika on 2,5 tuntia, mutta voit suorittaa kokeen valitsemanasi ajankohtana kokeen voimassaoloaikana.
 >
-> Koe järjestetään **kampuksella** luokassa 2206. Tarkemmat tiedot kokeeseen ja kokeiden aikatauluihin liittyen löydät erilliseltä [kokeet-sivulta](./koe/) sekä Teamsista kokeen lähestyessä.
+> Tarkemmat tiedot kokeeseen ja kokeiden aikatauluihin liittyen löydät erilliseltä [kokeet-sivulta](./koe/) sekä Teamsista kokeen lähestyessä.
 
 
 ## ✔️ Kurssin osallistumisen vahvistaminen
@@ -85,7 +87,7 @@ Tämä kurssi:
 * [Opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/SOF004AS2A)
 * [Oma pistetilanne (TMC-palvelussa)](https://tmc.mooc.fi/org/haaga-helia/)
 * [Vinkkejä kurssin työkaluihin liittyen](/vinkit)
-* Oppituntien esimerkkikoodit:
+* Oppituntien esimerkkikoodit (arkisto):
     * [kevät 2022](https://github.com/python-ohjelmointi/esimerkit/)
     * [syksy 2022](https://github.com/python-ohjelmointi/esimerkit-s22/)
     * [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/)
