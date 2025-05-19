@@ -48,13 +48,11 @@ Halutessasi voit osallistua kurssin **aloitustapaamiseen** Teamsissa maanantaina
 
 ## ✔️ Kurssin osallistumisen vahvistaminen
 
-Kurssin osallistumisen vahvistaminen edellyttää kurssin järjestelmiin\* liittymistä ja ohjelmointitehtävien suorittamista aktiivisesti\*\* ensimmäisten kahden viikon aikana. Tehtäviin on saatavissa vinkkejä ja tukea kurssin tukikanavilla.
+Kurssin osallistumisen vahvistaminen edellyttää kurssin järjestelmiin\* liittymistä ja vähintään yhden ohjelmointitehtävän suorittamista ensimmäisten kahden viikon aikana. Tehtäviin on saatavissa vinkkejä ja tukea kurssin tukikanavilla.
 
 Menettelyn ei ole tarkoitus karsia ketään pois kurssilta, vaan varmistaa, että työskentely kurssin parissa lähtee kaikilla hyvin käyntiin.
 
 <small>* Teams ja [TMC](https://tmc.mooc.fi/org/haaga-helia/)</small>
-
-<small>** mooc.fi:n osa 1:n ensimmäisen sivun tehtävien (5 kpl) tekeminen tulkitaan aktiiviseksi suorittamiseksi</small>
 
 
 ### ⛔ Kurssin keskeyttäminen
