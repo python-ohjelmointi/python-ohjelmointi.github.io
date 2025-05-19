@@ -7,8 +7,6 @@ nav_order: 8
 # Kokeet
 {: .no_toc }
 
-Koe järjestetään keväällä 2025 kampuksella. Tarvitset mukaan oman kannettavan tietokoneen, jossa on valmiiksi asennettuna Python sekä valitsemasi koodieditori.
-
 Kokeen tehtäväksiannot löytyvät Teamsin kautta kokeen alkaessa ja ratkaisut palautetaan Teamsiin arvioitavaksi.
 
 Normaaliin kurssikokeeseen ei tarvitse erikseen ilmoittautua, mutta **mikäli olet uusimassa kurssia, ilmoittaudu aikaisemman toteutuksesi opettajalla viimeistään kaksi viikkoa ennen koetta sähköpostitse.**

@@ -24,6 +24,15 @@ Tapa 2:
 ![Tiedoston lähettäminen TMC:n paste-palveluun](/img/tmc-paste2.png)
 
 
+## "Pylance has crashed X times in the last Y minutes"
+
+> *Pylance has crashed 5 times in the last 3 minutes. Pylance will not be restarted.*
+
+Pylance on Visual Studio Coden laajennus, joka tarjoaa Python-koodin tarkistusta ja automaattista täydennystä. Jos saat yllä olevan virheilmoituksen, se tarkoittaa, että Pylance-laajennus on kaatunut useita kertoja peräkkäin.
+
+Tämä virhe Pylance-laajennuksen kanssa johtuu usein siitä, että VS Code:ssa on avoinna kerrallaan liian monta hakemistoa. Pylance indeksoi kaikki avatut hakemistot ja jos niitä on liikaa, se voi kaatua. Tämä ongelma on yleinen erityisesti Windows-käyttöjärjestelmässä. Jos sinulla on kerrallaan "avattuna" workspace:ssa kymmeniä tehtäviä, voit kokeilla sulkea osan niistä TMC-näkymässä.
+
+
 ## Tehtävästä puuttuu `src`-hakemisto
 
 Jos avaat VS Code:n TMC-pluginin avulla tehtävän, jonka olet jo aikaisemmin ratkaissut mooc.fi:ssä, saattaa tehtävähakemistosta puuttua `src`-hakemisto sekä sen sisältämät tiedostot. Ongelma voi korjaantua klikkaamalla tehtävää hiiren kakkospainikkeella ja valitsemalla "Download old submission". Voit myös valita, haluatko tehdä nykyisestä versiosta kopion TMC-palvelimelle, mikä tuskin on tarpeen hakemiston puuttumisen vuoksi.
