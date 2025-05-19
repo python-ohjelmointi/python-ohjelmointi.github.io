@@ -11,14 +11,19 @@ Suosittelemme, että käytätte kurssin aikana laajasti eri oppimateriaaleja. Er
 
 ---
 
-**Online- ja lähiopetuksessa** järjestämme viikoittaiset tapaamiset, joissa käymme läpi kurssin aiheita esimerkkien avulla. Online-muodossa pidetyistä tapaamisista tehdään myös pääsääntöisesti tallenteet. Tapaamisissa on tarkoitus käsitellä aiheita *soveltaen* ja *syventäen*, joten niissä ei käydä läpi kurssin materiaalia sanasta sanaan. Tapaamisissa on hyvä tilaisuus kysyä kysymyksiä ja esittää toivomuksia käsiteltävistä aiheista tai kurssin tehtävistä.
+**Online- ja lähiopetuksessa** järjestämme viikoittaiset tapaamiset, joissa käymme läpi kurssin aiheita esimerkkien avulla. Tapaamisissa on tarkoitus käsitellä aiheita *soveltaen* ja *syventäen*, joten niissä ei käydä läpi kurssin materiaalia sanasta sanaan. Tapaamisissa on hyvä tilaisuus kysyä kysymyksiä ja esittää toivomuksia käsiteltävistä aiheista tai kurssin tehtävistä.
 
 **Virtuaalitoteutuksilla** tarjoamme ohjausta ja tukea kurssin Teams-kanavilla. Voit kysyä kysymyksiä ja pyytää apua kurssin aiheisiin liittyen. Ohjaajat ovat paikalla auttamassa sinua, joten älä epäröi kysyä apua, jos tarvitset sitä.
 
 
-## Videotallenteet ja koodiesimerkit
+## Haaga-Helian luentotallenteet
 
-Helsingin yliopiston videotallenteet löytyvät [mooc.fi:stä](https://ohjelmointi-25.mooc.fi/#luentotallenteet) sekä YouTubesta ja luentojen kalvot Google docsista.
+Haaga-Helian online-muodossa pidetyistä tapaamisista tehdään pääsääntöisesti tallenteet, jotka löytyvät heti tapaamisen jälkeen kurssin Teams-kanavalta.
+
+
+## Helsingin yliopiston luentotallenteet
+
+Helsingin yliopiston luentotallenteet löytyvät [mooc.fi:stä](https://ohjelmointi-25.mooc.fi/#luentotallenteet) sekä YouTubesta. Luentojen kalvot löytyvät Google docsista.
 
 
 > Osa    | Luentotallenne | Kalvot
