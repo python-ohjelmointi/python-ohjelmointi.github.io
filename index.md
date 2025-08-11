@@ -41,9 +41,23 @@ Halutessasi voit osallistua kurssin **aloitustapaamiseen** Teamsissa maanantaina
 **Koe**
 
 {: .huom }
-> Kesän 2025 koe järjestetään *itsepalveluperiaatteella* **perjantaina 15.8.2025 klo 10-21**. Koeaika on 2,5 tuntia, mutta voit suorittaa kokeen valitsemanasi ajankohtana kokeen voimassaoloaikana.
+> Kesän 2025 koe järjestetään *itsepalveluperiaatteella* **perjantaina 15.8.2025 klo 8-21**. Koeaika on 2,5 tuntia, mutta voit suorittaa kokeen valitsemanasi ajankohtana kokeen voimassaoloaikana.
 >
 > Tarkemmat tiedot kokeeseen ja kokeiden aikatauluihin liittyen löydät erilliseltä [kokeet-sivulta](./koe/) sekä Teamsista kokeen lähestyessä.
+
+
+## Syksyn 2025 toteutukset *SOF004AS2A-3025* ja *3031* (18.8.2025 - 12.12.2025 )
+
+Syksyn toteutukset järjestetään contact blended -muodossa. Voit halutessasi osallistua kurssin tapaamisiin tai opiskella itsenäisesti. Oppituntien lisäksi saatavillasi on videoita sekä tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista.
+
+
+**Koe**
+
+{: .huom }
+> Syksyn 2025 koe järjestetään *kampuksella* **tiistaina 9.12.2025 klo 14-16:30**.
+>
+> Tarkemmat tiedot kokeeseen ja kokeiden aikatauluihin liittyen löydät erilliseltä [kokeet-sivulta](./koe/) sekä Teamsista kokeen lähestyessä.
+
 
 
 ## ✔️ Kurssin osallistumisen vahvistaminen
@@ -82,7 +96,7 @@ Voit käydä uusimassa kurssin kokeen oman kurssitoteutuksesi jälkeen osallistu
 
 Tämä kurssi:
 
-* [Opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/SOF004AS2A)
+* [Opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course/SOF004AS2A)
 * [Oma pistetilanne (TMC-palvelussa)](https://tmc.mooc.fi/org/haaga-helia/)
 * [Vinkkejä kurssin työkaluihin liittyen](/vinkit)
 * Oppituntien esimerkkikoodit (arkisto):
