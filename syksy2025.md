@@ -30,7 +30,7 @@ Kurssin käytännön järjestelyistä tiedotetaan kurssin Teams-ryhmässä sekä
 
 ## MS Teams -ryhmä
 
-Kurssin tiedottamisessa ja ohjauksessa hyödynnetään MS Teams-ryhmää, jonne sinut lisätään automaattisesti. Kirjaudu Teamsiin Haaga-Helian käyttäjätunnuksellasi ja seuraa kurssin tiedoitteita Teamsissa.
+Kurssin tiedottamisessa ja ohjauksessa hyödynnetään MS Teams-ryhmää. Kirjaudu Teamsiin Haaga-Helian käyttäjätunnuksellasi ja liity tiimiin koodilla `bdgz82d` ([ohjeet](https://www.google.com/search?q=teams+join+with+code)).
 
 * [Teams Quick Start -ohje (pdf)](https://download.microsoft.com/download/2/b/3/2b3f5c6c-2ca9-4305-a0a3-0f6080c27ca8/EDU_QuickStartGuide_Students.pdf)
 * Teamsin web-käyttöliittymä: [https://teams.microsoft.com/](https://teams.microsoft.com/)
