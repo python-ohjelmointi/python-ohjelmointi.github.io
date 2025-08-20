@@ -33,6 +33,18 @@ Pylance on Visual Studio Coden laajennus, joka tarjoaa Python-koodin tarkistusta
 Tämä virhe Pylance-laajennuksen kanssa johtuu usein siitä, että VS Code:ssa on avoinna kerrallaan liian monta hakemistoa. Pylance indeksoi kaikki avatut hakemistot ja jos niitä on liikaa, se voi kaatua. Tämä ongelma on yleinen erityisesti Windows-käyttöjärjestelmässä. Jos sinulla on kerrallaan "avattuna" workspace:ssa kymmeniä tehtäviä, voit kokeilla sulkea osan niistä TMC-näkymässä.
 
 
+## Error while trying to run tests. Os error 5. Failed to create file at ***\\.tmc.lock
+
+Tämä virhe tarkoittaa, että TMC ei pysty luomaan lukitustiedostoa, jolla varmistetaan, että vain yksi TMC-instanssi käyttää tiettyjä tiedostoja kerrallaan. Ongelma voi johtua puutteellisista käyttöoikeuksista tiedoston luomiseksi tai siitä, että tiedosto on jäänyt auki aikaisemman suorituksen kaatumisen vuoksi.
+
+Ongelman tiedetään korjaantuneen monessa tapauksessa VS Code:n uudelleenkäynnistyksellä. Voit myös yrittää poistaa virheilmoituksessa esiintyvän `.tmc.lock`-tiedoston manuaalisesti.
+
+
+## Fatal error during TestMyCode extension initialization: Error: ENOTEMPTY: directory not empty, rmdir
+
+Tämä virhe korjaantuu tyypillisesti käynnistämällä VS Code uudelleen. Myös TMC-laajennoksen poisto, VS Coden uudelleenkäynnistys ja TMC:n asentaminen uudelleen ovat mahdollisia ratkaisuja.
+
+
 ## Tehtävästä puuttuu `src`-hakemisto
 
 Jos avaat VS Code:n TMC-pluginin avulla tehtävän, jonka olet jo aikaisemmin ratkaissut mooc.fi:ssä, saattaa tehtävähakemistosta puuttua `src`-hakemisto sekä sen sisältämät tiedostot. Ongelma voi korjaantua klikkaamalla tehtävää hiiren kakkospainikkeella ja valitsemalla "Download old submission". Voit myös valita, haluatko tehdä nykyisestä versiosta kopion TMC-palvelimelle, mikä tuskin on tarpeen hakemiston puuttumisen vuoksi.
