@@ -59,7 +59,6 @@ Syksyn toteutukset järjestetään contact blended -muodossa. Voit halutessasi o
 > Tarkemmat tiedot kokeeseen ja kokeiden aikatauluihin liittyen löydät erilliseltä [kokeet-sivulta](./koe/) sekä Teamsista kokeen lähestyessä.
 
 
-
 ## ✔️ Kurssin osallistumisen vahvistaminen
 
 Kurssin osallistumisen vahvistaminen edellyttää kurssin järjestelmiin\* liittymistä ja vähintään yhden ohjelmointitehtävän suorittamista ensimmäisten kahden viikon aikana. Tehtäviin on saatavissa vinkkejä ja tukea kurssin tukikanavilla.
@@ -67,15 +66,6 @@ Kurssin osallistumisen vahvistaminen edellyttää kurssin järjestelmiin\* liitt
 Menettelyn ei ole tarkoitus karsia ketään pois kurssilta, vaan varmistaa, että työskentely kurssin parissa lähtee kaikilla hyvin käyntiin.
 
 <small>* Teams ja [TMC](https://tmc.mooc.fi/org/haaga-helia/)</small>
-
-
-### ⛔ Kurssin keskeyttäminen
-
-Kurssin keskeyttäminen ei ole Haaga-Helian linjauksia noudattaen mahdollista enää osallistumisen vahvistamisen jälkeen:
-
-> *"Opettaja poistaa opetuksen alussa toteutukselta opiskelijat, jotka eivät osallistu ensimmäiseen opetuskertaan tai ilmoita poissaolostaan. Opiskelijoita ei enää myöhemmin poisteta toteutukselta, vaan kaikille annetaan arvosana hylätty-kiitettävä."*
->
-> [https://mynet.haaga-helia.fi/group/pakki/toteutukselle-ilmoittautuminen](https://mynet.haaga-helia.fi/group/pakki/toteutukselle-ilmoittautuminen)
 
 
 ### 🧙‍♂️ Ohjelmoinnin jatkokurssi
