@@ -95,6 +95,7 @@ Tämä kurssi:
     * [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/)
     * [syksy 2023](https://github.com/python-ohjelmointi/esimerkit-s23/)
     * [syksy 2024](https://github.com/python-ohjelmointi/esimerkit-s24/)
+    * [syksy 2025](https://github.com/python-ohjelmointi/esimerkit-s25)
 
 Mooc.fi:
 
