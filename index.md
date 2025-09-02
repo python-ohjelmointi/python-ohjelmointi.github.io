@@ -32,20 +32,6 @@ Kurssin opettajina toimivat Teemu Havulinna, Heikki Raatikainen ja Kasper Valtak
 Tätä samaa kurssisivustoa hyödynnetään useilla toteutuksilla, joilla on yhteiset tehtävät, oppimateriaalit ja kokeet. Käytännön järjestelyt vaihtelevat hienoisesti, joten alta löydät omaa toteutustasi koskevat tarkennukset.
 
 
-## Kesän 2025 toteutus *SOF004AS2A-3019* (19.5.-15.8.2025)
-
-Kurssi toteutetaan virtuaalisesti, eli se ei sisällä oppitunteja kampuksella eikä videoyhteydellä. Oppituntien sijaan saatavillasi on lukuisia videoita ja tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista.
-
-Halutessasi voit osallistua kurssin **aloitustapaamiseen** Teamsissa maanantaina 19.5.2025 klo 11. Tapaamisessa käymme läpi kurssin suorittamisen käytännön asiat, kuten osallistumisen vahvistamisen, tehtäväjärjestelmän, koejärjestelyt sekä aikataulun. Aloitustapaaminen on vapaaehtoinen ja se tallennetaan Teams-kanavalle. Kaikki aloitustapaamisessa käsiteltävät aiheet löytyvät myös tämän kotisivun kautta.
-
-**Koe**
-
-{: .huom }
-> Kesän 2025 koe järjestetään *itsepalveluperiaatteella* **perjantaina 15.8.2025 klo 8-21**. Koeaika on 2,5 tuntia, mutta voit suorittaa kokeen valitsemanasi ajankohtana kokeen voimassaoloaikana.
->
-> Tarkemmat tiedot kokeeseen ja kokeiden aikatauluihin liittyen löydät erilliseltä [kokeet-sivulta](./koe/) sekä Teamsista kokeen lähestyessä.
-
-
 ## Syksyn 2025 toteutukset *SOF004AS2A-3025* ja *3031* (18.8.2025 - 12.12.2025 )
 
 Syksyn toteutukset järjestetään contact blended -muodossa. Voit halutessasi osallistua kurssin tapaamisiin tai opiskella itsenäisesti. Oppituntien lisäksi saatavillasi on videoita sekä tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista.
