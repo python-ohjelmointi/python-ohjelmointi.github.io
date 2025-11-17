@@ -7,8 +7,6 @@ nav_order: 8
 # Kokeet
 {: .no_toc }
 
-Kokeen tehtäväksiannot löytyvät Teamsin kautta kokeen alkaessa ja ratkaisut palautetaan Teamsiin arvioitavaksi.
-
 Normaaliin kurssikokeeseen ei tarvitse erikseen ilmoittautua, mutta **mikäli olet uusimassa kurssia, ilmoittaudu aikaisemman toteutuksesi opettajalla viimeistään kaksi viikkoa ennen koetta sähköpostitse.**
 
 {: .huom }
@@ -25,7 +23,7 @@ Tällä sivulla on oleellista tietoa kokeisiin valmistautumiseen sekä järjeste
 
 ## Koealue
 
-Kurssin kokeessa koealueena on koko teoriasisältö, eli mooc.fi:n osat 1-7. Kokeessa välttämätöntä osaamista ovat funktiot sekä perustietotyypit ja -kontrollirakenteet. Eri kokoelmat ovat myös tyypillisesti laajasti edustettuna kokeessa.
+Kurssin kokeessa koealueena on koko teoriasisältö, eli mooc.fi:n osat 1-7. Kokeessa välttämätöntä osaamista ovat *funktiot* sekä *perustietotyypit* ja *kontrollirakenteet*. Eri *kokoelmat* ovat myös tyypillisesti edustettuna kokeessa.
 
 
 ## Kokeen aikataulu
@@ -35,22 +33,36 @@ Kokeen kesto on 2,5 tuntia. Mikäli sinulla on erityisopettajan lausunto kokeen 
 
 ## Kokeen arvostelu
 
-Hyväksyttyyn suoritukseen eli arvosanaan kokeessa edellytetään vähintään 40 % kokonaispisteistä. Minimipisteet oikeuttavat arvosanaan 1, kun taas 100 % pisteistä oikeuttaa arvosanaan 5. Koearvosanaa ei pyöristetä, eli jokaisella saamallasi pisteellä on merkitystä kurssin loppuarvioinnissa.
+Hyväksyttyyn suoritukseen eli arvosanaan kokeessa edellytetään vähintään 40 % kokonaispisteistä. Minimipisteet oikeuttavat arvosanaan 1, kun taas 100 % pisteistä oikeuttaa arvosanaan 5. Koearvosanaa ei pyöristetä, eli jokaisella saamallasi pisteellä on merkitystä kurssin loppuarvioinnissa. 
+
+Tarkempi kuvaus laskukaavasta löytyy [arviointi-sivulta](/arviointi/#kokeen-arviointi).
 
 
 ## Kokeen tehtävät ja luova ongelmanratkaisu
 
-Kokeen tehtävät vastaavat tyyliltään kurssin tavanomaisia ohjelmointitehtäviä. Tehtävänannot sisältävät esimerkkisuorituksia sekä automaattisia testejä, joiden avulla voit kokeilla ratkaisujesi toimivuutta. Automaattisen arvioinnin vuoksi on välttämätöntä, että toteuttamiesi funktioiden nimet ja parametriarvot vastaavat täysin tehtävänantoja. Ohjelmasi ei saa kysyä syötteitä eikä tehdä tulosteita, ellei niitä ole tehtävänannossa mainittu.
+Kokeen tehtävät vastaavat tyyliltään kurssin tavanomaisia ohjelmointitehtäviä. Tehtävänannot sisältävät esimerkkisuorituksia sekä automaattisia doctest-testejä, joiden avulla voit kokeilla ratkaisujesi toimivuutta. Esimerkkejä tehtävänannoista sekä doctest-testeistä' löydät [harjoituskokeesta](https://github.com/python-ohjelmointi/harjoituskoe).
 
 Moniin tehtäviin löytyy lukuisia erilaisia ratkaisutapoja. Ennen tehtävän ratkaisua pohdi, voidaanko se ratkaista esimerkiksi listoilla, sanakirjoilla tai kenties jopa ilman kokoelmaa. Jos ratkaisusi kasvaa sadan rivin pituiseksi, löytyisi tehtävään todennäköisesti myös helpompi ratkaisutapa.
 
 
+## Automaattiset testit ja osittaiset pisteet
+
+Kokeen arvioinnissa hyödynnetään automaattisia testejä, jotka ovat samankaltaisia kuin tehtävänannoissa esitetyt doctest-testit. Arvioinneissa käytettäviä testejä on kuitenkin enemmän ja ne testaavat ratkaisujasi eri syötteillä.
+
+Kunkin tehtävän ratkaisu pisteytetään sen mukaan, kuinka suuren osan tehtävälle kirjoitetuista testeistä ratkaisu läpäisee. On siis mahdollista, että saat osittaisia pisteitä, vaikka ratkaisusi ei täyttäisi kaikkia tehtävänanon vaatimuksia. Tehtävissä mukana olevien doctest-testien läpäiseminen antaa hyvän viitteen siitä, miten hyvin ratkaisusi toimii, mutta lopullisessa arvioinnissa käytettävät testit voivat poiketa niistä.
+
+{: .huom }
+Automaattisen arvioinnin vuoksi on välttämätöntä, että toteuttamiesi funktioiden nimet, parametrit ja paluuarvot vastaavat täysin tehtävänantoja. Ohjelmasi ei saa kysyä syötteitä eikä tehdä tulosteita, ellei niitä ole tehtävänannossa erikseen mainittu.
+
+
 ## Pyöristykset, virheelliset syötteet yms.
 
-Tehtävien automaattisessa arvioinnissa on tärkeää, että ohjelmasi tulostaa esimerkiksi numerot kuten ne on tehtävän esimerkkisuorituksessa esitetty. Oletuksena tehtävissä ei tarvitse pyöristää tai muuten muotoilla numeroita, ellei tehtävänannossa erikseen sitä pyydetä. Liukuluvut tulostetaan siis tyypillisesti "oletusesityksellä", eli niiden desimaaliosan pituus voi vaihdella. Oletuksena tehtävissä ei myöskään pidä taivuttaa tekstejä eri yksikköön tai monikkoon ("1 tuote" ja "2 tuotetta"), ellei sitä erikseen tehtävässä pyydetä.
+Tehtävien automaattisessa arvioinnissa on tärkeää, että ohjelmasi esittää esimerkiksi numerot kuten ne on tehtävän esimerkkisuorituksessa esitetty. Tehtävissä ei tarvitse pyöristää tai muuten muotoilla numeroita, ellei tehtävänannossa erikseen sitä pyydetä. Liukuluvut tulostetaan siis tyypillisesti "oletusesityksellä", eli niiden desimaaliosan pituus voi vaihdella.
+
+Oletuksena tehtävissä ei myöskään pidä taivuttaa tekstejä eri yksikköön tai monikkoon ("1 tuote" ja "2 tuotetta"), ellei sitä erikseen tehtävässä pyydetä.
 
 {: .vinkki }
-Tehtävissä ei tarvitse myöskään varautua virheellisiin syötteisiin tai muihin poikkeustilanteisiin, ellei sitä erikseen pyydetä.
+Tehtävissä ei tarvitse varautua virheellisiin syötteisiin tai muihin poikkeustilanteisiin, ellei sitä erikseen pyydetä.
 
 
 ## Harjoituskoe
@@ -82,3 +94,6 @@ Kokeessa saa käyttää kurssin tavanomaisia tietolähteitä, kuten Google, Stac
 > ⛔ Et saa asentaa tai käyttää Pythonin standardikirjaston ulkopuolisia paketteja, kuten NumPy tai pandas.
 >
 > ⛔ Et saa toteuttaa ohjelmaa siten, että se toimii pelkästään esimerkkisuorituksessa esitetyillä arvoilla ilman, että se toteuttaa tehtävänannossa esitettyä logiikkaa.
+
+Halutessasi voit hyödyntää kurssin valmiiksi annettua LLM-promptia, joka ohjeistaa tekoälyä toimimaan apunasi pelisääntöjen mukaisesti. Prompt löytyy [tältä erilliseltä sivulta](/llm-prompt/).
+
