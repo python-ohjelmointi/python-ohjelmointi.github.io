@@ -32,17 +32,21 @@ Kurssin opettajina toimivat Minna Pellikka, Teemu Havulinna, Heikki Raatikainen 
 Tätä samaa kurssisivustoa hyödynnetään useilla toteutuksilla, joilla on yhteiset tehtävät, oppimateriaalit ja kokeet. Käytännön järjestelyt vaihtelevat hienoisesti, joten alta löydät omaa toteutustasi koskevat tarkennukset.
 
 
-## Syksyn 2025 toteutukset *SOF004AS2A-3025* ja *3031* (18.8.2025 - 12.12.2025 )
+## Kokeet ja uusintakokeet
+
+Seuraava koe järjestetään *kampuksella* **luokassa 1001 ma 11.5.2026 klo 11-13:30**. Tarkemmat tiedot kokeeseen liittyen löydät erilliseltä [kokeet-sivulta](./koe/) sekä Teamsista kokeen lähestyessä.
+
+Oman lukukauden kokeeseen ei tarvitse erikseen ilmoittautua. Jos olet uusimassa koetta, ilmoita tulostasi aikaisemman toteutuksesi opettajalle kaksi viikkoa ennen koetta sähköpostitse.
+
+
+## Syksyn 2025 toteutukset *SOF004AS2A-3025* ja *3031* (18.8.2025 - 12.12.2025)
 
 Syksyn toteutukset järjestetään contact blended -muodossa. Voit halutessasi osallistua kurssin tapaamisiin tai opiskella itsenäisesti. Oppituntien lisäksi saatavillasi on videoita sekä tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista.
 
 
-**Koe**
+## Kevään 2026 toteutukset *SOF004AS2A-3026* ja *3027* (12.1.2026 - 15.5.2026)
 
-{: .huom }
-> Syksyn 2025 koe järjestetään *kampuksella* **tiistaina 9.12.2025 klo 14-16:30**.
->
-> Tarkemmat tiedot kokeeseen ja kokeiden aikatauluihin liittyen löydät erilliseltä [kokeet-sivulta](./koe/) sekä Teamsista kokeen lähestyessä.
+Kevään toteutukset järjestetään contact blended -muodossa. Voit halutessasi osallistua kurssin tapaamisiin tai opiskella itsenäisesti. Oppituntien lisäksi saatavillasi on videoita sekä tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista.
 
 
 ## ✔️ Kurssin osallistumisen vahvistaminen
