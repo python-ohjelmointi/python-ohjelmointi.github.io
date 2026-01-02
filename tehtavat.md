@@ -6,10 +6,10 @@ nav_order: 4
 
 # Kurssin ohjelmointitehtävät
 
-Kurssin pääasiallisena oppimateriaalina hyödynnetään Helsingin yliopiston ohjelmoinnin perusteet -mooc-kurssia ja sen ohjelmointitehtäviä [https://ohjelmointi-25.mooc.fi/](https://ohjelmointi-25.mooc.fi/).
+Kurssin pääasiallisena oppimateriaalina hyödynnetään Helsingin yliopiston ohjelmoinnin perusteet -mooc-kurssia ja sen ohjelmointitehtäviä [https://ohjelmointi-26.mooc.fi/](https://ohjelmointi-26.mooc.fi/).
 {: .fs-5 }
 
-Suoritamme mooc.fi:ssä **ohjelmoinnin perusteet** -osiota (osat 1-7), emmekä etene ohjelmoinnin jatkokurssille. Kätevimmin löydät tehtävät listattuna mooc.fi:n [kaikki tehtävät -sivulla](https://ohjelmointi-25.mooc.fi/kaikki-tehtavat). Tämän kurssin arvioinnissa huomioidaan ainoastaan **ohjelmointitehtävät**, ei kyselyitä.
+Suoritamme mooc.fi:ssä **ohjelmoinnin perusteet** -osiota (osat 1-7), emmekä etene ohjelmoinnin jatkokurssille. Kätevimmin löydät tehtävät listattuna mooc.fi:n [kaikki tehtävät -sivulla](https://ohjelmointi-26.mooc.fi/kaikki-tehtavat). Tämän kurssin arvioinnissa huomioidaan ainoastaan **ohjelmointitehtävät**, ei kyselyitä.
 {: .fs-5 }
 
 Tehtävillä ei ole erillisiä määräaikoja, vaan arvioinnissa huomioidaan ne tehtäväpisteet, jotka on kertynyt tehtävistä kurssin loppuun mennessä. Kurssin jälkeen tehtäviä voi edelleen ratkoa, mutta ne eivät enää vaikuta arviointiin.
@@ -28,7 +28,7 @@ Käyttämälläsi sähköpostiosoitteella ei ole merkitystä, eli voit käyttä�
 
 Tehtävien palauttamisessa mooc-sivuston sijasta [**VS Code:n TMC-laajennosta**](/tehtavat/#testmycode-laajennos). Laajennoksen kautta käytössäsi on samat tehtävät ja niille suoritetaan samat testit kuin mooc-sivustolla.
 
-TMC-laajennoksessa Haaga-Helian toteutuksen valinta onnistuu [tämän ohjesivun mukaisesti](/tehtavat/#testmycode-laajennos). Tehtävänannot löytyvät mooc.fi-sivustolta: [https://ohjelmointi-25.mooc.fi/kaikki-tehtavat/](https://ohjelmointi-25.mooc.fi/kaikki-tehtavat/).
+TMC-laajennoksessa Haaga-Helian toteutuksen valinta onnistuu [tämän ohjesivun mukaisesti](/tehtavat/#testmycode-laajennos). Tehtävänannot löytyvät mooc.fi-sivustolta: [https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/](https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/).
 
 
 ## TestMyCode-laajennos

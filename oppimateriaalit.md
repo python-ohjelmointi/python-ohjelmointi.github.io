@@ -42,7 +42,7 @@ Haaga-Helian online-muodossa pidetyistä tapaamisista tehdään pääsääntöis
 
 ### Helsingin yliopiston luentotallenteet
 
-Helsingin yliopiston luentotallenteet löytyvät [mooc.fi:stä](https://ohjelmointi-25.mooc.fi/#luentotallenteet), jossa eri aiheiden YouTube-videot on koottu yhteen. Luentojen kalvot löytyvät Google docsista.
+Helsingin yliopiston luentotallenteet löytyvät [mooc.fi:stä](https://ohjelmointi-26.mooc.fi/#luentotallenteet), jossa eri aiheiden YouTube-videot on koottu yhteen. Luentojen kalvot löytyvät Google docsista.
 
 ### Muut oppimateriaalit
 

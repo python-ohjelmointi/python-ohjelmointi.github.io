@@ -17,7 +17,7 @@ Kurssin opettajina toimivat Minna Pellikka, Teemu Havulinna, Heikki Raatikainen 
 {: .important }
 > 📣 **Vaikka tällä opintojaksolla käytetään mooc.fi-sivustolla olevia tehtäviä, et voi palauttaa tehtäviä kyseisen sivuston kautta.** Mooc.fi-sivulle mahdollisesti lähettämäsi ratkaisut eivät tallennu Haaga-Helian vaan Helsingin yliopiston rekisteriin.
 >
-> Tehtävien palauttamisessa käytetään mooc-sivuston sijasta [**VS Code:n TMC-laajennosta**](/tehtavat/#testmycode-laajennos). Laajennoksessa Haaga-Helian toteutuksen valinta onnistuu [tämän ohjesivun mukaisesti](/tehtavat/#testmycode-laajennos). Tehtävänannot löytyvät mooc.fi-sivustolta: [https://ohjelmointi-25.mooc.fi/kaikki-tehtavat/](https://ohjelmointi-25.mooc.fi/kaikki-tehtavat/).
+> Tehtävien palauttamisessa käytetään mooc-sivuston sijasta [**VS Code:n TMC-laajennosta**](/tehtavat/#testmycode-laajennos). Laajennoksessa Haaga-Helian toteutuksen valinta onnistuu [tämän ohjesivun mukaisesti](/tehtavat/#testmycode-laajennos). Tehtävänannot löytyvät mooc.fi-sivustolta: [https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/](https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/).
 
 ---
 
@@ -89,7 +89,7 @@ Tämä kurssi:
 
 Mooc.fi:
 
-* [Materiaalit ja tehtävät (https://ohjelmointi-25.mooc.fi/)](https://ohjelmointi-25.mooc.fi/)
+* [Materiaalit ja tehtävät (https://ohjelmointi-26.mooc.fi/)](https://ohjelmointi-26.mooc.fi/)
 * [HY:n Discordiin liittyminen](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc)
 * [TestMyCode -laajennuksen asentaminen VS Codeen](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen)
 * [TMC-laajennuksen käyttäminen](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen)
@@ -105,7 +105,7 @@ Mooc.fi:
 >
 > Kurssin materiaali on lisensoitu [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fi) -lisenssillä.
 >
-> *[https://ohjelmointi-25.mooc.fi/credits](https://ohjelmointi-25.mooc.fi/credits)*
+> *[https://ohjelmointi-26.mooc.fi/credits](https://ohjelmointi-26.mooc.fi/credits)*
 
 
 ### Python ja Pythonin dokumentaatio
