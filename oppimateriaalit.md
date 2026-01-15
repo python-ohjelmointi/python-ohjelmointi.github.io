@@ -11,6 +11,15 @@ Saatavillasi on videoita ja tekstimuotoista oppimateriaalia niin kurssin puolest
 
 ---
 
+## Mooc.fi
+
+Kurssin pääasiallisena oppimateriaalina hyödynnetään Helsingin yliopiston ohjelmoinnin perusteet -mooc-kurssia ja sen ohjelmointitehtäviä [https://ohjelmointi-26.mooc.fi/](https://ohjelmointi-26.mooc.fi/).
+
+Helsingin yliopiston luentotallenteet löytyvät [mooc.fi:stä](https://ohjelmointi-26.mooc.fi/#luentotallenteet), jossa eri aiheiden YouTube-videot on koottu yhteen. Luentojen kalvot löytyvät Google docsista.
+
+Suoritamme mooc.fi:ssä **ohjelmoinnin perusteet** -osiota (osat 1-7), emmekä etene ohjelmoinnin jatkokurssille. 
+
+
 ## Python
 
 Pythonin oma sivusto python.org tarjoaa aloitusoppaat sekä [ohjelmointia aloitteleville](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers) että jo [pidemmälle edenneille](https://wiki.python.org/moin/BeginnersGuide/Programmers).
@@ -34,16 +43,6 @@ VS Code on todella tehokas ja monipuolinen työkalu, jolla alkuun pääseminen v
 * [Visual Studio Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks).
 
 
-## Videotallenteet
-
-### Haaga-Helian luentotallenteet
-
-Haaga-Helian online-muodossa pidetyistä tapaamisista tehdään pääsääntöisesti tallenteet, jotka löytyvät heti tapaamisen jälkeen kurssin Teams-kanavalta.
-
-### Helsingin yliopiston luentotallenteet
-
-Helsingin yliopiston luentotallenteet löytyvät [mooc.fi:stä](https://ohjelmointi-26.mooc.fi/#luentotallenteet), jossa eri aiheiden YouTube-videot on koottu yhteen. Luentojen kalvot löytyvät Google docsista.
-
-### Muut oppimateriaalit
+## Muut oppimateriaalit
 
 Lisäksi löydät erinomaisia [Python-videoita YouTubesta](https://www.youtube.com/results?search_query=python), esim. [Harvardin CS50-kurssin soittolistalta](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V).

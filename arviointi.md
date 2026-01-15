@@ -24,7 +24,7 @@ Opintojakson arviointi perustuu seuraaviin tekijöihin:
 * Näiden rajojen väliin jäävät arvosanat määräytyvät lineaarisesti: mitä enemmän pisteitä saat, sitä korkeampi arvosana.
 * Koearvosanaa ei pyöristetä, eli jokaisella saamallasi pisteellä on merkitystä kurssin loppuarvioinnissa.
 
-Jokainen prosenttiyksikkö yli minimin (40 %) lisää arvosanaa tasaisesti. Arvosanojen välinen skaala on 4 (arvosanat 1–5) ja 60 % pisteistä jaetaan tasaisesti tälle skaalalle. Tämä tarkoittaa, että jokainen prosenttiyksikkö vastaa arvosanan nousua noin 0,0666666667.
+Jokainen prosenttiyksikkö yli minimin (40 %) lisää arvosanaa tasaisesti. Arvosanojen välinen vaihteluväli on 4 (arvosanat 1–5), ja minimipisteet ylittävä osuus (60 % pisteistä) jaetaan tasaisesti tälle välille. Tämä tarkoittaa, että jokainen prosenttiyksikkö vastaa arvosanan nousua noin 0,0666666667 yksikön verran.
 
 Pythonilla arvosanan voi laskea seuraavasti:
 
@@ -41,7 +41,7 @@ koearvosana = 1 + (omat_pisteet_prosentteina - 40) * 0.0666666667
 * Näiden rajojen väliin jäävät arvosanat määräytyvät lineaarisesti: mitä enemmän pisteitä saat, sitä korkeampi arvosana.
 * Helsingin yliopiston arvostelusta poiketen Haaga-Helian toteutuksella ei yksittäisiin osioihin liittyviä minimipistemääriä. Pisteitä ei siis tarkastella osiokohtaisesti, vaan 25 % kokonaisuudesta riittää.
 
-Jokainen prosenttiyksikkö yli minimin (25 %) lisää arvosanaa tasaisesti. Arvosanojen välinen skaala on 4 (arvosanat 1–5), ja 75 % pisteistä jaetaan tasaisesti tälle skaalalle. Tämä tarkoittaa, että jokainen prosenttiyksikkö vastaa arvosanan nousua noin 0,05333.
+Jokainen prosenttiyksikkö yli minimin (25 %) lisää arvosanaa tasaisesti. Hyväksyttyjen arvosanojen vaihteluväli on 4 (arvosanat 1–5), ja minimipisteet ylittävä osuus (75 % pisteistä) jaetaan tasaisesti tälle välille. Tämä tarkoittaa, että jokainen prosenttiyksikkö vastaa arvosanan nousua noin 0,05333 yksikön verran.
 
 Pythonilla arvosanan voi laskea seuraavasti:
 

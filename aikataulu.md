@@ -1,5 +1,5 @@
 ---
-title: 📅 Aikataulu
+title: 📅 Aiheet ja aikataulu
 layout: default
 nav_order: 1
 ---

@@ -1,7 +1,7 @@
 ---
 title: 📥 Ohjelmointitehtävät
 layout: default
-nav_order: 4
+nav_order: 5
 ---
 
 # Kurssin ohjelmointitehtävät
@@ -17,40 +17,6 @@ Tehtävillä ei ole erillisiä määräaikoja, vaan arvioinnissa huomioidaan ne 
 
 ---
 
-## Mooc.fi ja TestMyCode (TMC)
-
-Kurssin harjoitusten suorittamiseksi sinun tulee rekisteröityä Helsingin yliopiston [TestMyCode-järjestelmään (https://tmc.mooc.fi/)](https://tmc.mooc.fi/), joka huolehtii tehtävien automaattisesta tarkastamisesta ja pitää kirjaa saamistasi tehtäväpisteistä. Jos olet jo aikaisemmin rekisteröitynyt mooc.fi:n kursseille, voit käyttää olemassa olevaa käyttäjätunnustasi.
-
-Käyttämälläsi sähköpostiosoitteella ei ole merkitystä, eli voit käyttää joko Haaga-Helian sähköpostiosoitettasi tai muuta osoitettasi.
-
-{: .huom }
-**Vaikka kurssilla hyödynnetään mooc.fi-sivuston tehtäviä, ei niitä voida palauttaa suoraan mooc.fi-sivustolle.** Mooc.fi-sivustolle mahdollisesti lähettämäsi ratkaisut eivät tallennu Haaga-Helian vaan Helsingin yliopiston rekisteriin.
-
-Tehtävien palauttamisessa mooc-sivuston sijasta [**VS Code:n TMC-laajennosta**](/tehtavat/#testmycode-laajennos). Laajennoksen kautta käytössäsi on samat tehtävät ja niille suoritetaan samat testit kuin mooc-sivustolla.
-
-TMC-laajennoksessa Haaga-Helian toteutuksen valinta onnistuu [tämän ohjesivun mukaisesti](/tehtavat/#testmycode-laajennos). Tehtävänannot löytyvät mooc.fi-sivustolta: [https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/](https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/).
-
-
-## TestMyCode-laajennos
-
-Tehtävien ratkaisut palautetaan VS Code:n TestMyCode (TMC) -laajennuksen avulla. Helsingin yliopiston ohjeista poiketen Haaga-Helian kurssilla tehtäviä **ei voi palauttaa mooc.fi-sivuston kautta**.
-
-TMC-laajennoksen on kehittänyt Helsingin yliopiston Agile Education Research (RAGE) -tutkimusryhmä ja löydät sen lisenssi- ja tietosuojatiedot [GitHubista](https://github.com/rage/tmc-vscode) sekä [VS Code:n marketplace:sta](https://marketplace.visualstudio.com/items?itemName=moocfi.test-my-code).
-
-> *"This extension provides TestMyCode integration for Visual Studio Code. Students can download, complete and submit course exercises directly from the editor."*
->
-> [https://github.com/rage/tmc-vscode/](https://github.com/rage/tmc-vscode/), [https://marketplace.visualstudio.com/items?itemName=moocfi.test-my-code](https://marketplace.visualstudio.com/items?itemName=moocfi.test-my-code)
-
-
-Lue Mooc.fi:n ohjeesta kohdat ["TestMyCode -laajennuksen asentaminen VS Codeen"](https://www.mooc.fi/fi/installation/vscode/#TestMyCode-asentaminen) sekä ["ohjelmoinnin aloittaminen"](https://www.mooc.fi/fi/installation/vscode/#ohjelmoinnin-aloittaminen).
-
-Varmista lisäksi, että liityt myös VS Codessa oikealle kurssille tämän kuvan mukaisesti:
-
-![Valitse Haaga-Helian kurssitoteutus](/img/kurssin-valinta-tmc.png)
-
-{: .huom }
-Haaga-Helian kurssin valitseminen on erittäin tärkeää, koska vain silloin näemme suorituksesi tällä kurssilla.
-
 
 ## Kyselyt ja kertauskyselyt
 
@@ -62,6 +28,11 @@ Tämän kurssin tehtävät koostuvat ainoastaan mooc.fi:n **ohjelmointitehtävis
 Kurssin läpäisemiseksi tehtäväpisteistä tulee olla suoritettuna kurssin päättyessä vähintään 25 %. Helsingin yliopiston arvostelusta poiketen Haaga-Helian toteutuksella ei yksittäisiin osioihin liittyviä minimipistemääriä. Pisteitä ei siis tarkastella osiokohtaisesti, vaan 25 % kokonaisuudesta riittää.
 
 Tehtävien tarkemmat arviointiperusteet on esitetty [arviointi](/arviointi/)-sivulla.
+
+
+## Tehtävänannot ja tehtävien palauttaminen
+
+Tehtävänannot löytyvät mooc.fi-sivustolta: [https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/](https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/). Tehtäviä ei kuitenkaan palauteta mooc-sivustolle, vaan [**VS Code:n TMC-laajennoksesta**](/tehtavat/#testmycode-laajennos). Lue tarkemmat ohjeet [työkalut](/tyokalut/)-sivulta.
 
 
 ## Tehtävien pelisäännöt
