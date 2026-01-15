@@ -59,9 +59,9 @@ Käyttämälläsi sähköpostiosoitteella ei ole merkitystä, eli voit käyttä�
 {: .huom }
 **Vaikka kurssilla hyödynnetään mooc.fi-sivuston tehtäviä, ei niitä voida palauttaa suoraan mooc.fi-sivustolle.** Mooc.fi-sivustolle mahdollisesti lähettämäsi ratkaisut eivät tallennu Haaga-Helian vaan Helsingin yliopiston rekisteriin.
 
-Tehtävien palauttamisessa mooc-sivuston sijasta [**VS Code:n TMC-laajennosta**](/tehtavat/#testmycode-laajennos). Laajennoksen kautta käytössäsi on samat tehtävät ja niille suoritetaan samat testit kuin mooc-sivustolla.
+Tehtävien palauttamisessa mooc-sivuston sijasta **VS Code:n TMC-laajennosta**. Laajennoksen kautta käytössäsi on samat tehtävät ja niille suoritetaan samat testit kuin mooc-sivustolla.
 
-TMC-laajennoksessa Haaga-Helian toteutuksen valinta onnistuu [tämän ohjesivun mukaisesti](/tehtavat/#testmycode-laajennos). Tehtävänannot löytyvät mooc.fi-sivustolta: [https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/](https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/).
+TMC-laajennoksessa Haaga-Helian toteutuksen valinta onnistuu [tämän ohjeen mukaisesti](#testmycode-laajennos). Tehtävänannot löytyvät puolestaan mooc.fi-sivustolta: [https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/](https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/).
 
 
 ### TestMyCode-laajennos

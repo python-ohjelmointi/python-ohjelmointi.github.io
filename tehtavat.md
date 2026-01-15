@@ -32,7 +32,7 @@ Tehtävien tarkemmat arviointiperusteet on esitetty [arviointi](/arviointi/)-siv
 
 ## Tehtävänannot ja tehtävien palauttaminen
 
-Tehtävänannot löytyvät mooc.fi-sivustolta: [https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/](https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/). Tehtäviä ei kuitenkaan palauteta mooc-sivustolle, vaan [**VS Code:n TMC-laajennoksesta**](/tehtavat/#testmycode-laajennos). Lue tarkemmat ohjeet [työkalut](/tyokalut/)-sivulta.
+Tehtävänannot löytyvät mooc.fi-sivustolta: [https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/](https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/). Tehtäviä ei kuitenkaan palauteta mooc-sivustolle, vaan [**VS Code:n TMC-laajennoksesta**](/tyokalut/#testmycode-laajennos). Lue tarkemmat ohjeet [työkalut](/tyokalut/)-sivulta.
 
 
 ## Tehtävien pelisäännöt
