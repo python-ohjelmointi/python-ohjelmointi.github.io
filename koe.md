@@ -38,9 +38,9 @@ Hyväksyttyyn suoritukseen eli arvosanaan kokeessa edellytetään vähintään 4
 Tarkempi kuvaus laskukaavasta löytyy [arviointi-sivulta](/arviointi/#kokeen-arviointi).
 
 
-## Kokeen tehtävät ja luova ongelmanratkaisu
+## Kokeen tehtävät ja harjoituskoe
 
-Kokeen tehtävät vastaavat tyyliltään kurssin tavanomaisia ohjelmointitehtäviä. Tehtävänannot sisältävät esimerkkisuorituksia sekä automaattisia doctest-testejä, joiden avulla voit kokeilla ratkaisujesi toimivuutta. Esimerkkejä tehtävänannoista sekä doctest-testeistä' löydät [harjoituskokeesta](https://github.com/python-ohjelmointi/harjoituskoe).
+Kokeen tehtävät vastaavat tyyliltään kurssin tavanomaisia ohjelmointitehtäviä. Tehtävänannot sisältävät esimerkkisuorituksia sekä automaattisia doctest-testejä, joiden avulla voit kokeilla ratkaisujesi toimivuutta. Esimerkkejä tehtävänannoista sekä doctest-testeistä löydät [harjoituskokeesta](https://github.com/python-ohjelmointi/harjoituskoe).
 
 Moniin tehtäviin löytyy lukuisia erilaisia ratkaisutapoja. Ennen tehtävän ratkaisua pohdi, voidaanko se ratkaista esimerkiksi listoilla, sanakirjoilla tai kenties jopa ilman kokoelmaa. Jos ratkaisusi kasvaa sadan rivin pituiseksi, löytyisi tehtävään todennäköisesti myös helpompi ratkaisutapa.
 
