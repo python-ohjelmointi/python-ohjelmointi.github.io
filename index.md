@@ -34,7 +34,12 @@ Tätä samaa kurssisivustoa hyödynnetään useilla toteutuksilla, joilla on yht
 
 ## Kokeet ja uusintakokeet
 
-Seuraava koe järjestetään *kampuksella* **luokassa 1001 ma 11.5.2026 klo 11-13:30**. Tarkemmat tiedot kokeeseen liittyen löydät erilliseltä [kokeet-sivulta](./koe/) sekä Teamsista kokeen lähestyessä.
+Kevään 2026 kokeet järjestetään *kampuksella* luokassa 1001 seuraavasti:
+
+* ma 23.3.2026 klo 11-13.30 *(extra-koe nopeille)*
+* ma 11.5.2026 klo 11-13:30 *(varsinainen loppukoe)*
+
+Tarkemmat tiedot kokeeseen liittyen löydät erilliseltä [kokeet-sivulta](./koe/) sekä Teamsista kokeen lähestyessä.
 
 Oman lukukauden kokeeseen ei tarvitse erikseen ilmoittautua. Jos olet uusimassa koetta, ilmoita tulostasi aikaisemman toteutuksesi opettajalle kaksi viikkoa ennen koetta sähköpostitse.
 
