@@ -39,19 +39,24 @@ Kevään 2026 kokeet järjestetään *kampuksella* luokassa 1001 seuraavasti:
 * ma 23.3.2026 klo 11-13.30 *(extra-koe nopeille)*
 * ma 11.5.2026 klo 11-13:30 *(varsinainen loppukoe)*
 
+
+Kesän 2026 koe järjestetään *itsepalveluperiaatteella*. Koeaika on sama 2,5 tuntia kuin muissa kokeissa, mutta voit suorittaa kokeen valitsemanasi ajankohtana kokeen voimassaoloaikana:
+
+* pe 14.8.2026 klo 8-21 *(koeaika 2,5 tuntia)*
+
 Tarkemmat tiedot kokeeseen liittyen löydät erilliseltä [kokeet-sivulta](./koe/) sekä Teamsista kokeen lähestyessä.
 
 Oman lukukauden kokeeseen ei tarvitse erikseen ilmoittautua. Jos olet uusimassa koetta, ilmoita tulostasi aikaisemman toteutuksesi opettajalle kaksi viikkoa ennen koetta sähköpostitse.
 
 
-## Syksyn 2025 toteutukset *SOF004AS2A-3025* ja *3031* (18.8.2025 - 12.12.2025)
-
-Syksyn toteutukset järjestetään contact blended -muodossa. Voit halutessasi osallistua kurssin tapaamisiin tai opiskella itsenäisesti. Oppituntien lisäksi saatavillasi on videoita sekä tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista.
-
-
 ## Kevään 2026 toteutukset *SOF004AS2A-3026* ja *3027* (12.1.2026 - 15.5.2026)
 
-Kevään toteutukset järjestetään contact blended -muodossa. Voit halutessasi osallistua kurssin tapaamisiin tai opiskella itsenäisesti. Oppituntien lisäksi saatavillasi on videoita sekä tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista.
+Kevään toteutukset järjestetään [contact blended -muodossa](https://www.haaga-helia.fi/fi/toteutustavat). Voit halutessasi osallistua kurssin tapaamisiin tai opiskella itsenäisesti. Oppituntien lisäksi saatavillasi on videoita sekä tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista.
+
+
+## Kesän 2026 toteutus *SOF004AS2A-3028* (18.5.2026 - 14.8.2026 )
+
+Kesän toteutus järjestetään [virtual-muodossa](https://www.haaga-helia.fi/fi/toteutustavat). Toteutuksella ei ole lukujärjestykseen merkittyä opetusta eikä muita tapaamisia. Opiskelijat voivat olla yhteydessä toisiinsa ja toteutuksen opettajaan Teams-ryhmän kautta. Saatavillasi on videoita sekä tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista.
 
 
 ## ✔️ Kurssin osallistumisen vahvistaminen
@@ -90,7 +95,8 @@ Tämä kurssi:
     * [kevät 2023](https://github.com/python-ohjelmointi/esimerkit-k23/)
     * [syksy 2023](https://github.com/python-ohjelmointi/esimerkit-s23/)
     * [syksy 2024](https://github.com/python-ohjelmointi/esimerkit-s24/)
-    * [syksy 2025](https://github.com/python-ohjelmointi/esimerkit-s25)
+    * [syksy 2025](https://github.com/python-ohjelmointi/esimerkit-s25/)
+    * [kevät 2026](https://github.com/python-ohjelmointi/esimerkit-k26/)
 
 Mooc.fi:
 
