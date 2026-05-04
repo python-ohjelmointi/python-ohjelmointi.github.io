@@ -34,19 +34,22 @@ Tätä samaa kurssisivustoa hyödynnetään useilla toteutuksilla, joilla on yht
 
 ## Kokeet ja uusintakokeet
 
+Tarkemmat tiedot kokeeseen liittyen löydät erilliseltä [kokeet-sivulta](./koe/) sekä Teamsista kokeen lähestyessä.
+
+Oman lukukauden kokeeseen ei tarvitse erikseen ilmoittautua. Jos olet uusimassa koetta, ilmoita tulostasi aikaisemman toteutuksesi opettajalle kaksi viikkoa ennen koetta sähköpostitse.
+
+### Kevät 2026
+
 Kevään 2026 kokeet järjestetään *kampuksella* luokassa 1001 seuraavasti:
 
 * ma 23.3.2026 klo 11-13.30 *(extra-koe nopeille)*
 * ma 11.5.2026 klo 11-13:30 *(varsinainen loppukoe)*
 
+### Kesä 2026
 
 Kesän 2026 koe järjestetään *itsepalveluperiaatteella*. Koeaika on sama 2,5 tuntia kuin muissa kokeissa, mutta voit suorittaa kokeen valitsemanasi ajankohtana kokeen voimassaoloaikana:
 
 * pe 14.8.2026 klo 8-21 *(koeaika 2,5 tuntia)*
-
-Tarkemmat tiedot kokeeseen liittyen löydät erilliseltä [kokeet-sivulta](./koe/) sekä Teamsista kokeen lähestyessä.
-
-Oman lukukauden kokeeseen ei tarvitse erikseen ilmoittautua. Jos olet uusimassa koetta, ilmoita tulostasi aikaisemman toteutuksesi opettajalle kaksi viikkoa ennen koetta sähköpostitse.
 
 
 ## Kevään 2026 toteutukset *SOF004AS2A-3026* ja *3027* (12.1.2026 - 15.5.2026)
