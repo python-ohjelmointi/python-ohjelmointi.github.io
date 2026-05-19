@@ -10,14 +10,14 @@ nav_order: 0
 Tervetuloa Python-kurssille! Löydät tältä sivustolta tiedot kurssin tiedotukseen, tukikanaviin, tehtäviin ja muihin aiheisiin liittyen. Kurssilla hyödynnetään Helsingin yliopiston mooc-kurssin oppimateriaaleja ja tehtäviä, mutta meillä on mooc-kurssista poikkeavat [aikataulut](/aikataulu/), [käytännön järjestelyt](/tehtavat/), [kokeet](/koe/) sekä [arviointikriteerit](/arviointi/).
 {: .fs-5 }
 
-Kurssin opettajina toimivat Minna Pellikka, Teemu Havulinna, Heikki Raatikainen ja Kasper Valtakari. Kurssin yleisiä asioita koskien tavoitat opettajasi parhaiten kurssin Teams-kanavan kautta. Yksilöllisten viestien osalta käytä Teams-yksityisviestejä tai sähköpostia.
+Kurssin opettajina toimivat Minna Pellikka, Teemu Havulinna, Heikki Raatikainen ja Kasper Valtakari. Kurssin yleisiä asioita koskien tavoitat opettajasi parhaiten kurssin Teams-kanavan kautta. Yksilöllisten viestien osalta käytä Teams-yksityisviestejä tai sähköpostia ja tarkista ketkä opettajista ovat juuri omalla toteutuksellasi.
 {: .fs-5 }
 
 
 {: .important }
 > 📣 **Vaikka tällä opintojaksolla käytetään mooc.fi-sivustolla olevia tehtäviä, et voi palauttaa tehtäviä kyseisen sivuston kautta.** Mooc.fi-sivulle mahdollisesti lähettämäsi ratkaisut eivät tallennu Haaga-Helian vaan Helsingin yliopiston rekisteriin.
 >
-> Tehtävien palauttamisessa käytetään mooc-sivuston sijasta [**VS Code:n TMC-laajennosta**](/tyokalut/#moocfi-ja-testmycode-tmc). Laajennoksessa Haaga-Helian toteutuksen valinta onnistuu [tämän ohjesivun mukaisesti](/tyokalut/#moocfi-ja-testmycode-tmc). Tehtävänannot löytyvät mooc.fi-sivustolta: [https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/](https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/).
+> Tehtävien palauttamisessa käytetään mooc-sivuston sijasta [**VS Code:n TMC-laajennosta**](/tyokalut/#moocfi-ja-testmycode-tmc). Laajennoksessa Haaga-Helian toteutuksen valinta onnistuu [tämän ohjesivun mukaisesti](/tyokalut/#moocfi-ja-testmycode-tmc). Tehtävänannot löytyvät mooc.fi-sivustolta: https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/.
 
 ---
 
@@ -38,28 +38,25 @@ Tarkemmat tiedot kokeeseen liittyen löydät erilliseltä [kokeet-sivulta](./koe
 
 Oman lukukauden kokeeseen ei tarvitse erikseen ilmoittautua. Jos olet uusimassa koetta, ilmoita tulostasi aikaisemman toteutuksesi opettajalle kaksi viikkoa ennen koetta sähköpostitse.
 
-### Kevät 2026
-
-Kevään 2026 kokeet järjestetään *kampuksella* luokassa 1001 seuraavasti:
-
-* ma 23.3.2026 klo 11-13.30 *(extra-koe nopeille)*
-* ma 11.5.2026 klo 11-13:30 *(varsinainen loppukoe)*
-
-### Kesä 2026
+### Kesän 2026 koe
 
 Kesän 2026 koe järjestetään *itsepalveluperiaatteella*. Koeaika on sama 2,5 tuntia kuin muissa kokeissa, mutta voit suorittaa kokeen valitsemanasi ajankohtana kokeen voimassaoloaikana:
 
 * pe 14.8.2026 klo 8-21 *(koeaika 2,5 tuntia)*
 
+### Syksy 2026 koe
 
-## Kevään 2026 toteutukset *SOF004AS2A-3026* ja *3027* (12.1.2026 - 15.5.2026)
-
-Kevään toteutukset järjestetään [contact blended -muodossa](https://www.haaga-helia.fi/fi/toteutustavat). Voit halutessasi osallistua kurssin tapaamisiin tai opiskella itsenäisesti. Oppituntien lisäksi saatavillasi on videoita sekä tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista.
+Syksyn 2026 koe järjestetään *kampuksella* ja sen päivämäärä sekä luokkatila päivitetään tähän elokuussa.
 
 
 ## Kesän 2026 toteutus *SOF004AS2A-3028* (18.5.2026 - 14.8.2026 )
 
 Kesän toteutus järjestetään [virtual-muodossa](https://www.haaga-helia.fi/fi/toteutustavat). Toteutuksella ei ole lukujärjestykseen merkittyä opetusta eikä muita tapaamisia. Opiskelijat voivat olla yhteydessä toisiinsa ja toteutuksen opettajaan Teams-ryhmän kautta. Saatavillasi on videoita sekä tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista.
+
+
+## Syksyn 2026 toteutukset *SOF004AS2A-3032* ja *3038* (17.8.2026 - 11.12.2026 )
+
+Syksyn toteutukset järjestetään [contact blended -muodossa](https://www.haaga-helia.fi/fi/toteutustavat). Voit halutessasi osallistua kurssin tapaamisiin tai opiskella itsenäisesti. Oppituntien lisäksi saatavillasi on videoita sekä tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista.
 
 
 ## ✔️ Kurssin osallistumisen vahvistaminen

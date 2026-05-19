@@ -9,6 +9,9 @@ nav_order: 4
 Kurssin suorittamiseksi tarvitset [Python 3 -ohjelmointiympäristön](https://www.python.org/downloads/) sekä [VS Code -koodieditorin](https://code.visualstudio.com/download).
 {: .fs-6 }
 
+Olemme valmistelleet myös valmiin GitHub codespace -ympäristön, joka sisältää Pythonin, Python-laajennokset sekä TMC:n esiasennettuina. Voit lukea tästä vaihtoehdosta lisää sivulta https://github.com/python-ohjelmointi/python-tmc-devcontainer.
+{: .fs-6 }
+
 ---
 
 ## Python 3
