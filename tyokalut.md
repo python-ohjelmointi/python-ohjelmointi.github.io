@@ -9,7 +9,7 @@ nav_order: 4
 Kurssin suorittamiseksi tarvitset [Python 3 -ohjelmointiympäristön](https://www.python.org/downloads/) sekä [VS Code -koodieditorin](https://code.visualstudio.com/download).
 {: .fs-6 }
 
-Olemme valmistelleet myös valmiin GitHub codespace -ympäristön, joka sisältää Pythonin, Python-laajennokset sekä TMC:n esiasennettuina. Voit lukea tästä vaihtoehdosta lisää sivulta https://github.com/python-ohjelmointi/python-tmc-devcontainer.
+Olemme valmistelleet myös valmiin GitHub codespace -ympäristön, joka sisältää Pythonin, Python-laajennokset sekä TMC:n esiasennettuina. Voit lukea tästä vaihtoehdosta lisää sivulta <https://github.com/python-ohjelmointi/python-tmc-devcontainer>.
 {: .fs-6 }
 
 ---
@@ -20,7 +20,7 @@ Asenna itsellesi Python 3 -ohjelmointiympäristö Pythonin omalta kotisivulta [h
 
 Käyttöjärjestelmästä riippuen sinulla voi olla myös pakettienhallintaohjelma tai sovelluskauppa, jonka avulla voit asentaa Pythonin.
 
-Käyttöjärjestelmässäsi saattaa olla valmiiksi asennettuna Pythonin vanhempi versio. Voit käyttää myös vanhempia versioita, kunhan ne ovat edelleen Python Software Foundationin tukemia: [https://devguide.python.org/versions/#versions](https://devguide.python.org/versions/#versions).
+Käyttöjärjestelmässäsi saattaa olla valmiiksi asennettuna Pythonin vanhempi versio. Voit käyttää myös vanhempia versioita, kunhan ne ovat edelleen Python Software Foundationin tukemia: <https://devguide.python.org/versions/#versions>.
 
 
 ### Järjestelmän PATH-ympäristömuuttuja
@@ -30,7 +30,7 @@ Suosittelemme asentamaan Pythonin niin, että sen asennushakemisto lisätään k
 {: .highlight }
 > *"PATH is an environment variable on Unix-like operating systems, DOS, OS/2, and Microsoft Windows, specifying a set of directories where executable programs are located. In general, each executing process or user session has its own PATH setting."*
 >
-> [https://en.wikipedia.org/wiki/PATH_(variable)](https://en.wikipedia.org/wiki/PATH_(variable))
+> <https://en.wikipedia.org/wiki/PATH_(variable)>
 
 Windows-asennusohjelmassa PATH-muuttujan asettaminen onnistuu yksinkertaisesti lisäämällä rasti asennusohjelmassa ruutuun "Add python.exe to PATH":
 

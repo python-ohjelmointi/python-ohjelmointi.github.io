@@ -17,7 +17,7 @@ Kurssin opettajina toimivat Minna Pellikka, Teemu Havulinna, Heikki Raatikainen 
 {: .important }
 > 📣 **Vaikka tällä opintojaksolla käytetään mooc.fi-sivustolla olevia tehtäviä, et voi palauttaa tehtäviä kyseisen sivuston kautta.** Mooc.fi-sivulle mahdollisesti lähettämäsi ratkaisut eivät tallennu Haaga-Helian vaan Helsingin yliopiston rekisteriin.
 >
-> Tehtävien palauttamisessa käytetään mooc-sivuston sijasta [**VS Code:n TMC-laajennosta**](/tyokalut/#moocfi-ja-testmycode-tmc). Laajennoksessa Haaga-Helian toteutuksen valinta onnistuu [tämän ohjesivun mukaisesti](/tyokalut/#moocfi-ja-testmycode-tmc). Tehtävänannot löytyvät mooc.fi-sivustolta: https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/.
+> Tehtävien palauttamisessa käytetään mooc-sivuston sijasta [**VS Code:n TMC-laajennosta**](/tyokalut/#moocfi-ja-testmycode-tmc). Laajennoksessa Haaga-Helian toteutuksen valinta onnistuu [tämän ohjesivun mukaisesti](/tyokalut/#moocfi-ja-testmycode-tmc). Tehtävänannot löytyvät mooc.fi-sivustolta: <https://ohjelmointi-26.mooc.fi/kaikki-tehtavat/>.
 
 ---
 
