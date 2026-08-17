@@ -38,20 +38,21 @@ Tarkemmat tiedot kokeeseen liittyen löydät erilliseltä [kokeet-sivulta](./koe
 
 Oman lukukauden kokeeseen ei tarvitse erikseen ilmoittautua. Jos olet uusimassa koetta, ilmoita tulostasi aikaisemman toteutuksesi opettajalle kaksi viikkoa ennen koetta sähköpostitse.
 
-### Kesän 2026 koe
+<!--### Kesän 2026 koe
 
 Kesän 2026 koe järjestetään *itsepalveluperiaatteella*. Koeaika on sama 2,5 tuntia kuin muissa kokeissa, mutta voit suorittaa kokeen valitsemanasi ajankohtana kokeen voimassaoloaikana:
 
-* pe 14.8.2026 klo 8-21 *(koeaika 2,5 tuntia)*
+* pe 14.8.2026 klo 8-21 *(koeaika 2,5 tuntia)*-->
 
 ### Syksy 2026 koe
 
-Syksyn 2026 koe järjestetään *kampuksella* ja sen päivämäärä sekä luokkatila päivitetään tähän elokuussa.
+Syksyn 2026 koe järjestetään *kampuksella* luokassa 3012.
 
+* ti 1.12.2026 klo 14-16:30 *(koeaika 2,5 tuntia)*
 
-## Kesän 2026 toteutus *SOF004AS2A-3028* (18.5.2026 - 14.8.2026 )
+<!--## Kesän 2026 toteutus *SOF004AS2A-3028* (18.5.2026 - 14.8.2026 )
 
-Kesän toteutus järjestetään [virtual-muodossa](https://www.haaga-helia.fi/fi/toteutustavat). Toteutuksella ei ole lukujärjestykseen merkittyä opetusta eikä muita tapaamisia. Opiskelijat voivat olla yhteydessä toisiinsa ja toteutuksen opettajaan Teams-ryhmän kautta. Saatavillasi on videoita sekä tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista.
+Kesän toteutus järjestetään [virtual-muodossa](https://www.haaga-helia.fi/fi/toteutustavat). Toteutuksella ei ole lukujärjestykseen merkittyä opetusta eikä muita tapaamisia. Opiskelijat voivat olla yhteydessä toisiinsa ja toteutuksen opettajaan Teams-ryhmän kautta. Saatavillasi on videoita sekä tekstimuotoista oppimateriaalia niin kurssin puolesta kuin netin avoimista oppimateriaaleista.-->
 
 
 ## Syksyn 2026 toteutukset *SOF004AS2A-3032* ja *3038* (17.8.2026 - 11.12.2026 )
