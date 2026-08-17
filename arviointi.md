@@ -60,5 +60,5 @@ Näet omat ohjelmointitehtävien pisteesi TMC-palvelusta kirjautumalla TMC-tunnu
 
 ### Ohjelmointitehtävien DL
 
-Mooc.fi:n eri osioiden tehtävillä ei ole tällä kurssilla erillisiä määräaikoja, vaan kaikkien tehtävien yhteinen DL on kurssin lopussa.
+Mooc.fi:n eri osioiden tehtävillä ei ole tällä kurssilla erillisiä määräaikoja, vaan kaikkien tehtävien yhteinen DL on kurssin lopussa. Tarkasta tarkka päivämäärä oman toteutuksesi Moodlesta.
 

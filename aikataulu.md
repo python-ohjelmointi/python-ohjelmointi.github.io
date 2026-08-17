@@ -197,4 +197,4 @@ Jätäthän kurssista vielä [opintojaksopalautetta!](https://mynet.haaga-helia.
 
 ## Ohjelmointitehtävien DL
 
-📣 Huom! Ohjelmointitehtävien (TMC/mooc) deadline on kurssin päättymispäivänä klo 23:59.
+Tarkasta ohjelmointitehtävien aikataulu oman toteutuksesi Moodlesta.
